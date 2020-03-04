@@ -52,3 +52,4 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Unreal Fest Europe](https://www.unrealengine.com/en-US/events/unreal-fest-europe-2020): cancelled
 - [Facebook F8](https://developers.facebook.com/blog/post/2020/02/27/important-f8-2020-update/): Moving to a primarily online event
 - [Internet Freedom Summit](https://internetfreedomfestival.org/wiki/index.php/Cancellation_of_the_2020_Internet_Freedom_Festival): cancelled
+- [WSLConf](https://www.wslconf.dev/): going online-only
