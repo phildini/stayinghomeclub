@@ -21,3 +21,5 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Adobe Summit](https://twitter.com/AdobeSummit/status/1234627723831672832): online-only
 - [F8](https://developers.facebook.com/blog/post/2020/02/27/important-f8-2020-update/): online-only
 - [Microsoft MVP Summit](https://www.zdnet.com/article/microsoft-cancels-mvp-summit-due-to-covid-19-coronavirus-fears/): Cancelled
+- [Google I/O](https://events.google.com/io/): online-only
+- [Google Cloud Next](https://cloud.withgoogle.com/next/sf/): online-only
