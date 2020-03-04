@@ -17,6 +17,8 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 
 ## Events
 
+- [Google I/O](https://events.google.com/io/): online-only
+- [Google Cloud Next](https://cloud.withgoogle.com/next/sf/): online-only
 - [DevRelCon Tokyo](https://tokyo-2020.devrel.net/information/2020/02/13/devrelcon-tokyo-has-canceled_en.html): cancelled
 - [ZenDesk Relate](https://www.miamiherald.com/news/business/tourism-cruises/article240801336.html): cancelled
 - [Cisco Live Melbourne](https://www.ciscolive.com/apjc.html): Cancelled
@@ -40,10 +42,8 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): cancelled
 - [Oktane](https://www.oktane20.com/health-safety): cancelled
 - [APIdays Singapore](https://www.apidays.co/singapore): Postponed until August 19-20
-- [Google Next](https://www.businessinsider.com/google-cloud-cancels-next-conference-coronavirus-2020-3): Cancelation announcement came out on March 2.
 - [Security Analyst Summit](https://twitter.com/TheSAScon/status/1234911915773583361): cancelled
 - [DevOpsDays Tokyo](https://twitter.com/DevOpsDaysTokyo/status/1234433425114722308): cancelled
 - [Lesbians Who Tech](https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20): "postponed until August 6-8, 2020 pending developments"
 - [Unreal Fest Europe](https://www.unrealengine.com/en-US/events/unreal-fest-europe-2020): cancelled
 - [Facebook F8](https://developers.facebook.com/blog/post/2020/02/27/important-f8-2020-update/): Moving to a primarily online event
-- [Google I/O](https://techcrunch.com/2020/03/03/google-cancels-its-2020-i-o-developer-conference/): cancelled
