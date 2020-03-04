@@ -51,3 +51,4 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Lesbians Who Tech](https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20): "postponed until August 6-8, 2020 pending developments"
 - [Unreal Fest Europe](https://www.unrealengine.com/en-US/events/unreal-fest-europe-2020): cancelled
 - [Facebook F8](https://developers.facebook.com/blog/post/2020/02/27/important-f8-2020-update/): Moving to a primarily online event
+- [Internet Freedom Summit](https://internetfreedomfestival.org/wiki/index.php/Cancellation_of_the_2020_Internet_Freedom_Festival): cancelled
