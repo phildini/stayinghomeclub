@@ -53,6 +53,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [SNUG Silicon Valley](https://www.synopsys.com/community/snug/snug-silicon-valley.html): cancelled
 - [Security Analyst Summit](https://twitter.com/TheSAScon/status/1234911915773583361): cancelled
 - [Strata Data & AI](https://conferences.oreilly.com/strata-data-ai/stai-ca): Merged with NY in September
+- [TED](https://www.axios.com/scoop-coronavirus-forces-ted-conference-to-delay-or-go-digital-731109d7-8178-49b4-8a16-321f14affe1f.html): post-poning or going online-only
 - [Unreal Fest Europe](https://www.unrealengine.com/en-US/events/unreal-fest-europe-2020): cancelled
 - [WSLConf](https://www.wslconf.dev/): going online-only
 - [ZenDesk Relate](https://www.miamiherald.com/news/business/tourism-cruises/article240801336.html): cancelled
