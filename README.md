@@ -17,6 +17,8 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 
 ## Events
 
+- [Blackhat Asia](https://www.blackhat.com/asia-20/travel-updates.html): postponed until fall
+- [RubyKaigi](https://rubykaigi.org/2020): postponed until September
 - [Google I/O](https://events.google.com/io/): online-only
 - [Google Cloud Next](https://cloud.withgoogle.com/next/sf/): online-only
 - [DevRelCon Tokyo](https://tokyo-2020.devrel.net/information/2020/02/13/devrelcon-tokyo-has-canceled_en.html): cancelled
