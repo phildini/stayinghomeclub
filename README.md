@@ -21,3 +21,6 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Adobe Summit](https://twitter.com/AdobeSummit/status/1234627723831672832): online-only
 - [F8](https://developers.facebook.com/blog/post/2020/02/27/important-f8-2020-update/): online-only
 - [Microsoft MVP Summit](https://www.zdnet.com/article/microsoft-cancels-mvp-summit-due-to-covid-19-coronavirus-fears/): Cancelled
+- [Mobile World Congress](https://www.gsma.com/newsroom/press-release/gsma-statement-on-mwc-barcelona-2020/): Cancelled
+- [Blackhat Asia](https://www.blackhat.com/asia-20/travel-updates.html): postponed until fall
+- [RubyKaigi](https://rubykaigi.org/2020): postponed until September
