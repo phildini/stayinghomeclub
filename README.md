@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Who's staying home because of COVID-19?
 
-You can use the [editor on GitHub](https://github.com/phildini/stayinghomeclub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Companies
+Company | WFH | Travel | Visitors | Events
+--- | --- | --- | --- | ---
+Apple | ? | Restricted | ? | ?
+[Twitter](https://blog.twitter.com/en_us/topics/company/2020/keeping-our-employees-and-partners-safe-during-coronavirus.html) | Enforced | Restricted | Restricted | Restricted
+[Square](https://twitter.com/zamosta/status/1234658276781912064) | Encouraged | Restricted | Restricted | Restricted
+[Salesforce](https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html) | ? | Restricted | ? | ?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/phildini/stayinghomeclub/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Events
+GDC - postponed until summer
+[Adobe Summit](https://twitter.com/AdobeSummit/status/1234627723831672832) - online-only
+[F8](https://developers.facebook.com/blog/post/2020/02/27/important-f8-2020-update/) - online-only
