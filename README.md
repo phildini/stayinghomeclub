@@ -16,6 +16,8 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | [Coinbase](https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/edit) | Encouraged | ? | ? | ? | 2020-03-03 |
 | [Stripe](https://stripe.com/newsroom/news/covid-19) | Encouraging, Enforcing some | Restricted | Restricted | ? |2020-02-29 |
 | [Indeed](https://www.kvue.com/article/news/health/indeed-coronavirus-work-from-home/269-79c7797f-4d60-41df-bd9b-8b6bc25d9f3f) | Enforced | Restricted | Restricted | Restricted |2020-03-04 |
+| Cisco | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
+| [Fastly](https://www.fastly.com/blog/exercising-caution-as-covid-19-evolves) | Required | Restricted | Restricted | Restricted | 2020-03-01 |
 
 ## Events
 
@@ -52,3 +54,4 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Facebook F8](https://developers.facebook.com/blog/post/2020/02/27/important-f8-2020-update/): Moving to a primarily online event
 - [Internet Freedom Summit](https://internetfreedomfestival.org/wiki/index.php/Cancellation_of_the_2020_Internet_Freedom_Festival): cancelled
 - [WSLConf](https://www.wslconf.dev/): going online-only
+- [SNUG Silicon Valley](https://www.synopsys.com/community/snug/snug-silicon-valley.html): cancelled
