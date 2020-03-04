@@ -18,6 +18,9 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | [Indeed](https://www.kvue.com/article/news/health/indeed-coronavirus-work-from-home/269-79c7797f-4d60-41df-bd9b-8b6bc25d9f3f) | Enforced | Restricted | Restricted | Restricted |2020-03-04 |
 | Cisco | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
 | [Fastly](https://www.fastly.com/blog/exercising-caution-as-covid-19-evolves) | Required | Restricted | Restricted | Restricted | 2020-03-01 |
+| [Microsoft](https://www.theverge.com/2020/3/4/21164522/microsoft-coronavirus-response-comment-employees-memo-work-from-home) | Limited / Geo-specific | ? | ? | ? | 2020-03-03 |
+
+
 
 ## Events
 
