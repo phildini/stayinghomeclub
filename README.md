@@ -29,7 +29,6 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Microsoft Ignite the Tour Singapore](https://www.microsoft.com/en-sg/ignite-the-tour/singapore): cancelled
 - [Mobile World Congress](https://www.mwcbarcelona.com/gsma-statement-on-mwc-2020/): cancelled
 - [DevRelCon Tokyo](https://tokyo-2020.devrel.net/information/2020/02/13/devrelcon-tokyo-has-canceled_en.html): cancelled
-- [ZenDesk Relate](https://www.miamiherald.com/news/business/tourism-cruises/article240801336.html): cancelled
 - [Cisco Live Melbourne](https://www.ciscolive.com/apjc.html): cancelled
 - [Microsoft Ignite the Tour](https://www.microsoft.com/de-ch/ignite-the-tour/zurich): cancelled
 - [Dreamforce World Tour (Sydney)](https://www.arnnet.com.au/article/671175/salesforce-world-tour-sydney-goes-digital-amid-coronavirus-fears/): cancelled
