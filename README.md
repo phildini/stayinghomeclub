@@ -2,29 +2,32 @@
 
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
-## Companies
+## Companies - 18
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- | 
-| [Amazon](https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020#amazon-told-business-insider-that-its-restricting-travel-to-and-from-china-until-further-notice-those-who-must-travel-have-to-work-from-home-for-two-weeks-after-their-trip-1) | ? | Restricted | ? | ? | 2020-03-03 |
+| [Amazon](https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020) | Encouraged, Recommended for Seattle to 3/31 | Restricted | ? | ? | 2020-03-04 |
 | Apple | ? | Restricted | ? | ? | 2020-03-03 |
 | Cisco | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
 | [Coinbase](https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/edit) | Encouraged | ? | ? | ? | 2020-03-03 |
+| eBay | ? | Restricted | ? | Restricted | 2020-03-04 |
 | [Facebook](https://www.geekwire.com/2020/facebook-contractor-seattle-tests-positive-coronavirus-company-closes-office/) | Limited / Geo-specific | Restricted | Restricted | Restricted | 2020-03-04 |
 | [Fastly](https://www.fastly.com/blog/exercising-caution-as-covid-19-evolves) | Required | Restricted | Restricted | Restricted | 2020-03-01 |
 | GitHub | ? | Restricted | ? | ? | 2020-03-03 |
 | [Google](https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent) | Limited / Geo-specific | Restricted | ? | ? | 2020-03-03 |
-| [Indeed](https://www.kvue.com/article/news/health/indeed-coronavirus-work-from-home/269-79c7797f-4d60-41df-bd9b-8b6bc25d9f3f) | Enforced | Restricted | Restricted | Restricted |2020-03-04 |
+| [Indeed](https://www.kvue.com/article/news/health/indeed-coronavirus-work-from-home/269-79c7797f-4d60-41df-bd9b-8b6bc25d9f3f) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
+| Lyft | Encouraged | ? | ? | ? | 2020-03-04 | 
 | [Microsoft](https://www.theverge.com/2020/3/4/21164522/microsoft-coronavirus-response-comment-employees-memo-work-from-home) | Limited / Geo-specific | ? | ? | ? | 2020-03-03 |
 | [Redfin](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/) | Encouraged | ? | ? | ? | 2020-03-04 |
 | [Salesforce](https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
+| Slack | Encouraged, Required in JP | Restricted | ? | Restricted | 2020-03-04 |
 | [Square](https://twitter.com/zamosta/status/1234658276781912064) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
-| [Stripe](https://stripe.com/newsroom/news/covid-19) | Encouraging, Enforcing some | Restricted | Restricted | ? |2020-02-29 |
+| [Stripe](https://stripe.com/newsroom/news/covid-19) | Encouraged, some Required | Restricted | Restricted | ? |2020-02-29 |
 | [Textio](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/) | Encouraged | ? | ? | ? | 2020-03-04 |
-| [Twitter](https://blog.twitter.com/en_us/topics/company/2020/keeping-our-employees-and-partners-safe-during-coronavirus.html) | Enforced | Restricted | Restricted | Restricted | 2020-03-03 |
+| [Twitter](https://blog.twitter.com/en_us/topics/company/2020/keeping-our-employees-and-partners-safe-during-coronavirus.html) | Required | Restricted | Restricted | Restricted | 2020-03-03 |
 | Yelp | Encouraged | Restricted | ? | ? | 2020-03-03 |
 
-## Events
+## Events - 35
 
 - [APIdays Singapore](https://www.apidays.co/singapore): Postponed until August 19-20
 - [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/): cancelled
