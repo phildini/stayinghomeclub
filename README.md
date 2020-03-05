@@ -13,7 +13,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | eBay | ? | Restricted | ? | Restricted | 2020-03-04 |
 | [Facebook](https://www.geekwire.com/2020/facebook-contractor-seattle-tests-positive-coronavirus-company-closes-office/) | Limited / Geo-specific | Restricted | Restricted | Restricted | 2020-03-04 |
 | [Fastly](https://www.fastly.com/blog/exercising-caution-as-covid-19-evolves) | Required | Restricted | Restricted | Restricted | 2020-03-01 |
-| GitHub | ? | Restricted | ? | ? | 2020-03-03 |
+| GitHub | Encouraged | Restricted | ? | ? | 2020-03-04 |
 | [Google](https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent) | Limited / Geo-specific | Restricted | ? | ? | 2020-03-03 |
 | [Indeed](https://www.kvue.com/article/news/health/indeed-coronavirus-work-from-home/269-79c7797f-4d60-41df-bd9b-8b6bc25d9f3f) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
 | Lyft | Encouraged | ? | ? | ? | 2020-03-04 | 
