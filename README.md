@@ -79,3 +79,4 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Unreal Fest Europe](https://www.unrealengine.com/en-US/events/unreal-fest-europe-2020): cancelled
 - [WSLConf](https://www.wslconf.dev/): going online-only
 - [ZenDesk Relate](https://www.miamiherald.com/news/business/tourism-cruises/article240801336.html): cancelled
+- [Deconstruct](https://www.deconstructconf.com/): cancelled
