@@ -30,6 +30,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 ## Events - 35
 
 - [APIdays Singapore](https://www.apidays.co/singapore): Postponed until August 19-20
+- [Atlassian Summit](https://www.atlassian.com/company/events/summit): Moving to virtual.
 - [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/): cancelled
 - [AWS Summit Sydney](https://aws.amazon.com/events/summits/sydney/): cancelled
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): cancelled
@@ -58,6 +59,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Oktane](https://www.oktane20.com/health-safety): cancelled
 - [Oracle User Group Irelend (OUG Ireland)](https://twitter.com/MDWidlake/status/1234864869377216515): cancelled
 - [PyCon Italia](https://pycon.it/en/blog/pycon-11-postponed-to-november): moved to November
+- [Red Hat Summit](https://www.redhat.com/en/summit): Moving to virtual event.
 - [RubyKaigi](https://rubykaigi.org/2020): postponed until September
 - [SNUG Silicon Valley](https://www.synopsys.com/community/snug/snug-silicon-valley.html): cancelled
 - [Security Analyst Summit](https://twitter.com/TheSAScon/status/1234911915773583361): cancelled
