@@ -47,6 +47,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Google I/O](https://events.google.com/io/): online-only
 - [Google Tensoflow Dev Summit](https://www.tensorflow.org/dev-summit/): online-only
 - [Internet Freedom Summit](https://internetfreedomfestival.org/wiki/index.php/Cancellation_of_the_2020_Internet_Freedom_Festival): cancelled
+- [KubeCon EU 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/): postponed until July/August, 2020, dates pending
 - [Lesbians Who Tech](https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20): "postponed until August 6-8, 2020 pending developments"
 - [Microsoft Ignite The Tour Amsterdam](https://www.microsoft.com/nl-nl/ignite-the-tour/amsterdam): "Cancellation announced March 2, 2020"
 - [Microsoft Ignite the Tour Singapore](https://www.microsoft.com/en-sg/ignite-the-tour/singapore): cancelled
