@@ -2,7 +2,7 @@
 
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
-## Companies - 21
+## Companies - 23
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- | 
@@ -31,7 +31,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | [Typless](https://typless.com/2020/03/05/switching-to-fully-remote-work/) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
 | Yelp | Encouraged | Restricted | ? | ? | 2020-03-03 |
 
-## Events - 42
+## Events - 43
 
 - [APIdays Singapore](https://www.apidays.co/singapore): Postponed until August 19-20
 - [Atlassian Summit](https://www.atlassian.com/company/events/summit): Moving to virtual.
