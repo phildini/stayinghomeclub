@@ -2,7 +2,7 @@
 
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
-## Companies
+## Companies - 16
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- | 
@@ -24,7 +24,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | [Twitter](https://blog.twitter.com/en_us/topics/company/2020/keeping-our-employees-and-partners-safe-during-coronavirus.html) | Enforced | Restricted | Restricted | Restricted | 2020-03-03 |
 | Yelp | Encouraged | Restricted | ? | ? | 2020-03-03 |
 
-## Events
+## Events - 35
 
 - [APIdays Singapore](https://www.apidays.co/singapore): Postponed until August 19-20
 - [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/): cancelled
