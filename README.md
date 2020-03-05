@@ -66,7 +66,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Microsoft MVP Summit](https://www.geekwire.com/2020/microsoft-cancels-mvp-summit-due-coronavirus-outbreak-seattle-area/): cancelled
 - [Mobile World Congress](https://www.mwcbarcelona.com/gsma-statement-on-mwc-2020/): cancelled
 - [NVidia GPU Conference](https://www.theverge.com/2020/3/2/21161635/nvidias-gpu-technology-conference-gtc-online-only-coronavirus): online-only
-- [Oktane](https://www.oktane20.com/health-safety): cancelled
+- [Oktane](https://www.oktane20.com/): Changed to a virtual event
 - [Oracle User Group Irelend (OUG Ireland)](https://twitter.com/MDWidlake/status/1234864869377216515): cancelled
 - [PyCon Italia](https://pycon.it/en/blog/pycon-11-postponed-to-november): moved to November
 - [Red Hat Summit](https://www.redhat.com/en/summit): Moving to virtual event.
