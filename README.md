@@ -12,6 +12,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Builder.io | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Cisco | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
 | [Coinbase](https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/edit) | Encouraged | ? | ? | ? | 2020-03-03 |
+| Digit | Required | Restricted | Restricted | Restricted | 2020-03-05 |
 | eBay | ? | Restricted | ? | Restricted | 2020-03-04 |
 | [Facebook](https://www.geekwire.com/2020/facebook-contractor-seattle-tests-positive-coronavirus-company-closes-office/) | Limited / Geo-specific | Restricted | Restricted | Restricted | 2020-03-04 |
 | [Fastly](https://www.fastly.com/blog/exercising-caution-as-covid-19-evolves) | Required | Restricted | Restricted | Restricted | 2020-03-01 |
