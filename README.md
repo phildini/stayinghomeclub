@@ -27,7 +27,6 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): cancelled
 - [Blackhat Asia](https://www.blackhat.com/asia-20/travel-updates.html): postponed until fall
 - [Cisco Live Melbourne](https://www.ciscolive.com/apjc.html): Cancelled
-- [Cisco Live Melbourne](https://www.ciscolive.com/apjc.html): cancelled
 - [CloudFest 2020](https://www.cloudfest.com/): cancelled
 - [DevNet Create](https://developer.cisco.com/devnetcreate/2020/,Postponed): new date unknown.
 - [DevOpsDays Tokyo](https://twitter.com/DevOpsDaysTokyo/status/1234433425114722308): cancelled
@@ -42,7 +41,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Lesbians Who Tech](https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20): "postponed until August 6-8, 2020 pending developments"
 - [Microsoft Ignite The Tour Amsterdam](https://www.microsoft.com/nl-nl/ignite-the-tour/amsterdam): "Cancellation announced March 2, 2020"
 - [Microsoft Ignite the Tour Singapore](https://www.microsoft.com/en-sg/ignite-the-tour/singapore): cancelled
-- [Microsoft Ignite the Tour](https://www.microsoft.com/de-ch/ignite-the-tour/zurich): cancelled
+- [Microsoft Ignite the Tour Zurich](https://www.microsoft.com/de-ch/ignite-the-tour/zurich): cancelled
 - [Microsoft MVP Summit](https://www.geekwire.com/2020/microsoft-cancels-mvp-summit-due-coronavirus-outbreak-seattle-area/): cancelled
 - [Mobile World Congress](https://www.mwcbarcelona.com/gsma-statement-on-mwc-2020/): cancelled
 - [NVidia GPU Conference](https://www.theverge.com/2020/3/2/21161635/nvidias-gpu-technology-conference-gtc-online-only-coronavirus): cancelled
