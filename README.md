@@ -15,6 +15,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | [Fastly](https://www.fastly.com/blog/exercising-caution-as-covid-19-evolves) | Required | Restricted | Restricted | Restricted | 2020-03-01 |
 | GitHub | Encouraged | Restricted | ? | ? | 2020-03-04 |
 | [Google](https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent) | Limited / Geo-specific | Restricted | ? | ? | 2020-03-03 |
+| [IBM](https://www.theverge.com/2020/3/4/21165449/ibm-coronavirus-suspending-domestic-international-travel) | ? | Restricted | ? | ? | 2020-03-05 |
 | [Indeed](https://www.kvue.com/article/news/health/indeed-coronavirus-work-from-home/269-79c7797f-4d60-41df-bd9b-8b6bc25d9f3f) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
 | Lyft | Encouraged | ? | ? | ? | 2020-03-04 | 
 | [Microsoft](https://www.theverge.com/2020/3/4/21164522/microsoft-coronavirus-response-comment-employees-memo-work-from-home) | Limited / Geo-specific | ? | ? | ? | 2020-03-03 |
@@ -46,6 +47,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Google Cloud Next](https://cloud.withgoogle.com/next/sf/): online-only
 - [Google I/O](https://events.google.com/io/): online-only
 - [Google Tensoflow Dev Summit](https://www.tensorflow.org/dev-summit/): online-only
+- [IBM Think 2020](https://www.ibm.com/events/think/): online-only
 - [Internet Freedom Summit](https://internetfreedomfestival.org/wiki/index.php/Cancellation_of_the_2020_Internet_Freedom_Festival): cancelled
 - [KubeCon EU 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/): postponed until July/August, 2020, dates pending
 - [Lesbians Who Tech](https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20): "postponed until August 6-8, 2020 pending developments"
