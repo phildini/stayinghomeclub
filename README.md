@@ -23,6 +23,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | [Textio](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/) | Encouraged | ? | ? | ? | 2020-03-04 |
 | [Twitter](https://blog.twitter.com/en_us/topics/company/2020/keeping-our-employees-and-partners-safe-during-coronavirus.html) | Enforced | Restricted | Restricted | Restricted | 2020-03-03 |
 | Yelp | Encouraged | Restricted | ? | ? | 2020-03-03 |
+| [Glassdoor](https://www.glassdoor.com/about-us/employees-first-glassdoor-implements-work-from-home-policy-amid-coronavirus/) | Enforced | Restricted | Restricted | Restricted | 2020-03-04 |
 
 ## Events
 
