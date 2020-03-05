@@ -89,6 +89,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [RubyKaigi](https://rubykaigi.org/2020): postponed until September
 - [Security Analyst Summit](https://twitter.com/TheSAScon/status/1234911915773583361): cancelled
 - [TED](https://www.axios.com/scoop-coronavirus-forces-ted-conference-to-delay-or-go-digital-731109d7-8178-49b4-8a16-321f14affe1f.html): post-poning or going online-only
+- [Deconstruct](https://www.deconstructconf.com/): cancelled
 
 #### May
 
