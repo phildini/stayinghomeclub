@@ -81,3 +81,4 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [WSLConf](https://www.wslconf.dev/): going online-only
 - [WWHackinfest San Diego](https://twitter.com/strandjs/status/1235648436545847297?s=20): Moving to virtual event (Talks, training and MetaCtf will be virtual)
 - [ZenDesk Relate](https://www.miamiherald.com/news/business/tourism-cruises/article240801336.html): cancelled
+- [Deconstruct](https://www.deconstructconf.com/): cancelled
