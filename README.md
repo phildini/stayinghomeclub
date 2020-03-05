@@ -13,7 +13,8 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | [Fastly](https://www.fastly.com/blog/exercising-caution-as-covid-19-evolves) | Required | Restricted | Restricted | Restricted | 2020-03-01 |
 | GitHub | ? | Restricted | ? | ? | 2020-03-03 |
 | [Google](https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent) | Limited / Geo-specific | Restricted | ? | ? | 2020-03-03 |
-| [Indeed](https://www.kvue.com/article/news/health/indeed-coronavirus-work-from-home/269-79c7797f-4d60-41df-bd9b-8b6bc25d9f3f) | Enforced | Restricted | Restricted | Restricted |2020-03-04 |
+| [Indeed](https://www.kvue.com/article/news/health/indeed-coronavirus-work-from-home/269-79c7797f-4d60-41df-bd9b-8b6bc25d9f3f) | Enforced | Restricted | Restricted | Restricted | 2020-03-04 |
+| Lyft | Encouraged | ? | ? | ? | 2020-03-04 | 
 | [Microsoft](https://www.theverge.com/2020/3/4/21164522/microsoft-coronavirus-response-comment-employees-memo-work-from-home) | Limited / Geo-specific | ? | ? | ? | 2020-03-03 |
 | [Redfin](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/) | Encouraged | ? | ? | ? | 2020-03-04 |
 | [Salesforce](https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
