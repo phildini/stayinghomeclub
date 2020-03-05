@@ -2,7 +2,7 @@
 
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
-## Companies - 19
+## Companies - 20
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- | 
@@ -28,7 +28,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | [Twitter](https://blog.twitter.com/en_us/topics/company/2020/keeping-our-employees-and-partners-safe-during-coronavirus.html) | Required | Restricted | Restricted | Restricted | 2020-03-03 |
 | Yelp | Encouraged | Restricted | ? | ? | 2020-03-03 |
 
-## Events - 35
+## Events - 38
 
 - [APIdays Singapore](https://www.apidays.co/singapore): Postponed until August 19-20
 - [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/): cancelled
@@ -41,6 +41,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [DevOpsDays Tokyo](https://twitter.com/DevOpsDaysTokyo/status/1234433425114722308): cancelled
 - [DevRelCon Tokyo](https://tokyo-2020.devrel.net/information/2020/02/13/devrelcon-tokyo-has-canceled_en.html): cancelled
 - [dotGo](https://twitter.com/dotGoEu/status/1234767083369639937): cancelled
+- [dotPy](https://twitter.com/dotpy_io/status/1233830965421711360): cancelled
 - [Dreamforce World Tour (Sydney)](https://www.arnnet.com.au/article/671175/salesforce-world-tour-sydney-goes-digital-amid-coronavirus-fears/): cancelled
 - [Facebook F8](https://developers.facebook.com/blog/post/2020/02/27/important-f8-2020-update/): Moving to a primarily online event
 - [Game Developers Conference](https://www.gdconf.com/news/important-gdc-2020-update): cancelled
