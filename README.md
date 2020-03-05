@@ -4,10 +4,10 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 
 ## Companies - 21
 
-| Company    | WFH Policy                                  | Travel     | Visitors   | Events     | Updated    | Source                                                                                                                                                | Po  |
-| ---------- | ------------------------------------------- | ---------- | ---------- | ---------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Company    | WFH Policy                                  | Travel     | Visitors   | Events     | Updated    | Source                                                                                                                                                |
+| ---------- | ------------------------------------------- | ---------- | ---------- | ---------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Amazon     | Encouraged, Recommended for Seattle to 3/31 | Restricted | Restricted | Restricted | 2020-03-04 | [businessinsider.com](https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020)                           |
-| Apple      | None                                        | Restricted | ?          | ?          | 2020-03-03 |
+| Apple      | ?                                           | Restricted | ?          | ?          | 2020-03-03 |
 | Builder.io | Encouraged                                  | Restricted | Restricted | Restricted | 2020-03-05 |
 | Cisco      | Encouraged                                  | Restricted | Restricted | Restricted | 2020-03-04 |
 | Coinbase   | Encouraged                                  | ?          | ?          | ?          | 2020-03-03 | [docs.google.com](https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/edit)                                               |
