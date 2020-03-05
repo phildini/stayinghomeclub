@@ -40,6 +40,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Game Developers Conference](https://www.gdconf.com/news/important-gdc-2020-update): cancelled
 - [Google Cloud Next](https://cloud.withgoogle.com/next/sf/): online-only
 - [Google I/O](https://events.google.com/io/): online-only
+- [Google Tensoflow Dev Summit](https://www.tensorflow.org/dev-summit/): online-only
 - [Internet Freedom Summit](https://internetfreedomfestival.org/wiki/index.php/Cancellation_of_the_2020_Internet_Freedom_Festival): cancelled
 - [Lesbians Who Tech](https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20): "postponed until August 6-8, 2020 pending developments"
 - [Microsoft Ignite The Tour Amsterdam](https://www.microsoft.com/nl-nl/ignite-the-tour/amsterdam): "Cancellation announced March 2, 2020"
@@ -47,7 +48,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Microsoft Ignite the Tour Zurich](https://www.microsoft.com/de-ch/ignite-the-tour/zurich): cancelled
 - [Microsoft MVP Summit](https://www.geekwire.com/2020/microsoft-cancels-mvp-summit-due-coronavirus-outbreak-seattle-area/): cancelled
 - [Mobile World Congress](https://www.mwcbarcelona.com/gsma-statement-on-mwc-2020/): cancelled
-- [NVidia GPU Conference](https://www.theverge.com/2020/3/2/21161635/nvidias-gpu-technology-conference-gtc-online-only-coronavirus): cancelled
+- [NVidia GPU Conference](https://www.theverge.com/2020/3/2/21161635/nvidias-gpu-technology-conference-gtc-online-only-coronavirus): online-only
 - [Oktane](https://www.oktane20.com/health-safety): cancelled
 - [Oracle User Group Irelend (OUG Ireland)](https://twitter.com/MDWidlake/status/1234864869377216515): cancelled
 - [RubyKaigi](https://rubykaigi.org/2020): postponed until September
