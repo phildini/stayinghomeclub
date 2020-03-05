@@ -52,6 +52,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [NVidia GPU Conference](https://www.theverge.com/2020/3/2/21161635/nvidias-gpu-technology-conference-gtc-online-only-coronavirus): online-only
 - [Oktane](https://www.oktane20.com/health-safety): cancelled
 - [Oracle User Group Irelend (OUG Ireland)](https://twitter.com/MDWidlake/status/1234864869377216515): cancelled
+- [PyCon Italia](https://pycon.it/en/blog/pycon-11-postponed-to-november): moved to November
 - [RubyKaigi](https://rubykaigi.org/2020): postponed until September
 - [SNUG Silicon Valley](https://www.synopsys.com/community/snug/snug-silicon-valley.html): cancelled
 - [Security Analyst Summit](https://twitter.com/TheSAScon/status/1234911915773583361): cancelled
