@@ -27,6 +27,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 
 - [APIdays Singapore](https://www.apidays.co/singapore): Postponed until August 19-20
 - [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/): cancelled
+- [AWS Summit Sydney](https://pages.awscloud.com/anz-summit-2020.html): cancelled
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): cancelled
 - [Blackhat Asia](https://www.blackhat.com/asia-20/travel-updates.html): postponed until fall
 - [Cisco Live Melbourne](https://www.ciscolive.com/apjc.html): Cancelled
