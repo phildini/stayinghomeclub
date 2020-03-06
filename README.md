@@ -49,6 +49,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 <a name="events"></a>
 ## Events - 70
 
+- [Apache Roadshow/DC](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
 - [APIdays Singapore](https://www.apidays.co/singapore): Postponed until August 19-20
 - [Atlassian Summit](https://www.atlassian.com/company/events/summit): Moving to virtual.
 - [Aruba Atmosphere 2020](https://www.atlassian.com/company/events/summit): Virtual with small local events
