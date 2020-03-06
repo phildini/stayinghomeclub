@@ -40,6 +40,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | [Microsoft](https://www.theverge.com/2020/3/4/21164522/microsoft-coronavirus-response-comment-employees-memo-work-from-home) | Limited / Geo-specific | ? | ? | ? | 2020-03-03 |
 | Mozilla | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | [Nordstrom](https://www.geekwire.com/2020/coronavirus-live-updates-seattle-tech-community-grappling-covid-19/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
+| OfferUp | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Okta | Required | Restricted | ? | ? | 2020-03-05 |
 | Parler | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | [Redfin](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/) | Encouraged | ? | ? | ? | 2020-03-04 |
