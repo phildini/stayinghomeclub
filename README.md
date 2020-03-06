@@ -49,7 +49,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Yelp | Encouraged | Restricted | ? | ? | 2020-03-03 |
 
 <a name="events"></a>
-## Events - 74
+## Events - 75
 
 - [Apache Roadshow/DC](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
 - [APIdays Singapore](https://www.apidays.co/singapore): Postponed until August 19-20
@@ -98,6 +98,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Microsoft Ignite the Tour Singapore](https://www.microsoft.com/en-sg/ignite-the-tour/singapore): cancelled
 - [Microsoft Ignite the Tour Zurich](https://www.microsoft.com/de-ch/ignite-the-tour/zurich): cancelled
 - [Microsoft MVP Summit](https://www.geekwire.com/2020/microsoft-cancels-mvp-summit-due-coronavirus-outbreak-seattle-area/): cancelled
+- [Minecraft Festival](https://www.minecraft.net/en-us/article/minecraft-festival-postponed): postponed to 2021, Minecraft Live still happening online-only
 - [Mobile World Congress (MWC) - Barcelona](https://www.mwcbarcelona.com/gsma-statement-on-mwc-2020/): cancelled
 - [Nvidia GPU Technology Conference (GTC) 2020](https://www.theverge.com/2020/3/2/21161635/nvidias-gpu-technology-conference-gtc-online-only-coronavirus): online-only
 - [Open Compute Project Global Summit](https://www.opencompute.org/blog/we-are-moving-the-2020-ocp-global-summit-to-an-interactive-virtual-global-summit): changed to a virtual event.
