@@ -49,7 +49,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Yelp | Encouraged | Restricted | ? | ? | 2020-03-03 |
 
 <a name="events"></a>
-## Events - 73
+## Events - 74
 
 - [Apache Roadshow/DC](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
 - [APIdays Singapore](https://www.apidays.co/singapore): Postponed until August 19-20
@@ -73,6 +73,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [dotGo](https://twitter.com/dotGoEu/status/1234767083369639937): cancelled
 - [dotPy](https://twitter.com/dotpy_io/status/1233830965421711360): cancelled
 - [Dreamforce World Tour (Sydney)](https://www.arnnet.com.au/article/671175/salesforce-world-tour-sydney-goes-digital-amid-coronavirus-fears/): cancelled
+- [Emerald City Comic Con (ECCC)](https://www.emeraldcitycomiccon.com/About/A-Statement-From-Reedpop/): postponed until summer
 - [EmTech Asia](https://emtechasia.com/): postponed until August
 - [Experimental Biology 2020](https://experimentalbiology.org/2020/home.aspx): cancelled
 - [F5 Agility](https://www.f5.com/agility): moving to virtual event
