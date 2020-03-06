@@ -42,29 +42,37 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 
 - [APIdays Singapore](https://www.apidays.co/singapore): Postponed until August 19-20
 - [Atlassian Summit](https://www.atlassian.com/company/events/summit): Moving to virtual.
+- [Aruba Atmosphere 2020](https://www.atlassian.com/company/events/summit): Virtual with small local events
 - [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/): cancelled
 - [AWS Summit Sydney](https://aws.amazon.com/events/summits/sydney/): cancelled
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
-- [Blackhat Asia](https://www.blackhat.com/asia-20/travel-updates.html): postponed until fall
+- [Black Hat Asia](https://www.blackhat.com/asia-20/travel-updates.html): postponed until fall
 - [Cisco Live Melbourne](https://www.ciscolive.com/apjc.html): Cancelled
 - [CloudFest 2020](https://www.cloudfest.com/): cancelled
 - [Deconstruct](https://www.deconstructconf.com/): cancelled
+- [DEFCON China 2.0](https://defcon.org/html/defcon-china-2/dc-cn-2-index.html): postponed
 - [DevNet Create](https://developer.cisco.com/devnetcreate/2020/): Postponed, new date unknown.
 - [DevOpsDays Tokyo](https://twitter.com/DevOpsDaysTokyo/status/1234433425114722308): cancelled
 - [DevRelCon Tokyo](https://tokyo-2020.devrel.net/information/2020/02/13/devrelcon-tokyo-has-canceled_en.html): cancelled
+- [DocuSign Momentum - San Francisco](https://momentum.docusign.com/faq): online-only
+- [Domopalooza 2020](https://www.domo.com/domopalooza#FAQs): online-only
 - [dotGo](https://twitter.com/dotGoEu/status/1234767083369639937): cancelled
 - [dotPy](https://twitter.com/dotpy_io/status/1233830965421711360): cancelled
 - [Dreamforce World Tour (Sydney)](https://www.arnnet.com.au/article/671175/salesforce-world-tour-sydney-goes-digital-amid-coronavirus-fears/): cancelled
+- [EmTech Asia](https://emtechasia.com/): postponed until August
+- [F5 Agility](https://www.f5.com/agility): moving to virtual event
+- [Facebook Global Marketing Summit](https://www.businessinsider.com/how-facebook-affected-novel-coronavirus-outbreak-2020-2): Cancelled
 - [Facebook F8](https://developers.facebook.com/blog/post/2020/02/27/important-f8-2020-update/): Moving to a primarily online event
-- [Game Developers Conference](https://www.gdconf.com/news/important-gdc-2020-update): cancelled
+- [Game Developers Conference (GDC)](https://www.gdconf.com/news/important-gdc-2020-update): postponed 
 - [GitHub Satellite](https://githubsatellite.com/): going online-only
 - [Google Cloud Next](https://cloud.withgoogle.com/next/sf/): online-only
 - [Google I/O](https://events.google.com/io/): online-only
-- [Google Tensoflow Dev Summit](https://www.tensorflow.org/dev-summit/): online-only
+- [Google Tensorflow Dev Summit](https://www.tensorflow.org/dev-summit/): online-only
 - [IBM Think 2020](https://www.ibm.com/events/think/): online-only
 - [ICANN 67](https://www.icann.org/news/announcement-2020-02-19-en): online-only
 - [Internet Freedom Summit](https://internetfreedomfestival.org/wiki/index.php/Cancellation_of_the_2020_Internet_Freedom_Festival): cancelled
 - [KubeCon EU 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/): postponed until July/August, 2020, dates pending
+- [Linaro Connect Budapest 2020](https://www.linaro.org/blog/linaro-connect-budapest-2020-cancelled/): cancelled
 - [Lesbians Who Tech](https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20): "postponed until August 6-8, 2020 pending developments"
 - [Microsoft Ignite The Tour Amsterdam](https://www.microsoft.com/nl-nl/ignite-the-tour/amsterdam): "Cancellation announced March 2, 2020"
 - [Microsoft Ignite the Tour Singapore](https://www.microsoft.com/en-sg/ignite-the-tour/singapore): cancelled
