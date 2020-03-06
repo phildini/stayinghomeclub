@@ -1,20 +1,290 @@
 [
   {
-    "name": "Fastly",
-    "wfh": "Required",
+    "name": "Amazon",
+    "wfh": "Encouraged, Recommended for Seattle to 3/31",
     "travel": "Restricted",
     "visitors": "Restricted",
     "events": "Restricted",
     "updated": "2020-03-04",
-    "sources": ["https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020"]
+    "sources": ["https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020)"]
   },
   {
     "name": "Apple",
     "wfh": "?",
     "travel": "Restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-03",
+    "sources": []
+  },
+  {
+    "name": "Brightloom ",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-05",
+    "sources": []
+  },
+  {
+    "name": "Builder.io ",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-05",
+    "sources": []
+  },
+  {
+    "name": "Bungie",
+    "wfh": "Required",
+    "travel": "?",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-05",
+    "sources": ["https://www.bungie.net/en/Explore/Detail/News/48839"]
+  },
+  {
+    "name": "Cisco ",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
     "visitors": "Restricted",
     "events": "Restricted",
     "updated": "2020-03-04",
+    "sources": []
+  },
+  {
+    "name": "Coinbase",
+    "wfh": "Encouraged",
+    "travel": "?",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-03",
+    "sources": ["https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/edit"]
+  },
+  {
+    "name": "Crunchbase",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "?",
+    "updated": "2020-03-05",
+    "sources": []
+  },
+  {
+    "name": "Digit",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-05",
+    "sources": []
+  },
+  {
+    "name": "eBay",
+    "wfh": "?",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "Restricted",
+    "updated": "2020-03-04",
+    "sources": []
+  },
+  {
+    "name": "Facebook",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-04",
+    "sources": ["https://www.geekwire.com/2020/facebook-contractor-seattle-tests-positive-coronavirus-company-closes-office/"]
+  },
+  {
+    "name": "Fastly",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-01",
+    "sources": ["https://www.fastly.com/blog/exercising-caution-as-covid-19-evolves"]
+  },
+  {
+    "name": "GitHub",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-04",
+    "sources": ["https://github.blog/2020-03-03-covid-19-update-supporting-our-employees-and-community/"]
+  },
+  {
+    "name": "Glassdoor",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "?",
+    "updated": "2020-03-05",
+    "sources": ["https://www.glassdoor.com/blog/glassdoor-coronavirus/"]
+  },
+  {
+    "name": "Google",
+    "wfh": "Limited / Geo-specific",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-03",
+    "sources": ["https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent"]
+  },
+  {
+    "name": "IBM",
+    "wfh": "?",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-05",
+    "sources": ["https://www.theverge.com/2020/3/4/21165449/ibm-coronavirus-suspending-domestic-international-travel"]
+  },
+  {
+    "name": "Indeed",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-04",
+    "sources": ["https://www.kvue.com/article/news/health/indeed-coronavirus-work-from-home/269-79c7797f-4d60-41df-bd9b-8b6bc25d9f3f"]
+  },
+  {
+    "name": "Lyft",
+    "wfh": "Encouraged",
+    "travel": "?",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-04",
+    "sources": []
+  },
+  {
+    "name": "LinkedIn",
+    "wfh": "Encouraged",
+    "travel": "?",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-05",
+    "sources": ["https://www.businessinsider.com/linkedin-tells-employees-to-work-from-home-over-coronavirus-concerns-2020-3"]
+  },
+  {
+    "name": "Microsoft",
+    "wfh": "Limited / Geo-specific",
+    "travel": "?",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-03",
+    "sources": ["https://www.theverge.com/2020/3/4/21164522/microsoft-coronavirus-response-comment-employees-memo-work-from-home"]
+  },
+  {
+    "name": "Nordstrom",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-04",
+    "sources": ["https://www.geekwire.com/2020/coronavirus-live-updates-seattle-tech-community-grappling-covid-19/"]
+  },
+  {
+    "name": "Okta",
+    "wfh": "Required  ",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-05",
+    "sources": []
+  },
+  {
+    "name": "Redfin",
+    "wfh": "Encouraged",
+    "travel": "?",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-04",
+    "sources": ["https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/"]
+  },
+  {
+    "name": "Salesforce",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-03",
+    "sources": ["https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html"]
+  },
+  {
+    "name": "Slack",
+    "wfh": "Encouraged, Required in JP",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "Restricted",
+    "updated": "2020-03-04",
+    "sources": []
+  },
+  {
+    "name": "Square",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-03",
+    "sources": ["https://twitter.com/zamosta/status/1234658276781912064"]
+  },
+  {
+    "name": "Stripe",
+    "wfh": "Encouraged, some Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "?",
+    "updated": "2020-02-29",
+    "sources": ["https://stripe.com/newsroom/news/covid-19"]
+  },
+  {
+    "name": "Telenav",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-05",
+    "sources": ["https://twitter.com/Telenav/status/1233227569249390592"]
+  },
+  {
+    "name": "Textio",
+    "wfh": "Encouraged",
+    "travel": "?",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-04",
+    "sources": ["https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus"]
+  },
+  {
+    "name": "Twitter",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-03",
+    "sources": ["https://blog.twitter.com/en_us/topics/company/2020/keeping-our-employees-and-partners-safe-during-coronavirus.html"]
+  },
+  {
+    "name": "Typless",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-04",
+    "sources": ["https://typless.com/2020/03/05/switching-to-fully-remote-work/"]
+  },
+  {
+    "name": "Yelp ",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-03",
     "sources": []
   }
 ]
