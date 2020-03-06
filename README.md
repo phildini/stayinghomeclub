@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 32
+## Companies - 33
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- | 
@@ -13,6 +13,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Builder.io | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | [Bungie](https://www.bungie.net/en/Explore/Detail/News/48839) | Required | ? | ? | ? | 2020-03-05 |
 | Cisco | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
+| Cloudflare | ? | Restricted | Restricted | Restricted | 2020-03-04 |
 | [Coinbase](https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/edit) | Encouraged | ? | ? | ? | 2020-03-03 |
 | Crunchbase | Required | Restricted | Restricted | ? | 2020-03-05 |
 | Digit | Required | Restricted | Restricted | Restricted | 2020-03-05 |
@@ -77,6 +78,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [ICANN 67](https://www.icann.org/news/announcement-2020-02-19-en): online-only
 - [Ingram Micro Cloud Summit 2020](https://www.ingrammicrocloud.com/press-releases/ingram-micro-cloud-postpones-cloud-summit-2020-early-2021/): postponed until early 2021
 - [Internet Freedom Summit](https://internetfreedomfestival.org/wiki/index.php/Cancellation_of_the_2020_Internet_Freedom_Festival): cancelled
+- [Internet2 2020 Global Summit](https://meetings.internet2.edu/2020-global-summit/update-coronavirus/): cancelled
 - [Kaspersky's Security Analyst Summit](https://thesascon.com/): postponed until Fall
 - [KubeCon EU 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/): postponed until July/August, 2020, dates pending
 - [Linaro Connect Budapest 2020](https://www.linaro.org/blog/linaro-connect-budapest-2020-cancelled/): cancelled
