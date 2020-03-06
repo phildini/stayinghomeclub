@@ -15,6 +15,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Cisco | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
 | Cloudflare | ? | Restricted | Restricted | Restricted | 2020-03-04 |
 | [Coinbase](https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/edit) | Encouraged | ? | ? | ? | 2020-03-03 |
+| Contentful | Encouraged | Restricted | ? | Restricted | 2020-03-03 |
 | Crunchbase | Required | Restricted | Restricted | ? | 2020-03-05 |
 | Digit | Required | Restricted | Restricted | Restricted | 2020-03-05 |
 | eBay | ? | Restricted | ? | Restricted | 2020-03-04 |
