@@ -51,6 +51,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [CloudFest 2020](https://www.cloudfest.com/): cancelled
 - [Deconstruct](https://www.deconstructconf.com/): cancelled
 - [DevNet Create](https://developer.cisco.com/devnetcreate/2020/): Postponed, new date unknown.
+- [DevOpsDays Seattle](https://twitter.com/DevOpsDaysSEA/status/1235307914908389376): Postponed, possibly cancelled
 - [DevOpsDays Tokyo](https://twitter.com/DevOpsDaysTokyo/status/1234433425114722308): cancelled
 - [DevRelCon Tokyo](https://tokyo-2020.devrel.net/information/2020/02/13/devrelcon-tokyo-has-canceled_en.html): cancelled
 - [dotGo](https://twitter.com/dotGoEu/status/1234767083369639937): cancelled
