@@ -110,6 +110,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [PyCon Italia](https://pycon.it/en/blog/pycon-11-postponed-to-november): moved to November
 - [Qualtrics X4 Summit](https://www.qualtrics.com/x4summit/): postponed to early Fall 2020
 - [Red Hat Summit](https://www.redhat.com/en/summit): moving to virtual event.
+- [RedisConf20](https://events.redislabs.com/redisconf20/): moving to virtual event
 - [RubyKaigi](https://rubykaigi.org/2020): postponed until September
 - [Salesforce World Tour Sydney](https://www.salesforce.com/au/events/worldtour/syd20/overview/): in-person canceled; online-only event
 - [SAP Ariba LIVE](https://twitter.com/SAPAriba/status/1235043870250958854?s=20): cancelled
