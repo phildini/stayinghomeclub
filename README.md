@@ -72,6 +72,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [dotPy](https://twitter.com/dotpy_io/status/1233830965421711360): cancelled
 - [Dreamforce World Tour (Sydney)](https://www.arnnet.com.au/article/671175/salesforce-world-tour-sydney-goes-digital-amid-coronavirus-fears/): cancelled
 - [EmTech Asia](https://emtechasia.com/): postponed until August
+- [Experimental Biology 2020](https://experimentalbiology.org/2020/home.aspx): cancelled
 - [F5 Agility](https://www.f5.com/agility): moving to virtual event
 - [Facebook Global Marketing Summit](https://www.businessinsider.com/how-facebook-affected-novel-coronavirus-outbreak-2020-2): cancelled
 - [Facebook F8](https://developers.facebook.com/blog/post/2020/02/27/important-f8-2020-update/): moving to a primarily online event
