@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 39
+## Companies - 40
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- | 
@@ -17,6 +17,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | [Coinbase](https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/edit) | Encouraged | ? | ? | ? | 2020-03-03 |
 | Contentful | Encouraged | Restricted | ? | Restricted | 2020-03-03 |
 | Crunchbase | Required | Restricted | Restricted | ? | 2020-03-05 |
+| Crunchyroll | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Digit | Required | Restricted | Restricted | Restricted | 2020-03-05 |
 | Determined AI | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | eBay | ? | Restricted | ? | Restricted | 2020-03-04 |
