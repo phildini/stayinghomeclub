@@ -39,7 +39,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Yelp | Encouraged | Restricted | ? | ? | 2020-03-03 |
 
 <a name="events"></a>
-## Events - 49
+## Events - 58
 
 - [APIdays Singapore](https://www.apidays.co/singapore): Postponed until August 19-20
 - [Atlassian Summit](https://www.atlassian.com/company/events/summit): Moving to virtual.
