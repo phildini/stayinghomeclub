@@ -34,7 +34,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Yelp | Encouraged | Restricted | ? | ? | 2020-03-03 |
 
 <a name="events"></a>
-## Events - 43
+## Events - 47
 
 - [APIdays Singapore](https://www.apidays.co/singapore): Postponed until August 19-20
 - [Atlassian Summit](https://www.atlassian.com/company/events/summit): Moving to virtual.
@@ -73,6 +73,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [RubyKaigi](https://rubykaigi.org/2020): postponed until September
 - [SNUG Silicon Valley](https://www.synopsys.com/community/snug/snug-silicon-valley.html): cancelled
 - [Security Analyst Summit](https://twitter.com/TheSAScon/status/1234911915773583361): cancelled
+- [Shopify Unite & Shopify Pursuit](https://www.shopify.com.au/partners/blog/unite-2020-update): cancelled
 - [Shoptalk](https://www.retaildive.com/news/shoptalk-postponed-until-september-on-coronavirus-concerns/573549/): Postponed until September
 - [Strata Data & AI](https://conferences.oreilly.com/strata-data-ai/stai-ca): Merged with NY in September
 - [TED](https://www.axios.com/scoop-coronavirus-forces-ted-conference-to-delay-or-go-digital-731109d7-8178-49b4-8a16-321f14affe1f.html): post-poning or going online-only
