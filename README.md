@@ -101,6 +101,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Oktane](https://www.oktane20.com/): changed to a virtual event
 - [Oracle Modern Business Experience](https://www.oracle.com/modern-business-experience/): postponed until Sep. 21-24 to coincide with OpenWorld
 - [Oracle User Group Irelend (OUG Ireland)](https://twitter.com/MDWidlake/status/1234864869377216515): cancelled
+- [Outreach Unleash 2020](https://www.outreach.io/blog/unleash-20-update): cancelled
 - [Paris Blockchain Week Summit](https://www.pbwsummit.com/): postponed until Dec. 9-10
 - [PyCon Italia](https://pycon.it/en/blog/pycon-11-postponed-to-november): moved to November
 - [Qualtrics X4 Summit](https://www.qualtrics.com/x4summit/): postponed to early Fall 2020
