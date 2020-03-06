@@ -1,47 +1,50 @@
+
 # Who's staying home because of COVID-19?
 
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
+## Companies (32)
 
-| Company    | WFH                                         | Travel     | Visitors   | Events     | Updated    | Source                                                                                                                            |
-| ---------- | ------------------------------------------- | ---------- | ---------- | ---------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Amazon     | Encouraged, Recommended for Seattle to 3/31 | Restricted | Restricted | Restricted | 2020-03-04 | https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020)                             |
-| Apple      | ?                                           | Restricted | ?          | ?          | 2020-03-03 |                                                                                                                                   |
-| Brightloom | Encouraged                                  | Restricted | Restricted | Restricted | 2020-03-05 |                                                                                                                                   |
-| Builder.io | Encouraged                                  | Restricted | Restricted | Restricted | 2020-03-05 |                                                                                                                                   |
-| Bungie     | Required                                    | ?          | ?          | ?          | 2020-03-05 | https://www.bungie.net/en/Explore/Detail/News/48839                                                                               |
-| Cisco      | Encouraged                                  | Restricted | Restricted | Restricted | 2020-03-04 |                                                                                                                                   |
-| Coinbase   | Encouraged                                  | ?          | ?          | ?          | 2020-03-03 | https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/edit                                              |
-| Crunchbase | Required                                    | Restricted | Restricted | ?          | 2020-03-05 |                                                                                                                                   |
-| Digit      | Required                                    | Restricted | Restricted | Restricted | 2020-03-05 |                                                                                                                                   |
-| eBay       | ?                                           | Restricted | ?          | Restricted | 2020-03-04 |                                                                                                                                   |
-| Facebook   | Encouraged                                  | Restricted | Restricted | Restricted | 2020-03-04 | https://www.geekwire.com/2020/facebook-contractor-seattle-tests-positive-coronavirus-company-closes-office/                       |
-| Fastly     | Required                                    | Restricted | Restricted | Restricted | 2020-03-01 | https://www.fastly.com/blog/exercising-caution-as-covid-19-evolves                                                                |
-| GitHub     | Encouraged                                  | Restricted | ?          | ?          | 2020-03-04 | https://github.blog/2020-03-03-covid-19-update-supporting-our-employees-and-community/                                            |
-| Glassdoor  | Required                                    | Restricted | Restricted | ?          | 2020-03-05 | https://www.glassdoor.com/blog/glassdoor-coronavirus/                                                                             |
-| Google     | Limited / Geo-specific                      | Restricted | ?          | ?          | 2020-03-03 | https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent                   |
-| IBM        | ?                                           | Restricted | ?          | ?          | 2020-03-05 | https://www.theverge.com/2020/3/4/21165449/ibm-coronavirus-suspending-domestic-international-travel                               |
-| Indeed     | Required                                    | Restricted | Restricted | Restricted | 2020-03-04 | https://www.kvue.com/article/news/health/indeed-coronavirus-work-from-home/269-79c7797f-4d60-41df-bd9b-8b6bc25d9f3f               |
-| Lyft       | Encouraged                                  | ?          | ?          | ?          | 2020-03-04 |                                                                                                                                   |
-| LinkedIn   | Encouraged                                  | ?          | ?          | ?          | 2020-03-05 | https://www.businessinsider.com/linkedin-tells-employees-to-work-from-home-over-coronavirus-concerns-2020-3                       |
-| Microsoft  | Limited / Geo-specific                      | ?          | ?          | ?          | 2020-03-03 | https://www.theverge.com/2020/3/4/21164522/microsoft-coronavirus-response-comment-employees-memo-work-from-home                   |
-| Nordstrom  | Encouraged                                  | Restricted | Restricted | Restricted | 2020-03-04 | https://www.geekwire.com/2020/coronavirus-live-updates-seattle-tech-community-grappling-covid-19/                                 |
-| Okta       | Required                                    | Restricted | ?          | ?          | 2020-03-05 |                                                                                                                                   |
-| Redfin     | Encouraged                                  | ?          | ?          | ?          | 2020-03-04 | https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/ |
-| Salesforce | Encouraged                                  | Restricted | Restricted | Restricted | 2020-03-03 | https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html                                                |
-| Slack      | Encouraged, Required in JP                  | Restricted | ?          | Restricted | 2020-03-04 |                                                                                                                                   |
-| Square     | Encouraged                                  | Restricted | Restricted | Restricted | 2020-03-03 | https://twitter.com/zamosta/status/1234658276781912064                                                                            |
-| Stripe     | Encouraged, some Required                   | Restricted | Restricted | ?          | 2020-02-29 | https://stripe.com/newsroom/news/covid-19                                                                                         |
-| Telenav    | Encouraged                                  | Restricted | ?          | ?          | 2020-03-05 | https://twitter.com/Telenav/status/1233227569249390592                                                                            |
-| Textio     | Encouraged                                  | ?          | ?          | ?          | 2020-03-04 | https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus  |
-| Twitter    | Required                                    | Restricted | Restricted | Restricted | 2020-03-03 | https://blog.twitter.com/en_us/topics/company/2020/keeping-our-employees-and-partners-safe-during-coronavirus.html                |
-| Typless    | Required                                    | Restricted | Restricted | Restricted | 2020-03-04 | https://typless.com/2020/03/05/switching-to-fully-remote-work/                                                                    |
-| Yelp       | Encouraged                                  | Restricted | ?          | ?          | 2020-03-03 |                                                                                                                                   |
+|Company|WFH|Travel|Visitors|Events|Updated|Source|
+|---|---|---|---|---|---|---|
+|Amazon|Encouraged, Recommended for Seattle to 3/31|Restricted|Restricted|Restricted|2020-03-04|https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020)|
+|Apple|?|Restricted|?|?|2020-03-03||
+|Brightloom |Encouraged|Restricted|Restricted|Restricted|2020-03-05||
+|Builder.io |Encouraged|Restricted|Restricted|Restricted|2020-03-05||
+|Bungie|Required|?|?|?|2020-03-05|https://www.bungie.net/en/Explore/Detail/News/48839|
+|Cisco |Encouraged|Restricted|Restricted|Restricted|2020-03-04||
+|Coinbase|Encouraged|?|?|?|2020-03-03|https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/edit|
+|Crunchbase|Required|Restricted|Restricted|?|2020-03-05||
+|Digit|Required|Restricted|Restricted|Restricted|2020-03-05||
+|eBay|?|Restricted|?|Restricted|2020-03-04||
+|Facebook|Encouraged|Restricted|Restricted|Restricted|2020-03-04|https://www.geekwire.com/2020/facebook-contractor-seattle-tests-positive-coronavirus-company-closes-office/|
+|Fastly|Required|Restricted|Restricted|Restricted|2020-03-01|https://www.fastly.com/blog/exercising-caution-as-covid-19-evolves|
+|GitHub|Encouraged|Restricted|?|?|2020-03-04|https://github.blog/2020-03-03-covid-19-update-supporting-our-employees-and-community/|
+|Glassdoor|Required|Restricted|Restricted|?|2020-03-05|https://www.glassdoor.com/blog/glassdoor-coronavirus/|
+|Google|Limited / Geo-specific|Restricted|?|?|2020-03-03|https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent|
+|IBM|?|Restricted|?|?|2020-03-05|https://www.theverge.com/2020/3/4/21165449/ibm-coronavirus-suspending-domestic-international-travel|
+|Indeed|Required|Restricted|Restricted|Restricted|2020-03-04|https://www.kvue.com/article/news/health/indeed-coronavirus-work-from-home/269-79c7797f-4d60-41df-bd9b-8b6bc25d9f3f|
+|Lyft|Encouraged|?|?|?|2020-03-04||
+|LinkedIn|Encouraged|?|?|?|2020-03-05|https://www.businessinsider.com/linkedin-tells-employees-to-work-from-home-over-coronavirus-concerns-2020-3|
+|Microsoft|Limited / Geo-specific|?|?|?|2020-03-03|https://www.theverge.com/2020/3/4/21164522/microsoft-coronavirus-response-comment-employees-memo-work-from-home|
+|Nordstrom|Encouraged|Restricted|Restricted|Restricted|2020-03-04|https://www.geekwire.com/2020/coronavirus-live-updates-seattle-tech-community-grappling-covid-19/|
+|Okta|Required  |Restricted|?|?|2020-03-05||
+|Redfin|Encouraged|?|?|?|2020-03-04|https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/|
+|Salesforce|Encouraged|Restricted|Restricted|Restricted|2020-03-03|https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html|
+|Slack|Encouraged, Required in JP|Restricted|?|Restricted|2020-03-04||
+|Square|Encouraged|Restricted|Restricted|Restricted|2020-03-03|https://twitter.com/zamosta/status/1234658276781912064|
+|Stripe|Encouraged, some Required|Restricted|Restricted|?|2020-02-29|https://stripe.com/newsroom/news/covid-19|
+|Telenav|Encouraged|Restricted|?|?|2020-03-05|https://twitter.com/Telenav/status/1233227569249390592|
+|Textio|Encouraged|?|?|?|2020-03-04|https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus|
+|Twitter|Required|Restricted|Restricted|Restricted|2020-03-03|https://blog.twitter.com/en_us/topics/company/2020/keeping-our-employees-and-partners-safe-during-coronavirus.html|
+|Typless|Required|Restricted|Restricted|Restricted|2020-03-04|https://typless.com/2020/03/05/switching-to-fully-remote-work/|
+|Yelp |Encouraged|Restricted|?|?|2020-03-03||
+
 
 <a name="events"></a>
 
-## Events - 58
+## Events (59)
 
 - [APIdays Singapore](https://www.apidays.co/singapore): Postponed until August 19-20
 - [Atlassian Summit](https://www.atlassian.com/company/events/summit): Moving to virtual.
@@ -77,8 +80,8 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Internet Freedom Summit](https://internetfreedomfestival.org/wiki/index.php/Cancellation_of_the_2020_Internet_Freedom_Festival): cancelled
 - [KubeCon EU 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/): postponed until July/August, 2020, dates pending
 - [Linaro Connect Budapest 2020](https://www.linaro.org/blog/linaro-connect-budapest-2020-cancelled/): cancelled
-- [Lesbians Who Tech](https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20): "postponed until August 6-8, 2020 pending developments"
-- [Microsoft Ignite The Tour Amsterdam](https://www.microsoft.com/nl-nl/ignite-the-tour/amsterdam): "Cancellation announced March 2, 2020"
+- [Lesbians Who Tech](https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20): postponed until August 6-8 2020 pending developments
+- [Microsoft Ignite The Tour Amsterdam](https://www.microsoft.com/nl-nl/ignite-the-tour/amsterdam): Cancellation announced March 2 2020
 - [Microsoft Ignite the Tour Singapore](https://www.microsoft.com/en-sg/ignite-the-tour/singapore): cancelled
 - [Microsoft Ignite the Tour Zurich](https://www.microsoft.com/de-ch/ignite-the-tour/zurich): cancelled
 - [Microsoft MVP Summit](https://www.geekwire.com/2020/microsoft-cancels-mvp-summit-due-coronavirus-outbreak-seattle-area/): cancelled
@@ -102,3 +105,5 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [WSLConf](https://www.wslconf.dev/): going online-only
 - [WWHackinfest San Diego](https://twitter.com/strandjs/status/1235648436545847297?s=20): Moving to virtual event (Talks, training and MetaCtf will be virtual)
 - [ZenDesk Relate](https://www.miamiherald.com/news/business/tourism-cruises/article240801336.html): cancelled
+
+
