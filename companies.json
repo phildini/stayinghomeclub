@@ -63,6 +63,15 @@
     "sources": ["https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/edit"]
   },
   {
+    "name": "Contentful",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "Restricted",
+    "updated": "2020-03-05",
+    "sources": []
+  },
+  {
     "name": "Crunchbase",
     "wfh": "Required",
     "travel": "Restricted",
@@ -81,6 +90,15 @@
     "sources": []
   },
   {
+    "name": "Determined AI",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-06",
+    "sources": []
+  },
+  {
     "name": "eBay",
     "wfh": "?",
     "travel": "Restricted",
@@ -89,13 +107,23 @@
     "updated": "2020-03-04",
     "sources": []
   },
+
+  {
+    "name": "f5 Networks",
+    "wfh": "Encouraged for Seattle and Bay Area until 3/23",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-05",
+    "sources": []
+  },
   {
     "name": "Facebook",
     "wfh": "Encouraged",
     "travel": "Restricted",
     "visitors": "Restricted",
     "events": "Restricted",
-    "updated": "2020-03-04",
+    "updated": "2020-03-05",
     "sources": ["https://www.geekwire.com/2020/facebook-contractor-seattle-tests-positive-coronavirus-company-closes-office/"]
   },
   {
@@ -134,6 +162,25 @@
     "updated": "2020-03-03",
     "sources": ["https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent"]
   },
+  {
+    "name": "Google",
+    "wfh": "Limited / Geo-specific",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-03",
+    "sources": ["https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent"]
+  },
+  {
+    "name": "HERE",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "Restricted",
+    "updated": "2020-03-05",
+    "sources": []
+  },
+
   {
     "name": "IBM",
     "wfh": "?",
@@ -214,6 +261,16 @@
     "events": "Restricted",
     "updated": "2020-03-03",
     "sources": ["https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html"]
+  },
+
+  {
+    "name": "SAP",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-05",
+    "sources": []
   },
   {
     "name": "Slack",

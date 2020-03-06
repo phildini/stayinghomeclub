@@ -1,5 +1,10 @@
 [
   {
+    "title": "Apache Roadshow/DC",
+    "source": "https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences",
+    "note": "cancelled"
+  },
+  {
     "title": "APIdays Singapore",
     "source": "https://www.apidays.co/singapore",
     "note": "Postponed until August 19-20"
@@ -27,6 +32,11 @@
   {
     "title": "Adobe Summit & Magento Imagine",
     "source": "https://www.adobe.com/summit.html",
+    "note": "online-only"
+  },
+  {
+    "title": "Berlin March Golang Meetup",
+    "source": "https://www.meetup.com/golang-users-berlin/events/265472557",
     "note": "online-only"
   },
   {
@@ -112,17 +122,17 @@
   {
     "title": "Facebook Global Marketing Summit",
     "source": "https://www.businessinsider.com/how-facebook-affected-novel-coronavirus-outbreak-2020-2",
-    "note": "Cancelled"
+    "note": "cancelled"
   },
   {
     "title": "Facebook F8",
     "source": "https://developers.facebook.com/blog/post/2020/02/27/important-f8-2020-update/",
-    "note": "Moving to a primarily online event"
+    "note": "moving to a primarily online event"
   },
   {
     "title": "Game Developers Conference (GDC)",
     "source": "https://www.gdconf.com/news/important-gdc-2020-update",
-    "note": "postponed"
+    "note": "postponed "
   },
   {
     "title": "GitHub Satellite",
@@ -140,6 +150,11 @@
     "note": "online-only"
   },
   {
+    "title": "Google News Initiative Summit",
+    "source": "http://socialbarrel.com/google-cancels-its-two-day-global-news-initiative-summit-over-coronavirus/123795/",
+    "note": "cancelled"
+  },
+  {
     "title": "Google Tensorflow Dev Summit",
     "source": "https://www.tensorflow.org/dev-summit/",
     "note": "online-only"
@@ -155,9 +170,24 @@
     "note": "online-only"
   },
   {
+    "title": "Ingram Micro Cloud Summit 2020",
+    "source": "https://www.ingrammicrocloud.com/press-releases/ingram-micro-cloud-postpones-cloud-summit-2020-early-2021/",
+    "note": "postponed until early 2021"
+  },
+  {
     "title": "Internet Freedom Summit",
     "source": "https://internetfreedomfestival.org/wiki/index.php/Cancellation_of_the_2020_Internet_Freedom_Festival",
     "note": "cancelled"
+  },
+  {
+    "title": "Internet2 2020 Global Summit",
+    "source": "https://meetings.internet2.edu/2020-global-summit/update-coronavirus/",
+    "note": "cancelled"
+  },
+  {
+    "title": "Kaspersky's Security Analyst Summit",
+    "source": "https://thesascon.com/",
+    "note": "postponed until Fall"
   },
   {
     "title": "KubeCon EU 2020",
@@ -172,12 +202,12 @@
   {
     "title": "Lesbians Who Tech",
     "source": "https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20",
-    "note": "postponed until August 6-8 2020 pending developments"
+    "note": "postponed until August 6-8, 2020 pending developments"
   },
   {
     "title": "Microsoft Ignite The Tour Amsterdam",
     "source": "https://www.microsoft.com/nl-nl/ignite-the-tour/amsterdam",
-    "note": "Cancellation announced March 2 2020"
+    "note": "cancellation announced March 2, 2020"
   },
   {
     "title": "Microsoft Ignite the Tour Singapore",
@@ -195,24 +225,29 @@
     "note": "cancelled"
   },
   {
-    "title": "Mobile World Congress",
+    "title": "Mobile World Congress (MWC) - Barcelona",
     "source": "https://www.mwcbarcelona.com/gsma-statement-on-mwc-2020/",
     "note": "cancelled"
   },
   {
-    "title": "NVidia GPU Conference",
+    "title": "Nvidia GPU Technology Conference (GTC) 2020",
     "source": "https://www.theverge.com/2020/3/2/21161635/nvidias-gpu-technology-conference-gtc-online-only-coronavirus",
     "note": "online-only"
   },
   {
     "title": "Open Compute Project Global Summit",
     "source": "https://www.opencompute.org/blog/we-are-moving-the-2020-ocp-global-summit-to-an-interactive-virtual-global-summit",
-    "note": "Changed to a virtual event."
+    "note": "changed to a virtual event."
   },
   {
     "title": "Oktane",
     "source": "https://www.oktane20.com/",
-    "note": "Changed to a virtual event"
+    "note": "changed to a virtual event"
+  },
+  {
+    "title": "Oracle Modern Business Experience",
+    "source": "https://www.oracle.com/modern-business-experience/",
+    "note": "postponed until Sep. 21-24 to coincide with OpenWorld"
   },
   {
     "title": "Oracle User Group Irelend (OUG Ireland)",
@@ -220,19 +255,44 @@
     "note": "cancelled"
   },
   {
+    "title": "Paris Blockchain Week Summit",
+    "source": "https://www.pbwsummit.com/",
+    "note": "postponed until Dec. 9-10"
+  },
+  {
     "title": "PyCon Italia",
     "source": "https://pycon.it/en/blog/pycon-11-postponed-to-november",
     "note": "moved to November"
   },
   {
+    "title": "Qualtrics X4 Summit",
+    "source": "https://www.qualtrics.com/x4summit/",
+    "note": "postponed to early Fall 2020"
+  },
+  {
     "title": "Red Hat Summit",
     "source": "https://www.redhat.com/en/summit",
-    "note": "Moving to virtual event."
+    "note": "moving to virtual event."
   },
   {
     "title": "RubyKaigi",
     "source": "https://rubykaigi.org/2020",
     "note": "postponed until September"
+  },
+  {
+    "title": "Salesforce World Tour Sydney",
+    "source": "https://www.salesforce.com/au/events/worldtour/syd20/overview/",
+    "note": "in-person canceled; online-only event"
+  },
+  {
+    "title": "SAP Ariba LIVE",
+    "source": "https://twitter.com/SAPAriba/status/1235043870250958854?s=20",
+    "note": "cancelled"
+  },
+  {
+    "title": "SAP Concur Fusion",
+    "source": "https://fusion.concur.com/fusion-orlando-announcement",
+    "note": "in-person canceled; online-only event"
   },
   {
     "title": "SNUG Silicon Valley",
@@ -257,17 +317,22 @@
   {
     "title": "SRECon Americas West",
     "source": "https://www.usenix.org/conferences/coronavirus",
-    "note": "Postponed until June"
+    "note": "postponed until June"
   },
   {
     "title": "Strata Data & AI",
     "source": "https://conferences.oreilly.com/strata-data-ai/stai-ca",
-    "note": "Merged with NY in September"
+    "note": "merged with NY in September"
   },
   {
     "title": "TED",
     "source": "https://www.axios.com/scoop-coronavirus-forces-ted-conference-to-delay-or-go-digital-731109d7-8178-49b4-8a16-321f14affe1f.html",
     "note": "post-poning or going online-only"
+  },
+  {
+    "title": "TNW Conference",
+    "source": "http://inside.thenextweb.com/186795-tnw-reschedules-2020-event-to-october-1-2",
+    "note": "postponed until Oct. 1-2"
   },
   {
     "title": "TSConf EU",
@@ -285,9 +350,14 @@
     "note": "going online-only"
   },
   {
+    "title": "Women in Cybersecurity (WiCyS) 2020",
+    "source": "https://www.wicys.org/",
+    "note": "cancelled, looking for alternative options TBD"
+  },
+  {
     "title": "WWHackinfest San Diego",
     "source": "https://twitter.com/strandjs/status/1235648436545847297?s=20",
-    "note": "Moving to virtual event (Talks, training and MetaCtf will be virtual)"
+    "note": "moving to virtual event (talks, training and MetaCTF will be virtual)"
   },
   {
     "title": "ZenDesk Relate",
