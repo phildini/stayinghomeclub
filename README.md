@@ -53,6 +53,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/): cancelled
 - [AWS Summit Sydney](https://aws.amazon.com/events/summits/sydney/): cancelled
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
+- [Berlin March Golang Meetup](https://www.meetup.com/golang-users-berlin/events/265472557): online-only
 - [Black Hat Asia](https://www.blackhat.com/asia-20/travel-updates.html): postponed until fall
 - [Cisco Live Melbourne](https://www.ciscolive.com/apjc.html): Cancelled
 - [CloudFest 2020](https://www.cloudfest.com/): cancelled
