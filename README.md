@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 23
+## Companies - 29
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- | 
@@ -13,6 +13,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Builder.io | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Cisco | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
 | [Coinbase](https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/edit) | Encouraged | ? | ? | ? | 2020-03-03 |
+| Crunchbase | Required | Restricted | Restricted | ? | 2020-03-05 |
 | Digit | Required | Restricted | Restricted | Restricted | 2020-03-05 |
 | eBay | ? | Restricted | ? | Restricted | 2020-03-04 |
 | [Facebook](https://www.geekwire.com/2020/facebook-contractor-seattle-tests-positive-coronavirus-company-closes-office/) | Limited / Geo-specific | Restricted | Restricted | Restricted | 2020-03-04 |
@@ -35,7 +36,6 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | [Twitter](https://blog.twitter.com/en_us/topics/company/2020/keeping-our-employees-and-partners-safe-during-coronavirus.html) | Required | Restricted | Restricted | Restricted | 2020-03-03 |
 | [Typless](https://typless.com/2020/03/05/switching-to-fully-remote-work/) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
 | Yelp | Encouraged | Restricted | ? | ? | 2020-03-03 |
-| Crunchbase | Required | Restricted | Restricted | ? | 2020-03-05 |
 
 <a name="events"></a>
 ## Events - 47
@@ -48,6 +48,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Blackhat Asia](https://www.blackhat.com/asia-20/travel-updates.html): postponed until fall
 - [Cisco Live Melbourne](https://www.ciscolive.com/apjc.html): Cancelled
 - [CloudFest 2020](https://www.cloudfest.com/): cancelled
+- [Deconstruct](https://www.deconstructconf.com/): cancelled
 - [DevNet Create](https://developer.cisco.com/devnetcreate/2020/): Postponed, new date unknown.
 - [DevOpsDays Tokyo](https://twitter.com/DevOpsDaysTokyo/status/1234433425114722308): cancelled
 - [DevRelCon Tokyo](https://tokyo-2020.devrel.net/information/2020/02/13/devrelcon-tokyo-has-canceled_en.html): cancelled
@@ -87,4 +88,3 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [WSLConf](https://www.wslconf.dev/): going online-only
 - [WWHackinfest San Diego](https://twitter.com/strandjs/status/1235648436545847297?s=20): Moving to virtual event (Talks, training and MetaCtf will be virtual)
 - [ZenDesk Relate](https://www.miamiherald.com/news/business/tourism-cruises/article240801336.html): cancelled
-- [Deconstruct](https://www.deconstructconf.com/): cancelled
