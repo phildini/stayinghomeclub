@@ -51,6 +51,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | [Stripe](https://stripe.com/newsroom/news/covid-19) | Encouraged, some Required | Restricted | Restricted | ? |2020-02-29 |
 | [Telenav](https://twitter.com/Telenav/status/1233227569249390592) | Encouraged | Restricted | ? | ? | 2020-03-05 |
 | [Textio](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/) | Encouraged | ? | ? | ? | 2020-03-04 |
+| [Twitch](https://twitter.com/DaleCruse/status/1236016477666308096?s=20) | Required | ? | ? | ? | 2020-03-06 |
 | [Twitter](https://blog.twitter.com/en_us/topics/company/2020/keeping-our-employees-and-partners-safe-during-coronavirus.html) | Required | Restricted | Restricted | Restricted | 2020-03-03 |
 | [Typless](https://typless.com/2020/03/05/switching-to-fully-remote-work/) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
 | VSCO | Required | Restricted | ? | ? | 2020-03-06 |
@@ -135,6 +136,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [TED](https://www.axios.com/scoop-coronavirus-forces-ted-conference-to-delay-or-go-digital-731109d7-8178-49b4-8a16-321f14affe1f.html): post-poning or going online-only
 - [TNW Conference](http://inside.thenextweb.com/186795-tnw-reschedules-2020-event-to-october-1-2): postponed until Oct. 1-2
 - [TSConf EU](https://twitter.com/tsconfeu/status/1235135186033139713): postponed
+- [TwitchCon Amsterdam](https://twitter.com/TwitchCon/status/1235942102556651521?s=20): cancelled
 - [Unreal Fest Europe](https://www.unrealengine.com/en-US/events/unreal-fest-europe-2020): cancelled
 - [WSLConf](https://www.wslconf.dev/): going online-only
 - [Women in Cybersecurity (WiCyS) 2020](https://www.wicys.org/): cancelled, looking for alternative options TBD
