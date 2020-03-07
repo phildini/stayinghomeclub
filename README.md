@@ -54,6 +54,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | [Typless](https://typless.com/2020/03/05/switching-to-fully-remote-work/) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
 | VSCO | Required | Restricted | ? | ? | 2020-03-06 |
 | Yelp | Encouraged | Restricted | ? | ? | 2020-03-03 |
+| [Zillow](https://www.zillow.com/) | Encouraged | Restricted | ? | ? | 2020-03-06 |
 
 <a name="events"></a>
 ## Events - 75
