@@ -23,6 +23,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Contentful | Encouraged | Restricted | ? | Restricted | 2020-03-03 |
 | Crunchbase | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Crunchyroll | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
+| Dell-EMC | Allowed | Restricted | Restricted | Restricted | 2020-03-02 |
 | Digit | Required | Restricted | Restricted | Restricted | 2020-03-05 |
 | Determined AI | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | eBay | ? | Restricted | ? | Restricted | 2020-03-04 |
