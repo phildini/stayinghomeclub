@@ -3,22 +3,23 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 45
+## Companies - 47
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- | 
-| [Amazon](https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020) | Encouraged, Recommended for Seattle to 3/31 | Restricted | Restricted | Restricted | 2020-03-04 |
+| [Amazon](https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020) | Encouraged, Recommended for Seattle and Bay Area to 3/31 | Restricted | Restricted | Restricted | 2020-03-06 |
 | Apple | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | [Adobe](https://www.npr.org/2020/03/03/811728989/coronavirus-cancellations-and-travel-bans-google-is-latest) | ? | Restricted | ? | ? | 2020-03-06 |
-| Brex | Encouraged, Recommended for San Francisco, Vancouver, New York and Salt Lake City offices | Restricted | Restricted | Restricted | 2020-03-06 |
+| Brex | Encouraged, Recommended for San Francisco, Vancouver, New York | Restricted | Restricted | Restricted | 2020-03-06 |
 | Brightloom | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Builder.io | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | [Bungie](https://www.bungie.net/en/Explore/Detail/News/48839) | Required | ? | ? | ? | 2020-03-05 |
+| charity: water | Required | Restricted | Restricted | Restricted | 2020-3-06 |
 | Cisco | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
 | Cloudflare | ? | Restricted | Restricted | Restricted | 2020-03-04 |
 | [Coinbase](https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/edit) | Encouraged | ? | ? | ? | 2020-03-03 |
 | Contentful | Encouraged | Restricted | ? | Restricted | 2020-03-03 |
-| Crunchbase | Required | Restricted | Restricted | ? | 2020-03-05 |
+| Crunchbase | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Crunchyroll | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Digit | Required | Restricted | Restricted | Restricted | 2020-03-05 |
 | Determined AI | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
@@ -34,13 +35,16 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | HERE | Encouraged | Restricted | ? | Restricted | 2020-03-05 |
 | [IBM](https://www.theverge.com/2020/3/4/21165449/ibm-coronavirus-suspending-domestic-international-travel) | ? | Restricted | ? | ? | 2020-03-05 |
 | [Indeed](https://www.kvue.com/article/news/health/indeed-coronavirus-work-from-home/269-79c7797f-4d60-41df-bd9b-8b6bc25d9f3f) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
+| Joy | Encouraged | ? | ? | ? | 2020-03-06 | 
 | Lyft | Encouraged | ? | ? | ? | 2020-03-04 | 
 | [LinkedIn](https://www.businessinsider.com/linkedin-tells-employees-to-work-from-home-over-coronavirus-concerns-2020-3) | Encouraged | ? | ? | ? | 2020-03-05 |
 | [Microsoft](https://www.theverge.com/2020/3/4/21164522/microsoft-coronavirus-response-comment-employees-memo-work-from-home) | Limited / Geo-specific | ? | ? | ? | 2020-03-03 |
 | Mozilla | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | [Nordstrom](https://www.geekwire.com/2020/coronavirus-live-updates-seattle-tech-community-grappling-covid-19/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
+| OfferUp | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Okta | Required | Restricted | ? | ? | 2020-03-05 |
 | Parler | Required | Restricted | Restricted | Restricted | 2020-03-06 |
+| [ProdPerfect](https://prodperfect.com/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 | 
 | [Redfin](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/) | Encouraged | ? | ? | ? | 2020-03-04 |
 | [Salesforce](https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
 | SAP | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
@@ -49,9 +53,11 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | [Stripe](https://stripe.com/newsroom/news/covid-19) | Encouraged, some Required | Restricted | Restricted | ? |2020-02-29 |
 | [Telenav](https://twitter.com/Telenav/status/1233227569249390592) | Encouraged | Restricted | ? | ? | 2020-03-05 |
 | [Textio](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/) | Encouraged | ? | ? | ? | 2020-03-04 |
+| [Twitch](https://twitter.com/DaleCruse/status/1236016477666308096?s=20) | Required | ? | ? | ? | 2020-03-06 |
 | [Twitter](https://blog.twitter.com/en_us/topics/company/2020/keeping-our-employees-and-partners-safe-during-coronavirus.html) | Required | Restricted | Restricted | Restricted | 2020-03-03 |
 | [Typless](https://typless.com/2020/03/05/switching-to-fully-remote-work/) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
 | VSCO | Required | Restricted | ? | ? | 2020-03-06 |
+| [Wikimedia Foundation](https://wikimediafoundation.org/news/2020/03/06/wikimedia-foundation-will-close-san-francisco-office-and-encourage-remote-work-for-march-2020-amidst-covid-19-concerns/) | Encouraged, required for San Francisco office | Restricted | Restricted | Restricted | 2020-03-06 |
 | Workday | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Yelp | Encouraged | Restricted | ? | ? | 2020-03-03 |
 
@@ -119,6 +125,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Red Hat Summit](https://www.redhat.com/en/summit): moving to virtual event.
 - [RedisConf20](https://events.redislabs.com/redisconf20/): moving to virtual event
 - [RubyKaigi](https://rubykaigi.org/2020): postponed until September
+- [SaaStr Annual](https://www.saastrannual.com/): postponed until September
 - [Salesforce World Tour Sydney](https://www.salesforce.com/au/events/worldtour/syd20/overview/): in-person canceled; online-only event
 - [SAP Ariba LIVE](https://twitter.com/SAPAriba/status/1235043870250958854?s=20): cancelled
 - [SAP Concur Fusion](https://fusion.concur.com/fusion-orlando-announcement): in-person canceled; online-only event
@@ -126,12 +133,14 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Security Analyst Summit](https://twitter.com/TheSAScon/status/1234911915773583361): cancelled
 - [Shopify Unite & Shopify Pursuit](https://www.shopify.com.au/partners/blog/unite-2020-update): cancelled
 - [Shoptalk](https://www.retaildive.com/news/shoptalk-postponed-until-september-on-coronavirus-concerns/573549/): Postponed until September
+- [SXSW](https://www.sxsw.com/2020-event-update/): cancelled
 - [SRECon Americas West](https://www.usenix.org/conferences/coronavirus): postponed until June
 - [Strata Data & AI](https://conferences.oreilly.com/strata-data-ai/stai-ca): merged with NY in September
-- [SXSW](https://twitter.com/sxsw/status/1236048680337182724): cancelled
+- [SXSW](https://www.sxsw.com/2020-event-update/): cancelled
 - [TED](https://www.axios.com/scoop-coronavirus-forces-ted-conference-to-delay-or-go-digital-731109d7-8178-49b4-8a16-321f14affe1f.html): post-poning or going online-only
 - [TNW Conference](http://inside.thenextweb.com/186795-tnw-reschedules-2020-event-to-october-1-2): postponed until Oct. 1-2
 - [TSConf EU](https://twitter.com/tsconfeu/status/1235135186033139713): postponed
+- [TwitchCon Amsterdam](https://twitter.com/TwitchCon/status/1235942102556651521?s=20): cancelled
 - [Unreal Fest Europe](https://www.unrealengine.com/en-US/events/unreal-fest-europe-2020): cancelled
 - [WSLConf](https://www.wslconf.dev/): going online-only
 - [Women in Cybersecurity (WiCyS) 2020](https://www.wicys.org/): cancelled, looking for alternative options TBD
