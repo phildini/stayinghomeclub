@@ -129,7 +129,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [SXSW](https://www.sxsw.com/2020-event-update/): cancelled
 - [SRECon Americas West](https://www.usenix.org/conferences/coronavirus): postponed until June
 - [Strata Data & AI](https://conferences.oreilly.com/strata-data-ai/stai-ca): merged with NY in September
-- [SXSW](https://twitter.com/sxsw/status/1236048680337182724): cancelled
+- [SXSW](https://www.sxsw.com/2020-event-update/): cancelled
 - [TED](https://www.axios.com/scoop-coronavirus-forces-ted-conference-to-delay-or-go-digital-731109d7-8178-49b4-8a16-321f14affe1f.html): post-poning or going online-only
 - [TNW Conference](http://inside.thenextweb.com/186795-tnw-reschedules-2020-event-to-october-1-2): postponed until Oct. 1-2
 - [TSConf EU](https://twitter.com/tsconfeu/status/1235135186033139713): postponed
