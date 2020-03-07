@@ -65,7 +65,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | [Zillow](https://www.zillow.com/) | Encouraged | Restricted | ? | ? | 2020-03-06 |
 
 <a name="events"></a>
-## Events - 81
+## Events - 82
 
 - [Apache Roadshow/DC](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
 - [APIdays Singapore](https://www.apidays.co/singapore): Postponed until August 19-20
