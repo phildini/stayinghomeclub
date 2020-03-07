@@ -136,6 +136,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Outreach Unleash 2020](https://www.outreach.io/blog/unleash-20-update): cancelled
 - [Paris Blockchain Week Summit](https://www.pbwsummit.com/): postponed until Dec. 9-10
 - [PyCon Italia](https://pycon.it/en/blog/pycon-11-postponed-to-november): moved to November
+- [PyCon SK](https://2020.pycon.sk/en/news.html): moved to September
 - [Qualtrics X4 Summit](https://www.qualtrics.com/x4summit/): postponed to early Fall 2020
 - [Red Hat Summit](https://www.redhat.com/en/summit): moving to virtual event.
 - [RedisConf20](https://events.redislabs.com/redisconf20/): moving to virtual event
@@ -159,5 +160,6 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Unreal Fest Europe](https://www.unrealengine.com/en-US/events/unreal-fest-europe-2020): cancelled
 - [WSLConf](https://www.wslconf.dev/): going online-only
 - [Women in Cybersecurity (WiCyS) 2020](https://www.wicys.org/): cancelled, looking for alternative options TBD
+- [WWCode CONNECT India 2020](https://www.womenwhocode.com/blog/coronavirus-update-a-note-from-our-ceo): postponed
 - [WWHackinfest San Diego](https://twitter.com/strandjs/status/1235648436545847297?s=20): moving to virtual event (talks, training and MetaCTF will be virtual)
 - [ZenDesk Relate](https://www.miamiherald.com/news/business/tourism-cruises/article240801336.html): cancelled
