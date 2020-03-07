@@ -63,6 +63,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Workday | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Yelp | Encouraged | Restricted | ? | ? | 2020-03-03 |
 | [Zillow](https://www.zillow.com/) | Encouraged | Restricted | ? | ? | 2020-03-06 |
+| Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
 ## Events - 81
