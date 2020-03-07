@@ -72,23 +72,26 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | [Zillow](https://www.zillow.com/) | Encouraged | Restricted | ? | ? | 2020-03-06 |
 
 <a name="events"></a>
-## Events - 81
+## Events - 85
 
 - [Apache Roadshow/DC](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
-- [APIdays Singapore](https://www.apidays.co/singapore): Postponed until August 19-20
-- [Atlassian Summit](https://www.atlassian.com/company/events/summit): Moving to virtual.
-- [Aruba Atmosphere 2020](https://www.atlassian.com/company/events/summit): Virtual with small local events
+- [APIdays Singapore](https://www.apidays.co/singapore): postponed until August 19-20
+- [Architectural Support for Programming Languages and Operating Systems (ASPLOS)](https://asplos-conference.org/): cancelled
+- [Atlassian Summit](https://www.atlassian.com/company/events/summit): moving to virtual
+- [Area41 Security Conference](https://a41con.blogspot.com/2020/03/area41-postponed-to-june-2021.html): postponed
+- [Aruba Atmosphere 2020](https://www.atlassian.com/company/events/summit): virtual with small local events
 - [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/): cancelled
 - [AWS Summit Sydney](https://aws.amazon.com/events/summits/sydney/): cancelled
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
 - [Berlin March Golang Meetup](https://www.meetup.com/golang-users-berlin/events/265472557): online-only
 - [Black Hat Asia](https://www.blackhat.com/asia-20/travel-updates.html): postponed until fall
-- [Cisco Live Melbourne](https://www.ciscolive.com/apjc.html): Cancelled
+- [BSides Liverpool](https://twitter.com/BsidesLivrpool/status/1235988839623266304): postponed until later this year
+- [Cisco Live Melbourne](https://www.ciscolive.com/apjc.html): cancelled
 - [CloudFest 2020](https://www.cloudfest.com/): cancelled
 - [Deconstruct](https://www.deconstructconf.com/): cancelled
 - [DEFCON China 2.0](https://defcon.org/html/defcon-china-2/dc-cn-2-index.html): postponed
-- [DevNet Create](https://developer.cisco.com/devnetcreate/2020/): Postponed, new date unknown.
-- [DevOpsDays Seattle](https://twitter.com/DevOpsDaysSEA/status/1235307914908389376): Postponed, possibly cancelled
+- [DevNet Create](https://developer.cisco.com/devnetcreate/2020/): postponed, new date unknown
+- [DevOpsDays Seattle](https://twitter.com/DevOpsDaysSEA/status/1235307914908389376): postponed, possibly cancelled
 - [DevOpsDays Tokyo](https://twitter.com/DevOpsDaysTokyo/status/1234433425114722308): cancelled
 - [DevRelCon Tokyo](https://tokyo-2020.devrel.net/information/2020/02/13/devrelcon-tokyo-has-canceled_en.html): cancelled
 - [DocuSign Momentum - San Francisco](https://momentum.docusign.com/faq): online-only
@@ -124,7 +127,8 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Minecraft Festival](https://www.minecraft.net/en-us/article/minecraft-festival-postponed): postponed to 2021, Minecraft Live still happening online-only
 - [Mobile World Congress (MWC) - Barcelona](https://www.mwcbarcelona.com/gsma-statement-on-mwc-2020/): cancelled
 - [Nvidia GPU Technology Conference (GTC) 2020](https://www.theverge.com/2020/3/2/21161635/nvidias-gpu-technology-conference-gtc-online-only-coronavirus): online-only
-- [Open Compute Project Global Summit](https://www.opencompute.org/blog/we-are-moving-the-2020-ocp-global-summit-to-an-interactive-virtual-global-summit): changed to a virtual event.
+- [OCLC Resource Sharing Conference 2020](https://www.oclc.org/en/events/2020/Resource-Sharing-Conference.html): cancelled
+- [Open Compute Project Global Summit](https://www.opencompute.org/blog/we-are-moving-the-2020-ocp-global-summit-to-an-interactive-virtual-global-summit): changed to a virtual event
 - [Oktane](https://www.oktane20.com/): changed to a virtual event
 - [Oracle Modern Business Experience](https://www.oracle.com/modern-business-experience/): postponed until Sep. 21-24 to coincide with OpenWorld
 - [Oracle User Group Irelend (OUG Ireland)](https://twitter.com/MDWidlake/status/1234864869377216515): cancelled
@@ -142,7 +146,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [SNUG Silicon Valley](https://www.synopsys.com/community/snug/snug-silicon-valley.html): cancelled
 - [Security Analyst Summit](https://twitter.com/TheSAScon/status/1234911915773583361): cancelled
 - [Shopify Unite & Shopify Pursuit](https://www.shopify.com.au/partners/blog/unite-2020-update): cancelled
-- [Shoptalk](https://www.retaildive.com/news/shoptalk-postponed-until-september-on-coronavirus-concerns/573549/): Postponed until September
+- [Shoptalk](https://www.retaildive.com/news/shoptalk-postponed-until-september-on-coronavirus-concerns/573549/): postponed until September
 - [SXSW](https://www.sxsw.com/2020-event-update/): cancelled
 - [SRECon Americas West](https://www.usenix.org/conferences/coronavirus): postponed until June
 - [Strata Data & AI](https://conferences.oreilly.com/strata-data-ai/stai-ca): merged with NY in September
