@@ -49,6 +49,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | OfferUp | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Okta | Required | Restricted | ? | ? | 2020-03-05 |
 | Parler | Required | Restricted | Restricted | Restricted | 2020-03-06 |
+| [PingCAP](https://pingcap.com/) | Required for Bay Area | Restricted | Restricted | Restricted | 2020-03-07 |
 | [ProdPerfect](https://prodperfect.com/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 | 
 | [PressCentric](https://www.presscentric.com) | Encouraged | Restricted | ? | ? | 2020-03-06 | 
 | [Redfin](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/) | Encouraged | ? | ? | ? | 2020-03-04 |
