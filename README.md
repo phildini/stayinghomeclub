@@ -6,10 +6,11 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 ## Companies - 53
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
-| --- | --- | --- | --- | --- | --- | 
+| --- | --- | --- | --- | --- | --- |
+| [Adobe](https://www.npr.org/2020/03/03/811728989/coronavirus-cancellations-and-travel-bans-google-is-latest) | ? | Restricted | ? | ? | 2020-03-06 |
 | [Amazon](https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020) | Encouraged, Recommended for Seattle and Bay Area to 3/31 | Restricted | Restricted | Restricted | 2020-03-06 |
 | Apple | Encouraged | Restricted | ? | ? | 2020-03-06 |
-| [Adobe](https://www.npr.org/2020/03/03/811728989/coronavirus-cancellations-and-travel-bans-google-is-latest) | ? | Restricted | ? | ? | 2020-03-06 |
+| Atlassian | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | Brex | Encouraged, Recommended for San Francisco, Vancouver, New York | Restricted | Restricted | Restricted | 2020-03-06 |
 | Brightloom | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Builder.io | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
