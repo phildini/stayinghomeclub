@@ -109,6 +109,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [F5 Agility](https://www.f5.com/agility): moving to virtual event
 - [Facebook Global Marketing Summit](https://www.businessinsider.com/how-facebook-affected-novel-coronavirus-outbreak-2020-2): cancelled
 - [Facebook F8](https://developers.facebook.com/blog/post/2020/02/27/important-f8-2020-update/): moving to a primarily online event
+- [Flink Forward (Apache Flink)](https://www.flink-forward.org/sf-2020): cancelled, considering moving to virtual
 - [Game Developers Conference (GDC)](https://www.gdconf.com/news/important-gdc-2020-update): postponed 
 - [GitHub Satellite](https://githubsatellite.com/): going online-only
 - [Google Cloud Next](https://cloud.withgoogle.com/next/sf/): online-only
