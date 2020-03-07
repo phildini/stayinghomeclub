@@ -110,6 +110,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [KubeCon EU 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/): postponed until July/August, 2020, dates pending
 - [Linaro Connect Budapest 2020](https://www.linaro.org/blog/linaro-connect-budapest-2020-cancelled/): cancelled
 - [Lesbians Who Tech](https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20): postponed until August 6-8, 2020 pending developments
+- [Micro Focus Universe The Hague](https://universe.microfocus.com/): moving to virtual event Micro Focus Virtual Universe 2020
 - [Microsoft Ignite The Tour Amsterdam](https://www.microsoft.com/nl-nl/ignite-the-tour/amsterdam): cancellation announced March 2, 2020
 - [Microsoft Ignite the Tour Singapore](https://www.microsoft.com/en-sg/ignite-the-tour/singapore): cancelled
 - [Microsoft Ignite the Tour Zurich](https://www.microsoft.com/de-ch/ignite-the-tour/zurich): cancelled
@@ -136,6 +137,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Security Analyst Summit](https://twitter.com/TheSAScon/status/1234911915773583361): cancelled
 - [Shopify Unite & Shopify Pursuit](https://www.shopify.com.au/partners/blog/unite-2020-update): cancelled
 - [Shoptalk](https://www.retaildive.com/news/shoptalk-postponed-until-september-on-coronavirus-concerns/573549/): Postponed until September
+- [SUSECON 2020](https://www.susecon.com): cancelled, moving to virtual event SUSECON Digital 2020
 - [SXSW](https://www.sxsw.com/2020-event-update/): cancelled
 - [SRECon Americas West](https://www.usenix.org/conferences/coronavirus): postponed until June
 - [Strata Data & AI](https://conferences.oreilly.com/strata-data-ai/stai-ca): merged with NY in September
