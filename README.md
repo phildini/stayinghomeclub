@@ -41,6 +41,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | [Nordstrom](https://www.geekwire.com/2020/coronavirus-live-updates-seattle-tech-community-grappling-covid-19/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
 | Okta | Required | Restricted | ? | ? | 2020-03-05 |
 | Parler | Required | Restricted | Restricted | Restricted | 2020-03-06 |
+| [ProdPerfect](https://prodperfect.com/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 | 
 | [Redfin](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/) | Encouraged | ? | ? | ? | 2020-03-04 |
 | [Salesforce](https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
 | SAP | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
@@ -118,6 +119,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Red Hat Summit](https://www.redhat.com/en/summit): moving to virtual event.
 - [RedisConf20](https://events.redislabs.com/redisconf20/): moving to virtual event
 - [RubyKaigi](https://rubykaigi.org/2020): postponed until September
+- [SaaStr Annual](https://www.saastrannual.com/): postponed until September
 - [Salesforce World Tour Sydney](https://www.salesforce.com/au/events/worldtour/syd20/overview/): in-person canceled; online-only event
 - [SAP Ariba LIVE](https://twitter.com/SAPAriba/status/1235043870250958854?s=20): cancelled
 - [SAP Concur Fusion](https://fusion.concur.com/fusion-orlando-announcement): in-person canceled; online-only event
