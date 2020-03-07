@@ -3,12 +3,14 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 39
+## Companies - 45
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- | 
 | [Amazon](https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020) | Encouraged, Recommended for Seattle to 3/31 | Restricted | Restricted | Restricted | 2020-03-04 |
 | Apple | Encouraged | Restricted | ? | ? | 2020-03-06 |
+| [Adobe](https://www.npr.org/2020/03/03/811728989/coronavirus-cancellations-and-travel-bans-google-is-latest) | ? | Restricted | ? | ? | 2020-03-06 |
+| Brex | Encouraged, Recommended for San Francisco, Vancouver, New York | Restricted | Restricted | Restricted | 2020-03-06 |
 | Brightloom | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Builder.io | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | [Bungie](https://www.bungie.net/en/Explore/Detail/News/48839) | Required | ? | ? | ? | 2020-03-05 |
@@ -17,22 +19,27 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | [Coinbase](https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/edit) | Encouraged | ? | ? | ? | 2020-03-03 |
 | Contentful | Encouraged | Restricted | ? | Restricted | 2020-03-03 |
 | Crunchbase | Required | Restricted | Restricted | ? | 2020-03-05 |
+| Crunchyroll | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Digit | Required | Restricted | Restricted | Restricted | 2020-03-05 |
 | Determined AI | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | eBay | ? | Restricted | ? | Restricted | 2020-03-04 |
+| Expedia | Encouraged, some Required | Restricted | ? | ? | 2020-03-06 |
 | f5 Networks | Encouraged for Seattle and Bay Area until 3/23 | Restricted | Restricted | Restricted | 2020-03-05 |
 | [Facebook](https://www.geekwire.com/2020/facebook-contractor-seattle-tests-positive-coronavirus-company-closes-office/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
 | [Fastly](https://www.fastly.com/blog/exercising-caution-as-covid-19-evolves) | Required | Restricted | Restricted | Restricted | 2020-03-01 |
 | [GitHub](https://github.blog/2020-03-03-covid-19-update-supporting-our-employees-and-community/) | Encouraged | Restricted | ? | ? | 2020-03-04 |
 | [Glassdoor](https://www.glassdoor.com/blog/glassdoor-coronavirus/) | Required | Restricted | Restricted | ? | 2020-03-05 |
 | [Google](https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent) | Limited / Geo-specific | Restricted | ? | ? | 2020-03-03 |
+| Groupon | Encouraged | Restricted | ? | Restricted | 2020-03-06 |
 | HERE | Encouraged | Restricted | ? | Restricted | 2020-03-05 |
 | [IBM](https://www.theverge.com/2020/3/4/21165449/ibm-coronavirus-suspending-domestic-international-travel) | ? | Restricted | ? | ? | 2020-03-05 |
-| [Indeed](https://www.kvue.com/article/news/health/indeed-coronavirus-work-from-home/269-79c7797f-4d60-41df-bd9b-8b6bc25d9f3f) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
+| [Indeed](http://press.indeed.com/press/indeeds-response-to-covid-19/) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
 | Lyft | Encouraged | ? | ? | ? | 2020-03-04 | 
 | [LinkedIn](https://www.businessinsider.com/linkedin-tells-employees-to-work-from-home-over-coronavirus-concerns-2020-3) | Encouraged | ? | ? | ? | 2020-03-05 |
 | [Microsoft](https://www.theverge.com/2020/3/4/21164522/microsoft-coronavirus-response-comment-employees-memo-work-from-home) | Limited / Geo-specific | ? | ? | ? | 2020-03-03 |
+| Mozilla | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | [Nordstrom](https://www.geekwire.com/2020/coronavirus-live-updates-seattle-tech-community-grappling-covid-19/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
+| OfferUp | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Okta | Required | Restricted | ? | ? | 2020-03-05 |
 | Parler | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | [Redfin](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/) | Encouraged | ? | ? | ? | 2020-03-04 |
@@ -110,6 +117,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [PyCon Italia](https://pycon.it/en/blog/pycon-11-postponed-to-november): moved to November
 - [Qualtrics X4 Summit](https://www.qualtrics.com/x4summit/): postponed to early Fall 2020
 - [Red Hat Summit](https://www.redhat.com/en/summit): moving to virtual event.
+- [RedisConf20](https://events.redislabs.com/redisconf20/): moving to virtual event
 - [RubyKaigi](https://rubykaigi.org/2020): postponed until September
 - [Salesforce World Tour Sydney](https://www.salesforce.com/au/events/worldtour/syd20/overview/): in-person canceled; online-only event
 - [SAP Ariba LIVE](https://twitter.com/SAPAriba/status/1235043870250958854?s=20): cancelled
@@ -118,6 +126,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Security Analyst Summit](https://twitter.com/TheSAScon/status/1234911915773583361): cancelled
 - [Shopify Unite & Shopify Pursuit](https://www.shopify.com.au/partners/blog/unite-2020-update): cancelled
 - [Shoptalk](https://www.retaildive.com/news/shoptalk-postponed-until-september-on-coronavirus-concerns/573549/): Postponed until September
+- [SXSW](https://www.sxsw.com/2020-event-update/): cancelled
 - [SRECon Americas West](https://www.usenix.org/conferences/coronavirus): postponed until June
 - [Strata Data & AI](https://conferences.oreilly.com/strata-data-ai/stai-ca): merged with NY in September
 - [SXSW](https://www.sxsw.com/2020-event-update/): cancelled
