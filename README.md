@@ -90,6 +90,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Berlin March Golang Meetup](https://www.meetup.com/golang-users-berlin/events/265472557): online-only
 - [Black Hat Asia](https://www.blackhat.com/asia-20/travel-updates.html): postponed until fall
 - [BSides Liverpool](https://twitter.com/BsidesLivrpool/status/1235988839623266304): postponed until later this year
+- [California Association for Behavior Analysis Conference](https://calaba.org/conference): cancelled
 - [Cisco Live Melbourne](https://www.ciscolive.com/apjc.html): cancelled
 - [CloudFest 2020](https://www.cloudfest.com/): cancelled
 - [Deconstruct](https://www.deconstructconf.com/): cancelled
