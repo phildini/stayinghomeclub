@@ -60,6 +60,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | [Typless](https://typless.com/2020/03/05/switching-to-fully-remote-work/) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
 | VSCO | Required | Restricted | ? | ? | 2020-03-06 |
 | [Wikimedia Foundation](https://wikimediafoundation.org/news/2020/03/06/wikimedia-foundation-will-close-san-francisco-office-and-encourage-remote-work-for-march-2020-amidst-covid-19-concerns/) | Encouraged, required for San Francisco office | Restricted | Restricted | Restricted | 2020-03-06 |
+| Wish | Encouraged, required for some locations | Restricted | Restricted | Restricted | 2020-03-05 |
 | Workday | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Yelp | Encouraged | Restricted | ? | ? | 2020-03-03 |
 | [Zillow](https://www.zillow.com/) | Encouraged | Restricted | ? | ? | 2020-03-06 |
