@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 53
+## Companies - 54
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- | 
@@ -46,6 +46,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Okta | Required | Restricted | ? | ? | 2020-03-05 |
 | Parler | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | [ProdPerfect](https://prodperfect.com/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 | 
+| [PressCentric](https://www.presscentric.com) | Encouraged | Restricted | ? | ? | 2020-03-06 | 
 | [Redfin](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/) | Encouraged | ? | ? | ? | 2020-03-04 |
 | Roblox | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | [Salesforce](https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
