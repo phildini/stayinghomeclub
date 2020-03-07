@@ -148,5 +148,6 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Unreal Fest Europe](https://www.unrealengine.com/en-US/events/unreal-fest-europe-2020): cancelled
 - [WSLConf](https://www.wslconf.dev/): going online-only
 - [Women in Cybersecurity (WiCyS) 2020](https://www.wicys.org/): cancelled, looking for alternative options TBD
+- [WWCode CONNECT India 2020](https://www.womenwhocode.com/blog/coronavirus-update-a-note-from-our-ceo): postponed
 - [WWHackinfest San Diego](https://twitter.com/strandjs/status/1235648436545847297?s=20): moving to virtual event (talks, training and MetaCTF will be virtual)
 - [ZenDesk Relate](https://www.miamiherald.com/news/business/tourism-cruises/article240801336.html): cancelled
