@@ -78,7 +78,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
-## Events - 93
+## Events - 94
 
 - [Apache Roadshow/DC](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
 - [APIdays Singapore](https://www.apidays.co/singapore): postponed until August 19-20
@@ -109,6 +109,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Dreamforce World Tour (Sydney)](https://www.arnnet.com.au/article/671175/salesforce-world-tour-sydney-goes-digital-amid-coronavirus-fears/): cancelled
 - [Emerald City Comic Con (ECCC)](https://www.emeraldcitycomiccon.com/About/A-Statement-From-Reedpop/): postponed until summer
 - [EmTech Asia](https://emtechasia.com/): postponed until August
+- [Ellucian Live 2020](https://www.ellucian.com/ellucianlive): moving to virtual event
 - [Experimental Biology 2020](https://experimentalbiology.org/2020/home.aspx): cancelled
 - [F5 Agility](https://www.f5.com/agility): moving to virtual event
 - [Facebook Global Marketing Summit](https://www.businessinsider.com/how-facebook-affected-novel-coronavirus-outbreak-2020-2): cancelled
@@ -162,6 +163,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [SXSW](https://www.sxsw.com/2020-event-update/): cancelled
 - [SRECon Americas West](https://www.usenix.org/conferences/coronavirus): postponed until June
 - [Strata Data & AI](https://conferences.oreilly.com/strata-data-ai/stai-ca): merged with NY in September
+- [SUSECON 2020](https://www.suse.com/c/reimagining-susecon-2020/): moving to virtual event
 - [SXSW](https://www.sxsw.com/2020-event-update/): cancelled
 - [TED](https://www.axios.com/scoop-coronavirus-forces-ted-conference-to-delay-or-go-digital-731109d7-8178-49b4-8a16-321f14affe1f.html): post-poning or going online-only
 - [TNW Conference](http://inside.thenextweb.com/186795-tnw-reschedules-2020-event-to-october-1-2): postponed until Oct. 1-2
