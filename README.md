@@ -44,7 +44,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Indeed[[1]](https://www.kvue.com/article/news/health/indeed-coronavirus-work-from-home/269-79c7797f-4d60-41df-bd9b-8b6bc25d9f3f) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
 | Intuit | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Joy | Encouraged | ? | ? | ? | 2020-03-06 |
-| Lyft | Encouraged | Non-critical restricted | ? | ? | 2020-03-06 | 
+| Lyft | Encouraged | Non-critical restricted | ? | ? | 2020-03-06 |
 | LinkedIn[[1]](https://www.businessinsider.com/linkedin-tells-employees-to-work-from-home-over-coronavirus-concerns-2020-3) | Encouraged | Restricted | ? | Restricted | 2020-03-05 |
 | Microsoft[[1]](https://www.theverge.com/2020/3/4/21164522/microsoft-coronavirus-response-comment-employees-memo-work-from-home) | Limited / Geo-specific | ? | ? | ? | 2020-03-03 |
 | Mozilla | Encouraged | Restricted | ? | ? | 2020-03-06 |
@@ -53,8 +53,8 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Okta | Required | Restricted | ? | ? | 2020-03-05 |
 | Parler | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | PingCap | Required for Bay Area | Restricted | Restricted | Restricted | 2020-03-07 |
-| ProdPerfect | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 | 
-| PressCentric | Encouraged | Restricted | ? | ? | 2020-03-06 | 
+| ProdPerfect | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
+| PressCentric | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | Redfin[[1]](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/) | Encouraged | ? | ? | ? | 2020-03-04 |
 | Roblox | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | Salesforce[[1]](https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
@@ -77,7 +77,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
-## Events - 89
+## Events - 92
 
 - [Apache Roadshow/DC](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
 - [APIdays Singapore](https://www.apidays.co/singapore): postponed until August 19-20
@@ -94,6 +94,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [California Association for Behavior Analysis Conference](https://calaba.org/conference): cancelled
 - [Cisco Live Melbourne](https://www.ciscolive.com/apjc.html): cancelled
 - [CloudFest 2020](https://www.cloudfest.com/): cancelled
+- [Collision](https://collisionconf.com/): moving to virtual event
 - [Deconstruct](https://www.deconstructconf.com/): cancelled
 - [DEFCON China 2.0](https://defcon.org/html/defcon-china-2/dc-cn-2-index.html): postponed
 - [DevNet Create](https://developer.cisco.com/devnetcreate/2020/): postponed, new date unknown
@@ -112,7 +113,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Facebook Global Marketing Summit](https://www.businessinsider.com/how-facebook-affected-novel-coronavirus-outbreak-2020-2): cancelled
 - [Facebook F8](https://developers.facebook.com/blog/post/2020/02/27/important-f8-2020-update/): moving to a primarily online event
 - [Flink Forward (Apache Flink)](https://www.flink-forward.org/sf-2020): cancelled, considering moving to virtual
-- [Game Developers Conference (GDC)](https://www.gdconf.com/news/important-gdc-2020-update): postponed 
+- [Game Developers Conference (GDC)](https://www.gdconf.com/news/important-gdc-2020-update): postponed
 - [GitHub Satellite](https://githubsatellite.com/): going online-only
 - [Google Cloud Next](https://cloud.withgoogle.com/next/sf/): online-only
 - [Google I/O](https://events.google.com/io/): online-only
