@@ -5,7 +5,6 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 <a name="companies"></a>
 ## Companies - 77
 
-
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
 | Adobe[[1]](https://www.npr.org/2020/03/03/811728989/coronavirus-cancellations-and-travel-bans-google-is-latest) | ? | Restricted | ? | ? | 2020-03-06 |
