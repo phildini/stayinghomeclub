@@ -53,7 +53,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Slack | Encouraged, Required in JP | Restricted | ? | Restricted | 2020-03-04 |
 | [Square](https://twitter.com/zamosta/status/1234658276781912064) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
 | [Stripe](https://stripe.com/newsroom/news/covid-19) | Encouraged, some Required | Restricted | Restricted | ? |2020-02-29 |
-| [SUSE](https://www.suse.com/c/reimagining-susecon-2020/) | Serious outbreak areas | Halt international travel, reduce non-essential domestic business travel | ? | Conference going virtual (see below) | 2020-03-06 |
+| [SUSE](https://www.suse.com/c/reimagining-susecon-2020/) | Required in serious outbreak areas | Restricted | ? | Restricted | 2020-03-06 |
 | [Telenav](https://twitter.com/Telenav/status/1233227569249390592) | Encouraged | Restricted | ? | ? | 2020-03-05 |
 | [Textio](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/) | Encouraged | ? | ? | ? | 2020-03-04 |
 | [Twitch](https://twitter.com/DaleCruse/status/1236016477666308096?s=20) | Required | Restricted | Restricted | Restricted | 2020-03-06 |
