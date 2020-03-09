@@ -91,7 +91,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
-## Events - 107
+## Events - 108
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
 - [Apache Roadshow/Chicago](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
@@ -187,6 +187,9 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [SRECon Americas West](https://www.usenix.org/conferences/coronavirus): postponed until June
 - [STP Con](https://www.stpcon.com/important-stpcon-spring-2020-announcement-please-read/): cancelled
 - [Strata Data & AI](https://conferences.oreilly.com/strata-data-ai/stai-ca): merged with NY in September
+- St. Patrick's Day Parades
+   - Ireland
+      - [Cork, Dublin, Greystones, Limerick, Newtown](https://www.irishtimes.com/news/ireland/irish-news/coronavirus-full-list-of-events-cancelled-in-ireland-1.4197421): cancelled
 - [SUSECON 2020](https://www.suse.com/c/reimagining-susecon-2020/): moving to virtual event
 - [SXSW](https://www.sxsw.com/2020-event-update/): cancelled
 - [TED](https://www.axios.com/scoop-coronavirus-forces-ted-conference-to-delay-or-go-digital-731109d7-8178-49b4-8a16-321f14affe1f.html): post-poning or going online-only
