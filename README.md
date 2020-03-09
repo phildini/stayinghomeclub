@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 79
+## Companies - 82
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -30,6 +30,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Dell-EMC | Allowed | Restricted | Restricted | Restricted | 2020-03-02 |
 | Digit | Required | Restricted | Restricted | Restricted | 2020-03-05 |
 | Determined AI | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
+| DrChrono | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Dropbox | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | eBay | ? | Restricted | ? | Restricted | 2020-03-04 |
 | Expedia | Encouraged, some Required | Restricted | ? | ? | 2020-03-06 |
@@ -52,11 +53,13 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | LinkedIn[[1]](https://www.businessinsider.com/linkedin-tells-employees-to-work-from-home-over-coronavirus-concerns-2020-3) | Encouraged | Restricted | ? | Restricted | 2020-03-05 |
 | Microsoft[[1]](https://www.theverge.com/2020/3/4/21164522/microsoft-coronavirus-response-comment-employees-memo-work-from-home) | Limited / Geo-specific | ? | ? | ? | 2020-03-03 |
 | Mozilla | Encouraged | Restricted | ? | ? | 2020-03-06 |
+| [NASA Ames][[1]](https://twitter.com/scottbudman/status/1237054027201794049) | Required | ? | ? | ? | 2020-03-09 |
 | NetApp | ? | Restricted | ? | ? | 2020-03-09 |
 | Nordstrom[[1]](https://www.geekwire.com/2020/coronavirus-live-updates-seattle-tech-community-grappling-covid-19/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
 | OfferUp | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Opendoor | Encouraged | ? | Restricted | ? | 2020-03-08 |
 | Okta | Required | Restricted | ? | ? | 2020-03-05 |
+| Pandora | Optional | Restricted | Restricted | ? | 2020-03-09 |
 | Parler | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | PingCap | Required for Bay Area | Restricted | Restricted | Restricted | 2020-03-07 |
 | ProdPerfect | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
@@ -69,6 +72,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Slack | Encouraged, Required in JP | Restricted | ? | Restricted | 2020-03-04 |
 | Splunk | Encouraged | Restricted | ? | Restricted | 2020-03-06 |
 | Square[[1]](https://twitter.com/zamosta/status/1234658276781912064) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
+| Squarespace | Allowed | Restricted | Restricted | Restricted | 2020-03-09 |
 | Stripe[[1]](https://stripe.com/newsroom/news/covid-19) | Encouraged, some Required | Restricted | Restricted | ? |2020-02-29 |
 | Tapjoy | Required or Encouraged (by Geo) | Restricted | Restricted | Restricted | 2020-03-07 |
 | Telenav[[1]](https://twitter.com/Telenav/status/1233227569249390592) | Encouraged | Restricted | ? | ? | 2020-03-05 |
