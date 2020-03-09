@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 78
+## Companies - 77
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -12,7 +12,6 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Apartment List | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | Apple | ? | Restricted | ? | ? | 2020-03-06 |
 | Atlassian | Encouraged | Restricted | ? | ? | 2020-03-06 |
-| Autodesk | Encouraged | Restricted | ? | Restricted | 2020-03-09 |
 | Brex | Encouraged, Recommended for San Francisco, Vancouver, New York | Restricted | Restricted | Restricted | 2020-03-06 |
 | Brightloom | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Builder.io | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
@@ -29,6 +28,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Dell-EMC | Allowed | Restricted | Restricted | Restricted | 2020-03-02 |
 | Digit | Required | Restricted | Restricted | Restricted | 2020-03-05 |
 | Determined AI | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
+| Dolby | Optional | Restricted | Restricted | Restricted | 2020-03-09 |
 | Dropbox | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | eBay | ? | Restricted | ? | Restricted | 2020-03-04 |
 | Expedia | Encouraged, some Required | Restricted | ? | ? | 2020-03-06 |
