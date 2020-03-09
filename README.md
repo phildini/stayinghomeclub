@@ -91,7 +91,8 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
-## Events - 107
+## Events - 108
+
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
 - [Apache Roadshow/Chicago](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
@@ -174,6 +175,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Red Hat Summit](https://www.redhat.com/en/summit): moving to virtual event
 - [Red Team Summit](https://www.zdnet.com/article/a-list-of-security-conferences-canceled-or-postponed-due-to-coronavirus-concerns/): postponed until June 11-12
 - [RedisConf20](https://events.redislabs.com/redisconf20/): moving to virtual event
+- [Rocket League World Championship](https://www.rocketleague.com/news/important-rocket-league-esports-update/): cancelled
 - [RubyKaigi](https://rubykaigi.org/2020): postponed until September
 - [SaaStr Annual](https://www.saastrannual.com/): postponed until September
 - [Salesforce World Tour Sydney](https://www.salesforce.com/au/events/worldtour/syd20/overview/): in-person canceled; online-only event
