@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 81
+## Companies - 82
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -29,6 +29,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Dell-EMC | Allowed | Restricted | Restricted | Restricted | 2020-03-02 |
 | Digit | Required | Restricted | Restricted | Restricted | 2020-03-05 |
 | Determined AI | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
+| Dolby | Optional | Restricted | Restricted | Restricted | 2020-03-09 |
 | DrChrono | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Dropbox | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | eBay | ? | Restricted | ? | Restricted | 2020-03-04 |
