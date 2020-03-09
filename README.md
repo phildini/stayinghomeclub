@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 70
+## Companies - 76
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -16,6 +16,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Brightloom | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Builder.io | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Bungie[[1]](https://www.bungie.net/en/Explore/Detail/News/48839) | Required | ? | ? | ? | 2020-03-05 |
+| Buzzfeed | Encouraged | Restricted | Restricted | Restricted | 2020-03-09
 | charity: water | Required | Restricted | Restricted | Restricted | 2020-3-06 |
 | Cisco | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
 | Cloudflare | ? | Restricted | Restricted | Restricted | 2020-03-04 |
