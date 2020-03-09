@@ -59,6 +59,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Salesforce[[1]](https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
 | SAP | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Slack | Encouraged, Required in JP | Restricted | ? | Restricted | 2020-03-04 |
+| Splunk | Encouraged | Restricted | ? | Restricted | 2020-03-06 |
 | Square[[1]](https://twitter.com/zamosta/status/1234658276781912064) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
 | Stripe[[1]](https://stripe.com/newsroom/news/covid-19) | Encouraged, some Required | Restricted | Restricted | ? |2020-02-29 |
 | Tapjoy | Required or Encouraged (by Geo) | Restricted | Restricted | Restricted | 2020-03-07 |
