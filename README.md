@@ -84,8 +84,9 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zillow | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
-## Events - 106
+## Events - 108
 
+- [2020 American Quarter Horse Association Convention](https://www.aqha.com/-/2020-aqha-convention?redirect=/): cancelled
 - [Apache Roadshow/Chicago](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
 - [Apache Roadshow/DC](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
 - [Apache Roadshow/Seattle](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): postponed to autumn 2020
