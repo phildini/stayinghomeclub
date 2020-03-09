@@ -3,12 +3,13 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 68
+## Companies - 76
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
 | Adobe[[1]](https://www.npr.org/2020/03/03/811728989/coronavirus-cancellations-and-travel-bans-google-is-latest) | ? | Restricted | ? | ? | 2020-03-06 |
 | Amazon[[1]](https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020) | Encouraged, Recommended for Seattle and Bay Area to 3/31 | Restricted | Restricted | Restricted | 2020-03-06 |
+| Apartment List | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | Apple | ? | Restricted | ? | ? | 2020-03-06 |
 | Atlassian | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | Brex | Encouraged, Recommended for San Francisco, Vancouver, New York | Restricted | Restricted | Restricted | 2020-03-06 |
@@ -35,6 +36,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Fastly[[1]](https://www.fastly.com/blog/exercising-caution-as-covid-19-evolves) | Required | Restricted | Restricted | Restricted | 2020-03-01 |
 | GitHub[[1]](https://github.blog/2020-03-03-covid-19-update-supporting-our-employees-and-community/) | Encouraged | Restricted | ? | ? | 2020-03-04 |
 | Glassdoor[[1]](https://www.glassdoor.com/blog/glassdoor-coronavirus/) | Required | Restricted | Restricted | ? | 2020-03-05 |
+| Glitch | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | [Google](https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent) | Limited / Geo-specific | Restricted | Restricted | ? | 2020-03-03 |
 | Groupon | Encouraged | Restricted | ? | Restricted | 2020-03-06 |
 | HERE | Encouraged | Restricted | ? | Restricted | 2020-03-05 |
@@ -47,14 +49,17 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | LinkedIn[[1]](https://www.businessinsider.com/linkedin-tells-employees-to-work-from-home-over-coronavirus-concerns-2020-3) | Encouraged | Restricted | ? | Restricted | 2020-03-05 |
 | Microsoft[[1]](https://www.theverge.com/2020/3/4/21164522/microsoft-coronavirus-response-comment-employees-memo-work-from-home) | Limited / Geo-specific | ? | ? | ? | 2020-03-03 |
 | Mozilla | Encouraged | Restricted | ? | ? | 2020-03-06 |
+| NetApp | ? | Restricted | ? | ? | 2020-03-09 |
 | Nordstrom[[1]](https://www.geekwire.com/2020/coronavirus-live-updates-seattle-tech-community-grappling-covid-19/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
 | OfferUp | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
+| Opendoor | Encouraged | ? | Restricted | ? | 2020-03-08 |
 | Okta | Required | Restricted | ? | ? | 2020-03-05 |
 | Parler | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | PingCap | Required for Bay Area | Restricted | Restricted | Restricted | 2020-03-07 |
 | ProdPerfect | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | PressCentric | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | Redfin[[1]](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/) | Encouraged | ? | ? | ? | 2020-03-04 |
+| RingCentral | Encouraged, Recommended for Bay Area | Restricted | ? | ? | 2020-03-08 |
 | Roblox | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | Salesforce[[1]](https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
 | SAP | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
@@ -79,10 +84,12 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
-## Events - 93
+## Events - 106
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
+- [Apache Roadshow/Chicago](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
 - [Apache Roadshow/DC](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
+- [Apache Roadshow/Seattle](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): postponed to autumn 2020
 - [APIdays Singapore](https://www.apidays.co/singapore): postponed until August 19-20
 - [Architectural Support for Programming Languages and Operating Systems (ASPLOS)](https://asplos-conference.org/): cancelled
 - [Area41 Security Conference](https://a41con.blogspot.com/2020/03/area41-postponed-to-june-2021.html): postponed
@@ -91,14 +98,16 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/): cancelled
 - [AWS Summit Sydney](https://aws.amazon.com/events/summits/sydney/): cancelled
 - [Berlin March Golang Meetup](https://www.meetup.com/golang-users-berlin/events/265472557): online-only
-- [Black Hat Asia](https://www.blackhat.com/asia-20/travel-updates.html): postponed until fall
+- [Black Hat Asia](https://www.blackhat.com/asia-20/travel-updates.html): postponed until September 29 - October 2
+- [BountyCon](https://www.facebook.com/notes/facebook-bug-bounty/an-update-on-bountycon/3278348118846058/): postponed
+- [BSides Charm](https://www.bsidescharm.org/health/): optional remote speaker options, no international speakers but event will happen
 - [BSides Liverpool](https://twitter.com/BsidesLivrpool/status/1235988839623266304): postponed until later this year
 - [California Association for Behavior Analysis Conference](https://calaba.org/conference): cancelled
 - [Cisco Live Melbourne](https://www.ciscolive.com/apjc.html): cancelled
 - [CloudFest 2020](https://www.cloudfest.com/): cancelled
 - [Collision](https://collisionconf.com/): moving to virtual event
 - [Deconstruct](https://www.deconstructconf.com/): cancelled
-- [DEFCON China 2.0](https://defcon.org/html/defcon-china-2/dc-cn-2-index.html): postponed
+- [DEFCON China 2.0](https://defcon.org/html/defcon-china-2/dc-cn-2-index.html): postponed, new date TBD
 - [DevNet Create](https://developer.cisco.com/devnetcreate/2020/): postponed, new date unknown
 - [DevOpsDays Seattle](https://twitter.com/DevOpsDaysSEA/status/1235307914908389376): postponed, possibly cancelled
 - [DevOpsDays Tokyo](https://twitter.com/DevOpsDaysTokyo/status/1234433425114722308): cancelled
@@ -115,6 +124,9 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [F5 Agility](https://www.f5.com/agility): moving to virtual event
 - [Facebook F8](https://developers.facebook.com/blog/post/2020/02/27/important-f8-2020-update/): moving to a primarily online event
 - [Facebook Global Marketing Summit](https://www.businessinsider.com/how-facebook-affected-novel-coronavirus-outbreak-2020-2): cancelled
+- [Fast Software Encryption (FSE) 2020](https://fse.iacr.org/2020/): postponed
+- [FIRST Cyber Threat Intelligence Symposium 2020 (FIRST CTI)](https://www.first.org/events/symposium/zurich2020/): cancelled
+- [FIRST Technical Colloquium 2020 (FIRST TC)](https://www.first.org/events/colloquia/amsterdam2020/): postponed until next year (2021)
 - [Flink Forward (Apache Flink)](https://www.flink-forward.org/sf-2020): cancelled, considering moving to virtual
 - [Game Developers Conference (GDC)](https://www.gdconf.com/news/important-gdc-2020-update): postponed
 - [GitHub Satellite](https://githubsatellite.com/): going online-only
@@ -125,9 +137,11 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [IBM Think 2020](https://www.ibm.com/events/think/): online-only
 - [ICANN 67](https://www.icann.org/news/announcement-2020-02-19-en): online-only
 - [Ingram Micro Cloud Summit 2020](https://www.ingrammicrocloud.com/press-releases/ingram-micro-cloud-postpones-cloud-summit-2020-early-2021/): postponed until early 2021
-- [Internet Freedom Summit](https://internetfreedomfestival.org/wiki/index.php/Cancellation_of_the_2020_Internet_Freedom_Festival): cancelled
+- [Internet Freedom Festival](https://internetfreedomfestival.org/wiki/index.php/Cancellation_of_the_2020_Internet_Freedom_Festival): cancelled
 - [Internet2 2020 Global Summit](https://meetings.internet2.edu/2020-global-summit/update-coronavirus/): cancelled
-- [Kaspersky's Security Analyst Summit](https://thesascon.com/): postponed until Fall
+- [ISC West](https://www.iscwest.com/RNA/RNA_ISCWest_v2/2020/doc/legal/ISC-West-A-Statement-from-Reed-Exhibitions-3-6.pdf): postponed until July, dates TBD
+- [IsomniHack 2020](hhttps://insomnihack.ch/covid-19/): postponed until June
+- [Kaspersky's Security Analyst Summit](https://thesascon.com/): postponed until September, exact date TBD
 - [KubeCon EU 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/): postponed until July/August, 2020, dates pending
 - [Lesbians Who Tech](https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20): postponed until August 6-8, 2020 pending developments
 - [Linaro Connect Budapest 2020](https://www.linaro.org/blog/linaro-connect-budapest-2020-cancelled/): cancelled
@@ -137,6 +151,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Microsoft MVP Summit](https://www.geekwire.com/2020/microsoft-cancels-mvp-summit-due-coronavirus-outbreak-seattle-area/): cancelled
 - [Minecraft Festival](https://www.minecraft.net/en-us/article/minecraft-festival-postponed): postponed to 2021, Minecraft Live still happening online-only
 - [Mobile World Congress (MWC) - Barcelona](https://www.mwcbarcelona.com/gsma-statement-on-mwc-2020/): cancelled
+- [NetApp INSIGHT](https://blog.netapp.com/postponing-netapp-insight-paris-and-berlin-events/): postponed
 - [Nvidia GPU Technology Conference (GTC) 2020](https://www.theverge.com/2020/3/2/21161635/nvidias-gpu-technology-conference-gtc-online-only-coronavirus): online-only
 - [OCLC Resource Sharing Conference 2020](https://www.oclc.org/en/events/2020/Resource-Sharing-Conference.html): cancelled
 - [Oktane](https://www.oktane20.com/): changed to a virtual event
@@ -145,10 +160,12 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Oracle User Group Irelend (OUG Ireland)](https://twitter.com/MDWidlake/status/1234864869377216515): cancelled
 - [Outreach Unleash 2020](https://www.outreach.io/blog/unleash-20-update): cancelled
 - [Paris Blockchain Week Summit](https://www.pbwsummit.com/): postponed until Dec. 9-10
+- [Pwn2Own CansSecWest](https://www.thezdi.com/blog/2020/3/3/announcing-remote-participation-in-pwn2own-vancouver): optional remote participation (can attend, or have people on site execute commands/actions ie. on-site not required to participate)
 - [PyCon Italia](https://pycon.it/en/blog/pycon-11-postponed-to-november): moved to November
 - [PyCon SK](https://2020.pycon.sk/en/news.html): moved to September
 - [Qualtrics X4 Summit](https://www.qualtrics.com/x4summit/): postponed to early Fall 2020
-- [Red Hat Summit](https://www.redhat.com/en/summit): moving to virtual event.
+- [Red Hat Summit](https://www.redhat.com/en/summit): moving to virtual event
+- [Red Team Summit](https://www.zdnet.com/article/a-list-of-security-conferences-canceled-or-postponed-due-to-coronavirus-concerns/): postponed until June 11-12
 - [RedisConf20](https://events.redislabs.com/redisconf20/): moving to virtual event
 - [RubyKaigi](https://rubykaigi.org/2020): postponed until September
 - [SaaStr Annual](https://www.saastrannual.com/): postponed until September
@@ -175,4 +192,3 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [WWCode CONNECT India 2020](https://www.womenwhocode.com/blog/coronavirus-update-a-note-from-our-ceo): postponed
 - [WWHackinfest San Diego](https://twitter.com/strandjs/status/1235648436545847297?s=20): moving to virtual event (talks, training and MetaCTF will be virtual)
 - [ZenDesk Relate](https://www.miamiherald.com/news/business/tourism-cruises/article240801336.html): cancelled
-
