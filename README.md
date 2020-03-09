@@ -83,7 +83,9 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 
 ## Events - 103
 
+- [Apache Roadshow/Chicago](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
 - [Apache Roadshow/DC](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
+- [Apache Roadshow/Seattle](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): postponed to autumn 2020
 - [APIdays Singapore](https://www.apidays.co/singapore): postponed until August 19-20
 - [Architectural Support for Programming Languages and Operating Systems (ASPLOS)](https://asplos-conference.org/): cancelled
 - [Atlassian Summit](https://www.atlassian.com/company/events/summit): moving to virtual
