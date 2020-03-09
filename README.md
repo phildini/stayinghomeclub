@@ -9,10 +9,13 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | --- | --- | --- | --- | --- | --- |
 | Adobe[[1]](https://www.npr.org/2020/03/03/811728989/coronavirus-cancellations-and-travel-bans-google-is-latest)[[2]](https://twitter.com/AdobeNews/status/1236758404330389504) | Encouraged / Directed for Seattle and Bay Area till 03/23/20 | Restricted | ? | ? | 2020-03-09 |
 | Amazon[[1]](https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020) | Encouraged, Recommended for Seattle and Bay Area to 3/31 | Restricted | Restricted | Restricted | 2020-03-06 |
+| Anvyl | Encouraged | Restricted | ? | Restricted | 2020-03-09 |
 | Apartment List | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | Apple | ? | Restricted | ? | ? | 2020-03-06 |
+| Asana | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
 | Atlassian | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | Autodesk | Encouraged | Restricted | ? | Restricted | 2020-03-09 |
+| Blink Health | Allowed | ? | ? | ? | 2020-03-09 |
 | Brex | Encouraged, Recommended for San Francisco, Vancouver, New York | Restricted | Restricted | Restricted | 2020-03-06 |
 | Brightloom | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Builder.io | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
@@ -29,6 +32,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Dell-EMC | Allowed | Restricted | Restricted | Restricted | 2020-03-02 |
 | Determined AI | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Digit | Required | Restricted | Restricted | Restricted | 2020-03-05 |
+| Dolby | Optional | Restricted | Restricted | Restricted | 2020-03-09 |
 | DrChrono | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Dropbox | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | eBay | ? | Restricted | ? | Restricted | 2020-03-04 |
@@ -91,7 +95,8 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
-## Events - 107
+## Events - 108
+
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
 - [Apache Roadshow/Chicago](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
@@ -174,6 +179,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Red Hat Summit](https://www.redhat.com/en/summit): moving to virtual event
 - [RedisConf20](https://events.redislabs.com/redisconf20/): moving to virtual event
 - [Red Team Summit](https://www.zdnet.com/article/a-list-of-security-conferences-canceled-or-postponed-due-to-coronavirus-concerns/): postponed until June 11-12
+- [Rocket League World Championship](https://www.rocketleague.com/news/important-rocket-league-esports-update/): cancelled
 - [RubyKaigi](https://rubykaigi.org/2020): postponed until September
 - [SaaStr Annual](https://www.saastrannual.com/): postponed until September
 - [Salesforce World Tour Sydney](https://www.salesforce.com/au/events/worldtour/syd20/overview/): in-person canceled; online-only event
