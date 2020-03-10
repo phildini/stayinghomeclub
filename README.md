@@ -33,8 +33,8 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Determined AI | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Digit | Required | Restricted | Restricted | Restricted | 2020-03-05 |
 | Dolby | Optional | Restricted | Restricted | Restricted | 2020-03-09 |
-| Drift | Required | Restricted | Restricted | Restricted | 2020-03-10 |
 | DrChrono | Required | Restricted | Restricted | Restricted | 2020-03-09 |
+| Drift | Required | Restricted | Restricted | Restricted | 2020-03-10 |
 | Dropbox | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | eBay | ? | Restricted | ? | Restricted | 2020-03-04 |
 | Expedia | Encouraged, some Required | Restricted | ? | ? | 2020-03-06 |
@@ -96,7 +96,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
-## Events - 108
+## Events - 109
 
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
