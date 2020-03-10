@@ -95,7 +95,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
-## Events - 108
+## Events - 109
 
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
@@ -117,6 +117,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [California Association for Behavior Analysis Conference](https://calaba.org/conference): cancelled
 - [Cisco Live Melbourne](https://www.ciscolive.com/apjc.html): cancelled
 - [CloudFest 2020](https://www.cloudfest.com/): cancelled
+- [Coachella](https://www.cnn.com/2020/03/10/entertainment/coachella-postponed-coronavirus/index.html): reportedly postponed to October
 - [Collision](https://collisionconf.com/): moving to virtual event
 - [Deconstruct](https://www.deconstructconf.com/): cancelled
 - [DEFCON China 2.0](https://defcon.org/html/defcon-china-2/dc-cn-2-index.html): postponed, new date TBD
