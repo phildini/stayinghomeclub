@@ -54,6 +54,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Joy | Encouraged | ? | ? | ? | 2020-03-06 |
 | LinkedIn[[1]](https://www.businessinsider.com/linkedin-tells-employees-to-work-from-home-over-coronavirus-concerns-2020-3) | Encouraged | Restricted | ? | Restricted | 2020-03-05 |
 | Lyft | Encouraged | Non-critical restricted | ? | ? | 2020-03-06 |
+| Mattermost | Required | Non-critical restricted | N/A | Restricted | 2020-03-09 |
 | Microsoft[[1]](https://www.theverge.com/2020/3/4/21164522/microsoft-coronavirus-response-comment-employees-memo-work-from-home) | Limited / Geo-specific | ? | ? | ? | 2020-03-03 |
 | Mozilla | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | [NASA Ames][[1]](https://twitter.com/scottbudman/status/1237054027201794049) | Required | ? | ? | ? | 2020-03-09 |
