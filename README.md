@@ -120,6 +120,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/): cancelled
 - [AWS Summit Sydney](https://aws.amazon.com/events/summits/sydney/): cancelled
 - [Berlin March Golang Meetup](https://www.meetup.com/golang-users-berlin/events/265472557): online-only
+- [Bitcoin 2020 Conference](https://bitcoinmagazine.com/articles/postponed-bitcoin-2020-is-moving-to-q3-2020): postponed to Q3
 - [Black Hat Asia](https://www.blackhat.com/asia-20/travel-updates.html): postponed until September 29 - October 2
 - [BountyCon](https://www.facebook.com/notes/facebook-bug-bounty/an-update-on-bountycon/3278348118846058/): postponed
 - [BSides Charm](https://www.bsidescharm.org/health/): optional remote speaker options, no international speakers but event will happen
