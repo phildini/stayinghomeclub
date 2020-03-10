@@ -195,6 +195,8 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - St. Patrick's Day Parades
    - Ireland
       - [Cork, Dublin, Greystones, Limerick, Newtown](https://www.irishtimes.com/news/ireland/irish-news/coronavirus-full-list-of-events-cancelled-in-ireland-1.4197421): cancelled
+   - USA
+      - [South Boston](https://www.boston.com/news/local-news/2020/03/09/south-boston-st-patricks-day-parade-canceled): cancelled
 - [SUSECON 2020](https://www.suse.com/c/reimagining-susecon-2020/): moving to virtual event
 - [SXSW](https://www.sxsw.com/2020-event-update/): cancelled
 - [TED](https://www.axios.com/scoop-coronavirus-forces-ted-conference-to-delay-or-go-digital-731109d7-8178-49b4-8a16-321f14affe1f.html): post-poning or going online-only
