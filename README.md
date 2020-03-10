@@ -3,10 +3,11 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 85
+## Companies - 86
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
+| ActionIQ | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
 | Adobe[[1]](https://www.npr.org/2020/03/03/811728989/coronavirus-cancellations-and-travel-bans-google-is-latest)[[2]](https://twitter.com/AdobeNews/status/1236758404330389504) | Encouraged / Directed for Seattle and Bay Area till 03/23/20 | Restricted | ? | ? | 2020-03-09 |
 | Amazon[[1]](https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020) | Encouraged, Recommended for Seattle and Bay Area to 3/31 | Restricted | Restricted | Restricted | 2020-03-06 |
 | Anvyl | Encouraged | Restricted | ? | Restricted | 2020-03-09 |
@@ -16,6 +17,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Atlassian | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | Autodesk | Encouraged | Restricted | ? | Restricted | 2020-03-09 |
 | Blink Health | Allowed | ? | ? | ? | 2020-03-09 |
+| Bluecore | Allowed | Restricted | ? | Discouraged | 2020-03-09 |
 | Brex | Encouraged, Recommended for San Francisco, Vancouver, New York | Restricted | Restricted | Restricted | 2020-03-06 |
 | Brightloom | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Builder.io | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
@@ -47,6 +49,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | [Google](https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent) | Limited / Geo-specific | Restricted | Restricted | ? | 2020-03-03 |
 | Groupon | Encouraged | Restricted | ? | Restricted | 2020-03-06 |
 | HERE | Encouraged | Restricted | ? | Restricted | 2020-03-05 |
+| HPE | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
 | Humu | Encouraged, recent travel Required | Restricted | Discouraged | ? | 2020-03-02 |
 | IBM[[1]](https://www.theverge.com/2020/3/4/21165449/ibm-coronavirus-suspending-domestic-international-travel) | ? | Restricted | ? | ? | 2020-03-05 |
 | Indeed[[1]](https://www.kvue.com/article/news/health/indeed-coronavirus-work-from-home/269-79c7797f-4d60-41df-bd9b-8b6bc25d9f3f) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
@@ -56,7 +59,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Lyft | Encouraged | Non-critical restricted | ? | ? | 2020-03-06 |
 | Microsoft[[1]](https://www.theverge.com/2020/3/4/21164522/microsoft-coronavirus-response-comment-employees-memo-work-from-home) | Limited / Geo-specific | ? | ? | ? | 2020-03-03 |
 | Mozilla | Encouraged | Restricted | ? | ? | 2020-03-06 |
-| [NASA Ames][[1]](https://twitter.com/scottbudman/status/1237054027201794049) | Required | ? | ? | ? | 2020-03-09 |
+| NASA Ames[[1]](https://twitter.com/scottbudman/status/1237054027201794049) | Required | ? | ? | ? | 2020-03-09 |
 | NetApp | ? | Restricted | ? | ? | 2020-03-09 |
 | Nordstrom[[1]](https://www.geekwire.com/2020/coronavirus-live-updates-seattle-tech-community-grappling-covid-19/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
 | OfferUp | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
@@ -86,7 +89,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Typless[[1]](https://typless.com/2020/03/05/switching-to-fully-remote-work/) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
 | Uber | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Vectra AI | Encouraged | Restricted | ? | ? | 2020-03-09 |
-| VMware | Required | Restricted | ? | Restricted | 2020-03-09 |
+| VMware | Allowed | Restricted | ? | Restricted | 2020-03-09 |
 | VSCO | Required | Restricted | ? | ? | 2020-03-06 |
 | Wikimedia Foundation[[1]](https://wikimediafoundation.org/news/2020/03/06/wikimedia-foundation-will-close-san-francisco-office-and-encourage-remote-work-for-march-2020-amidst-covid-19-concerns/) | Encouraged, required for San Francisco office | Restricted | Restricted | Restricted | 2020-03-06 |
 | Wish | Encouraged, required for some locations | Restricted | Restricted | Restricted | 2020-03-05 |
@@ -96,7 +99,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
-## Events - 108
+## Events - 109
 
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
@@ -169,6 +172,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [OCLC Resource Sharing Conference 2020](https://www.oclc.org/en/events/2020/Resource-Sharing-Conference.html): cancelled
 - [Oktane](https://www.oktane20.com/): changed to a virtual event
 - [Open Compute Project Global Summit](https://www.opencompute.org/blog/we-are-moving-the-2020-ocp-global-summit-to-an-interactive-virtual-global-summit): changed to a virtual event
+- [Open Hardware Summit](https://2020.oshwa.org/2020/03/08/the-2020-open-hardware-summit-is-going-virtual/): changed to a virtual event
 - [Oracle Modern Business Experience](https://www.oracle.com/modern-business-experience/): postponed until Sep. 21-24 to coincide with OpenWorld
 - [Oracle User Group Irelend (OUG Ireland)](https://twitter.com/MDWidlake/status/1234864869377216515): cancelled
 - [Outreach Unleash 2020](https://www.outreach.io/blog/unleash-20-update): cancelled
