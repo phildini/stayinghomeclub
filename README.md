@@ -11,7 +11,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Amazon[[1]](https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020) | Encouraged, Recommended for Seattle and Bay Area to 3/31 | Restricted | Restricted | Restricted | 2020-03-06 |
 | Anvyl | Encouraged | Restricted | ? | Restricted | 2020-03-09 |
 | Apartment List | Required | Restricted | Restricted | Restricted | 2020-03-06 |
-| Apple | ? | Restricted | ? | ? | 2020-03-06 |
+| Apple[[1]](https://www.bloomberg.com/news/articles/2020-03-08/apple-s-cook-offers-work-from-home-this-week-to-most-staff) | Encouraged | Restricted | ? | ? | 2020-03-09 |
 | Asana | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
 | Atlassian | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | Autodesk | Encouraged | Restricted | ? | Restricted | 2020-03-09 |
