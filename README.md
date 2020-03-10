@@ -95,7 +95,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
-## Events - 108
+## Events - 109
 
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
@@ -168,6 +168,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [OCLC Resource Sharing Conference 2020](https://www.oclc.org/en/events/2020/Resource-Sharing-Conference.html): cancelled
 - [Oktane](https://www.oktane20.com/): changed to a virtual event
 - [Open Compute Project Global Summit](https://www.opencompute.org/blog/we-are-moving-the-2020-ocp-global-summit-to-an-interactive-virtual-global-summit): changed to a virtual event
+- [Open Hardware Summit](https://2020.oshwa.org/2020/03/08/the-2020-open-hardware-summit-is-going-virtual/): changed to a virtual event
 - [Oracle Modern Business Experience](https://www.oracle.com/modern-business-experience/): postponed until Sep. 21-24 to coincide with OpenWorld
 - [Oracle User Group Irelend (OUG Ireland)](https://twitter.com/MDWidlake/status/1234864869377216515): cancelled
 - [Outreach Unleash 2020](https://www.outreach.io/blog/unleash-20-update): cancelled
