@@ -9,7 +9,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | --- | --- | --- | --- | --- | --- |
 | ActionIQ | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
 | Adobe[[1]](https://www.npr.org/2020/03/03/811728989/coronavirus-cancellations-and-travel-bans-google-is-latest)[[2]](https://twitter.com/AdobeNews/status/1236758404330389504) | Encouraged / Directed for Seattle and Bay Area till 03/23/20 | Restricted | ? | ? | 2020-03-09 |
-| Amazon[[1]](https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020) | Encouraged, Recommended for Seattle and Bay Area to 3/31 | Restricted | Restricted | Restricted | 2020-03-06 |
+| Amazon[[1]](https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020)[[2]](https://www.cnbc.com/2020/03/09/coronavirus-amazon-tells-employees-in-ny-nj-to-work-from-home.html) | Encouraged, Recommended for Seattle, Bay Area, Lombardy region & Asti province of Italy, New York, and New Jersey to 3/31 | Restricted | Restricted | Restricted | 2020-03-09 |
 | Anvyl | Encouraged | Restricted | ? | Restricted | 2020-03-09 |
 | Apartment List | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | Apple[[1]](https://www.bloomberg.com/news/articles/2020-03-08/apple-s-cook-offers-work-from-home-this-week-to-most-staff) | Encouraged | Restricted | ? | ? | 2020-03-09 |
