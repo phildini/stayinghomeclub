@@ -26,6 +26,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Cloudflare | ? | Restricted | Restricted | Restricted | 2020-03-04 |
 | Coinbase[[1]](https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/edit) | Encouraged | ? | ? | ? | 2020-03-03 |
 | Contentful | Encouraged | Restricted | ? | Restricted | 2020-03-03 |
+| Coursehero | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
 | Coursera | Encouraged | Restricted | Restricted | ? | 2020-03-06 |
 | Crunchbase | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Crunchyroll | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
