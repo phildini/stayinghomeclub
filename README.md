@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 85
+## Companies - 86
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -16,6 +16,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Atlassian | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | Autodesk | Encouraged | Restricted | ? | Restricted | 2020-03-09 |
 | Blink Health | Allowed | ? | ? | ? | 2020-03-09 |
+| Bluecore | Allowed | Restricted | ? | Discouraged | 2020-03-09 |
 | Brex | Encouraged, Recommended for San Francisco, Vancouver, New York | Restricted | Restricted | Restricted | 2020-03-06 |
 | Brightloom | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Builder.io | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
