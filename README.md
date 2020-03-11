@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 109
+## Companies - 114
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -27,8 +27,10 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Buzzfeed | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
 | Bugcrowd | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | charity: water | Required | Restricted | Restricted | Restricted | 2020-3-06 |
+| CloudLinux |Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Cisco | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Cloudflare | ? | Restricted | Restricted | Restricted | 2020-03-04 |
+| Clover | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Coinbase[[1]](https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/edit) | Encouraged | ? | ? | ? | 2020-03-03 |
 | Contentful | Encouraged | Restricted | ? | Restricted | 2020-03-03 |
 | Coursera | Encouraged | Restricted | Restricted | ? | 2020-03-06 |
@@ -38,6 +40,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Dell-EMC | Allowed | Restricted | Restricted | Restricted | 2020-03-02 |
 | Determined AI | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Digit | Required | Restricted | Restricted | Restricted | 2020-03-05 |
+| Dockwa | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Dolby | Optional | Restricted | Restricted | Restricted | 2020-03-09 |
 | Donorschoose | Encouraged for NYC, Required for SF | Restricted | Restricted | Restricted | 2020-03-10 |
 | DrChrono | Required | Restricted | Restricted | Restricted | 2020-03-09 |
@@ -51,6 +54,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Facebook[[1]](https://www.geekwire.com/2020/facebook-contractor-seattle-tests-positive-coronavirus-company-closes-office/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
 | Fastly[[1]](https://www.fastly.com/blog/exercising-caution-as-covid-19-evolves) | Required | Restricted | Restricted | Restricted | 2020-03-01 |
 | Freshworks | Optional | Restricted | ? | ? | 2020-03-06 |
+| General Dynamics | Optional | Restricted | ? | ? | 2020-03-11 |
 | GitHub[[1]](https://github.blog/2020-03-03-covid-19-update-supporting-our-employees-and-community/) | Encouraged | Restricted | ? | ? | 2020-03-04 |
 | Glassdoor[[1]](https://www.glassdoor.com/blog/glassdoor-coronavirus/) | Required | Restricted | Restricted | ? | 2020-03-05 |
 | Glitch | Required | Restricted | Restricted | Restricted | 2020-03-09 |
@@ -70,6 +74,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | LinkedIn[[1]](https://www.businessinsider.com/linkedin-tells-employees-to-work-from-home-over-coronavirus-concerns-2020-3) | Encouraged | Restricted | ? | Restricted | 2020-03-05 |
 | Lime | Optional | Restricted | Restricted | Restricted | 2020-03-09 |
 | Lyft | Encouraged | Non-critical restricted | ? | ? | 2020-03-06 |
+| LeaseCloud | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Mattermost | Required | Non-critical restricted | N/A | Restricted | 2020-03-09 |
 | Microsoft[[1]](https://www.theverge.com/2020/3/4/21164522/microsoft-coronavirus-response-comment-employees-memo-work-from-home) | Limited / Geo-specific | ? | ? | ? | 2020-03-03 |
 | Mozilla | Encouraged | Restricted | ? | ? | 2020-03-06 |
@@ -95,6 +100,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Roblox | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | Salesforce[[1]](https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
 | SAP | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
+| Shopify[[1]](https://twitter.com/Shopify/status/1237741373417193476) | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Slack | Encouraged, Required in JP | Restricted | ? | Restricted | 2020-03-04 |
 | SoftServe | Encouraged | Restricted | ? | Restricted | 2020-03-11 |
 | Soundtrack Your Brand | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
@@ -114,7 +120,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Typless[[1]](https://typless.com/2020/03/05/switching-to-fully-remote-work/) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
 | Uber | Allowed | Restricted | Discouraged | Restricted | 2020-03-10 |
 | UserTesting | Encouraged | Restricted | ? | ? | 2020-03-10 |
-| Vanilla Forums | Allowed | Restricted | Restricted | Restricted | 2020-03-03 |
+| Vanilla Forums | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | Vectra AI | Encouraged | Restricted | ? | ? | 2020-03-09 |
 | VMware | Encouraged | Restricted | ? | Restricted | 2020-03-10 |
 | VSCO | Required | Restricted | ? | ? | 2020-03-06 |
@@ -128,7 +134,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
-## Events - 114
+## Events - 118
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
 - [Apache Roadshow/Chicago](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
@@ -164,6 +170,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [dotGo](https://twitter.com/dotGoEu/status/1234767083369639937): cancelled
 - [dotPy](https://twitter.com/dotpy_io/status/1233830965421711360): cancelled
 - [Dreamforce World Tour (Sydney)](https://www.arnnet.com.au/article/671175/salesforce-world-tour-sydney-goes-digital-amid-coronavirus-fears/): cancelled
+- [E3 2020](https://arstechnica.com/gaming/2020/03/e3-2020-has-been-canceled/): canceled
 - [Ellucian Live 2020](https://www.ellucian.com/ellucianlive): moving to virtual event
 - [Emerald City Comic Con (ECCC)](https://www.emeraldcitycomiccon.com/About/A-Statement-From-Reedpop/): postponed until summer
 - [EmTech Asia](https://emtechasia.com/): postponed until August
@@ -202,6 +209,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Microsoft MVP Summit](https://www.geekwire.com/2020/microsoft-cancels-mvp-summit-due-coronavirus-outbreak-seattle-area/): cancelled
 - [Minecraft Festival](https://www.minecraft.net/en-us/article/minecraft-festival-postponed): postponed to 2021, Minecraft Live still happening online-only
 - [Mobile World Congress (MWC) - Barcelona](https://www.mwcbarcelona.com/gsma-statement-on-mwc-2020/): cancelled
+- [MongoDB World](https://www.mongodb.com/world): changed to a virtual event; re-branded as MongoDB.live
 - [NetApp INSIGHT](https://blog.netapp.com/postponing-netapp-insight-paris-and-berlin-events/): postponed
 - [Nvidia GPU Technology Conference (GTC) 2020](https://www.theverge.com/2020/3/2/21161635/nvidias-gpu-technology-conference-gtc-online-only-coronavirus): online-only
 - [OCLC Resource Sharing Conference 2020](https://www.oclc.org/en/events/2020/Resource-Sharing-Conference.html): cancelled
@@ -215,6 +223,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Pwn2Own CansSecWest](https://www.thezdi.com/blog/2020/3/3/announcing-remote-participation-in-pwn2own-vancouver): optional remote participation (can attend, or have people on site execute commands/actions ie. on-site not required to participate)
 - [PyCon Italia](https://pycon.it/en/blog/pycon-11-postponed-to-november): moved to November
 - [PyCon SK](https://2020.pycon.sk/en/news.html): moved to September
+- [Qt World Summit](https://www.qt.io/qtws20): postponed to October 2020
 - [Qualtrics X4 Summit](https://www.qualtrics.com/x4summit/): postponed to early Fall 2020
 - [Red Hat Summit](https://www.redhat.com/en/summit): moving to virtual event
 - [RedisConf20](https://events.redislabs.com/redisconf20/): moving to virtual event
@@ -225,6 +234,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Salesforce World Tour Sydney](https://www.salesforce.com/au/events/worldtour/syd20/overview/): in-person canceled; online-only event
 - [SAP Ariba LIVE](https://twitter.com/SAPAriba/status/1235043870250958854?s=20): cancelled
 - [SAP Concur Fusion](https://fusion.concur.com/fusion-orlando-announcement): in-person canceled; online-only event
+- [SAS Global Forum](https://www.sas.com/en_us/events/sas-global-forum/announcement.html): in-person canceled; online-only event
 - [Security Analyst Summit](https://twitter.com/TheSAScon/status/1234911915773583361): cancelled
 - [Shopify Pursuit (Melbourne and Mexico)](https://pursuit.shopify.com/): postponed, no date given
 - [Shopify Unite](https://www.shopify.com.au/partners/blog/unite-2020-update): moving to virtual event
