@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 107
+## Companies - 108
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -94,6 +94,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | SAP | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Slack | Encouraged, Required in JP | Restricted | ? | Restricted | 2020-03-04 |
 | Splunk | Encouraged | Restricted | ? | Restricted | 2020-03-06 |
+| Springboard (aka SlideRule Labs Inc.) | Encouraged, Recommended for Bangalore | Restricted | N/A | N/A | 2020-03-09 |
 | Spotify[[1]](https://twitter.com/eldsjal/status/1237487784996343813) | Encouraged | Restricted | Restricted | Restricted | 2020-03-10 |
 | Square[[1]](https://twitter.com/zamosta/status/1234658276781912064) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
 | Squarespace | Allowed | Restricted | Restricted | Restricted | 2020-03-09 |
