@@ -105,7 +105,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Opendoor | Encouraged | ? | Restricted | ? | 2020-03-08 |
 | OpenTable | Strongly Encouraged | Restricted | ? | ? | 2020-03-11 |
 | Orbital Insight | Recommended | Restricted | Restricted | Restricted | 2020-03-11 |
-| Pagerduty[[1]](https://www.pagerduty.com/blog/announcements-covid-19-measures/) | Required | Restricted | Restricted | Restricted | 2020-03-11 |
+| PagerDuty[[1]](https://www.pagerduty.com/blog/announcements-covid-19-measures/) | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Pandora | Optional | Restricted | Restricted | ? | 2020-03-09 |
 | Parler | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | Philo | Required | Restricted | Restricted | Restricted | 2020-03-11 |
