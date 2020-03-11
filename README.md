@@ -226,6 +226,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [TSConf EU](https://twitter.com/tsconfeu/status/1235135186033139713): postponed
 - [TwitchCon Amsterdam](https://twitter.com/TwitchCon/status/1235942102556651521?s=20): cancelled
 - [Unreal Fest Europe](https://www.unrealengine.com/en-US/events/unreal-fest-europe-2020): cancelled
+- [Write the Docs Portland 2020](https://www.writethedocs.org/conf/portland/2020/news/covid-19-update-02/): postponed, likely to August; final date expected to be announced by March 20
 - [Women in Cybersecurity (WiCyS) 2020](https://www.wicys.org/): cancelled, looking for alternative options TBD
 - [WSLConf](https://www.wslconf.dev/): going online-only
 - [WWCode CONNECT India 2020](https://www.womenwhocode.com/blog/coronavirus-update-a-note-from-our-ceo): postponed
