@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 108
+## Companies - 109
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -66,6 +66,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Intuit | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Joy | Encouraged | ? | ? | ? | 2020-03-06 |
 | Kanteron Systems[[1]](https://twitter.com/kanteron/status/1237694498597208064) | Required | Encouraged | Encouraged | Encouraged | 2020-03-11 |
+| Lightstep | Encouraged | Restricted | Restricted | Restricted | 2020-03-08 |
 | LinkedIn[[1]](https://www.businessinsider.com/linkedin-tells-employees-to-work-from-home-over-coronavirus-concerns-2020-3) | Encouraged | Restricted | ? | Restricted | 2020-03-05 |
 | Lime | Optional | Restricted | Restricted | Restricted | 2020-03-09 |
 | Lyft | Encouraged | Non-critical restricted | ? | ? | 2020-03-06 |
