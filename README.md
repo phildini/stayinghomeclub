@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 128
+## Companies - 129
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -85,6 +85,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | NetApp | ? | Restricted | ? | ? | 2020-03-09 |
 | Nextdoor | Encouraged | ? | ? | ? | 2020-03-09 |
 | Nordstrom[[1]](https://www.geekwire.com/2020/coronavirus-live-updates-seattle-tech-community-grappling-covid-19/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
+| Ocado | Allowed | Restricted | ? | ? | 2020-03-11 |
 | Oden Technologies | Encouraged | Restricted | Restricted | Restricted | 2020-03-10 |
 | OLX Group | Encouraged | Restricted | ? | Restricted | 2020-03-11 |
 | OfferUp | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
