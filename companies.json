@@ -1,24 +1,147 @@
 [
   {
-    "name": "Amazon",
-    "wfh": "Encouraged, Recommended for Seattle to 3/31",
+    "name": "Aaptiv",
+    "wfh": "Encouraged",
     "travel": "Restricted",
     "visitors": "Restricted",
     "events": "Restricted",
-    "updated": "2020-03-04",
-    "sources": ["https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020)"]
-  },
-  {
-    "name": "Apple",
-    "wfh": "?",
-    "travel": "Restricted",
-    "visitors": "?",
-    "events": "?",
-    "updated": "2020-03-03",
+    "updated": "2020-03-11",
     "sources": []
   },
   {
-    "name": "Brightloom ",
+    "name": "ActionIQ",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "Adobe",
+    "wfh": "Encouraged / Directed for Seattle and Bay Area till 03/23/20",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-09",
+    "sources": [
+      "https://www.npr.org/2020/03/03/811728989/coronavirus-cancellations-and-travel-bans-google-is-latest",
+      "https://twitter.com/AdobeNews/status/1236758404330389504"
+    ]
+  },
+  {
+    "name": "Airbnb ",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-10",
+    "sources": ["https://www.businessinsider.com/airbnb-tells-bay-area-employees-work-remote-covid-19-coronavirus-2020-3"]
+  },
+  {
+    "name": "Amazon",
+    "wfh": "Encouraged, Recommended for Seattle, Bay Area, Lombardy region & Asti province of Italy, New York, and New Jersey to 3/31",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-09",
+    "sources": [
+      "https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020",
+      "https://www.cnbc.com/2020/03/09/coronavirus-amazon-tells-employees-in-ny-nj-to-work-from-home.html"
+    ]
+  },
+  {
+    "name": "Anvyl",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "Restricted",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "Apartment List",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-06",
+    "sources": []
+  },
+  {
+    "name": "Apple",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-09",
+    "sources": ["https://www.bloomberg.com/news/articles/2020-03-08/apple-s-cook-offers-work-from-home-this-week-to-most-staff"]
+  },
+  {
+    "name": "AppsFlyer ",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-10",
+    "sources": ["https://twitter.com/ariapplbaum/status/1237293574498238465?s=20"]
+  },
+  {
+    "name": "Asana",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "Atlassian",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-06",
+    "sources": []
+  },
+  {
+    "name": "Autodesk",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "Restricted",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "Blink Health",
+    "wfh": "Allowed",
+    "travel": "?",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "Bluecore",
+    "wfh": "Allowed",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "Discouraged",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "Brex",
+    "wfh": "Encouraged, Recommended for San Francisco, Vancouver, New York",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-06",
+    "sources": []
+  },
+  {
+    "name": "Brightloom",
     "wfh": "Encouraged",
     "travel": "Restricted",
     "visitors": "Restricted",
@@ -27,7 +150,7 @@
     "sources": []
   },
   {
-    "name": "Builder.io ",
+    "name": "Builder.io",
     "wfh": "Encouraged",
     "travel": "Restricted",
     "visitors": "Restricted",
@@ -45,12 +168,75 @@
     "sources": ["https://www.bungie.net/en/Explore/Detail/News/48839"]
   },
   {
-    "name": "Cisco ",
+    "name": "Buzzfeed",
     "wfh": "Encouraged",
     "travel": "Restricted",
     "visitors": "Restricted",
     "events": "Restricted",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "Bugcrowd",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "charity: water",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-3-06",
+    "sources": []
+  },
+  {
+    "name": "Cengage",
+    "wfh": "Strongly Encouraged for Boston and Raleigh",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-11",
+    "sources": []
+  },
+  {
+    "name": "CloudLinux",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "Cisco",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "Cloudflare",
+    "wfh": "?",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
     "updated": "2020-03-04",
+    "sources": []
+  },
+  {
+    "name": "Clover",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-05",
     "sources": []
   },
   {
@@ -68,16 +254,61 @@
     "travel": "Restricted",
     "visitors": "?",
     "events": "Restricted",
-    "updated": "2020-03-05",
+    "updated": "2020-03-03",
+    "sources": []
+  },
+  {
+    "name": "Coursera",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "?",
+    "updated": "2020-03-06",
     "sources": []
   },
   {
     "name": "Crunchbase",
-    "wfh": "Required",
+    "wfh": "Encouraged",
     "travel": "Restricted",
     "visitors": "Restricted",
-    "events": "?",
+    "events": "Restricted",
+    "updated": "2020-03-06",
+    "sources": []
+  },
+  {
+    "name": "Crunchyroll",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
     "updated": "2020-03-05",
+    "sources": []
+  },
+  {
+    "name": "Culture Amp",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-10",
+    "sources": []
+  },
+  {
+    "name": "Dell-EMC",
+    "wfh": "Allowed",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-02",
+    "sources": []
+  },
+  {
+    "name": "Determined AI",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-06",
     "sources": []
   },
   {
@@ -90,7 +321,61 @@
     "sources": []
   },
   {
-    "name": "Determined AI",
+    "name": "Dockwa",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-11",
+    "sources": []
+  },
+  {
+    "name": "Dolby",
+    "wfh": "Optional",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "Donorschoose",
+    "wfh": "Encouraged for NYC, Required for SF",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-10",
+    "sources": []
+  },
+  {
+    "name": "DrChrono",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "Drift",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-10",
+    "sources": []
+  },
+  {
+    "name": "Drop",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "Dropbox",
     "wfh": "Encouraged",
     "travel": "Restricted",
     "visitors": "Restricted",
@@ -107,7 +392,15 @@
     "updated": "2020-03-04",
     "sources": []
   },
-
+  {
+    "name": "Expedia",
+    "wfh": "Encouraged, some Required",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-06",
+    "sources": []
+  },
   {
     "name": "f5 Networks",
     "wfh": "Encouraged for Seattle and Bay Area until 3/23",
@@ -123,7 +416,7 @@
     "travel": "Restricted",
     "visitors": "Restricted",
     "events": "Restricted",
-    "updated": "2020-03-05",
+    "updated": "2020-03-04",
     "sources": ["https://www.geekwire.com/2020/facebook-contractor-seattle-tests-positive-coronavirus-company-closes-office/"]
   },
   {
@@ -134,6 +427,24 @@
     "events": "Restricted",
     "updated": "2020-03-01",
     "sources": ["https://www.fastly.com/blog/exercising-caution-as-covid-19-evolves"]
+  },
+  {
+    "name": "Freshworks",
+    "wfh": "Optional",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-06",
+    "sources": []
+  },
+  {
+    "name": "General Dynamics",
+    "wfh": "Optional",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-11",
+    "sources": []
   },
   {
     "name": "GitHub",
@@ -154,22 +465,34 @@
     "sources": ["https://www.glassdoor.com/blog/glassdoor-coronavirus/"]
   },
   {
-    "name": "Google",
-    "wfh": "Limited / Geo-specific",
+    "name": "Glitch",
+    "wfh": "Required",
     "travel": "Restricted",
-    "visitors": "?",
-    "events": "?",
-    "updated": "2020-03-03",
-    "sources": ["https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent"]
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-09",
+    "sources": []
   },
   {
     "name": "Google",
-    "wfh": "Limited / Geo-specific",
+    "wfh": "Encouraged / Geo-specific",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "?",
+    "updated": "2020-03-11",
+    "sources": [
+      "https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent",
+      "https://www.reuters.com/article/us-health-coronavirus-alphabet/google-recommends-all-north-america-employees-to-work-from-home-idUSKBN20X38J?feedType=RSS&feedName=technologyNews"
+    ]
+  },
+  {
+    "name": "Groupon",
+    "wfh": "Encouraged",
     "travel": "Restricted",
     "visitors": "?",
-    "events": "?",
-    "updated": "2020-03-03",
-    "sources": ["https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent"]
+    "events": "Restricted",
+    "updated": "2020-03-06",
+    "sources": []
   },
   {
     "name": "HERE",
@@ -180,7 +503,33 @@
     "updated": "2020-03-05",
     "sources": []
   },
-
+  {
+    "name": "Houzz",
+    "wfh": "Optional",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "HPE",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "Humu",
+    "wfh": "Encouraged, recent travel Required",
+    "travel": "Restricted",
+    "visitors": "Discouraged",
+    "events": "?",
+    "updated": "2020-03-02",
+    "sources": []
+  },
   {
     "name": "IBM",
     "wfh": "?",
@@ -200,22 +549,103 @@
     "sources": ["https://www.kvue.com/article/news/health/indeed-coronavirus-work-from-home/269-79c7797f-4d60-41df-bd9b-8b6bc25d9f3f"]
   },
   {
-    "name": "Lyft",
+    "name": "Intel",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Screened",
+    "events": "Restricted",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "Internet Archive ",
+    "wfh": "Required",
+    "travel": "?",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-10",
+    "sources": ["https://twitter.com/brewster_kahle/status/1237194160949489670"]
+  },
+  {
+    "name": "Intuit",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-06",
+    "sources": []
+  },
+  {
+    "name": "Joy",
     "wfh": "Encouraged",
     "travel": "?",
     "visitors": "?",
     "events": "?",
-    "updated": "2020-03-04",
+    "updated": "2020-03-06",
+    "sources": []
+  },
+  {
+    "name": "Kanteron Systems",
+    "wfh": "Required",
+    "travel": "Encouraged",
+    "visitors": "Encouraged",
+    "events": "Encouraged",
+    "updated": "2020-03-11",
+    "sources": ["https://twitter.com/kanteron/status/1237694498597208064"]
+  },
+  {
+    "name": "Lightstep",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-08",
     "sources": []
   },
   {
     "name": "LinkedIn",
     "wfh": "Encouraged",
-    "travel": "?",
+    "travel": "Restricted",
     "visitors": "?",
-    "events": "?",
+    "events": "Restricted",
     "updated": "2020-03-05",
     "sources": ["https://www.businessinsider.com/linkedin-tells-employees-to-work-from-home-over-coronavirus-concerns-2020-3"]
+  },
+  {
+    "name": "Lime",
+    "wfh": "Optional",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "Lyft",
+    "wfh": "Encouraged",
+    "travel": "Non-critical restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-06",
+    "sources": []
+  },
+  {
+    "name": "LeaseCloud",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-11",
+    "sources": []
+  },
+  {
+    "name": "Mattermost",
+    "wfh": "Required",
+    "travel": "Non-critical restricted",
+    "visitors": "N/A",
+    "events": "Restricted",
+    "updated": "2020-03-09",
+    "sources": []
   },
   {
     "name": "Microsoft",
@@ -227,6 +657,51 @@
     "sources": ["https://www.theverge.com/2020/3/4/21164522/microsoft-coronavirus-response-comment-employees-memo-work-from-home"]
   },
   {
+    "name": "Mozilla",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-06",
+    "sources": []
+  },
+  {
+    "name": "NASA Ames",
+    "wfh": "Required",
+    "travel": "?",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-09",
+    "sources": ["https://twitter.com/scottbudman/status/1237054027201794049"]
+  },
+  {
+    "name": "NCR Corporation",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "NetApp",
+    "wfh": "?",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "Nextdoor",
+    "wfh": "Encouraged",
+    "travel": "?",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
     "name": "Nordstrom",
     "wfh": "Encouraged",
     "travel": "Restricted",
@@ -236,12 +711,111 @@
     "sources": ["https://www.geekwire.com/2020/coronavirus-live-updates-seattle-tech-community-grappling-covid-19/"]
   },
   {
+    "name": "Oden Technologies",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-10",
+    "sources": []
+  },
+  {
+    "name": "OLX Group",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "Restricted",
+    "updated": "2020-03-11",
+    "sources": []
+  },
+  {
+    "name": "OfferUp",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-06",
+    "sources": []
+  },
+  {
     "name": "Okta",
-    "wfh": "Required  ",
+    "wfh": "Required",
     "travel": "Restricted",
     "visitors": "?",
     "events": "?",
     "updated": "2020-03-05",
+    "sources": []
+  },
+  {
+    "name": "Opendoor",
+    "wfh": "Encouraged",
+    "travel": "?",
+    "visitors": "Restricted",
+    "events": "?",
+    "updated": "2020-03-08",
+    "sources": []
+  },
+  {
+    "name": "Pandora",
+    "wfh": "Optional",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "?",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "Parler",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-06",
+    "sources": []
+  },
+  {
+    "name": "PingCap",
+    "wfh": "Required for Bay Area",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-07",
+    "sources": []
+  },
+  {
+    "name": "Pinterest",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Partially Restricted",
+    "updated": "2020-03-08",
+    "sources": []
+  },
+  {
+    "name": "Polidea",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-10",
+    "sources": []
+  },
+  {
+    "name": "PressCentric",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-06",
+    "sources": []
+  },
+  {
+    "name": "ProdPerfect",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-06",
     "sources": []
   },
   {
@@ -254,6 +828,33 @@
     "sources": ["https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/"]
   },
   {
+    "name": "RingCentral",
+    "wfh": "Encouraged, Recommended for Bay Area",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-08",
+    "sources": []
+  },
+  {
+    "name": "Roblox",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-06",
+    "sources": []
+  },
+  {
+    "name": "RoboTerra",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-08",
+    "sources": []
+  },
+  {
     "name": "Salesforce",
     "wfh": "Encouraged",
     "travel": "Restricted",
@@ -262,7 +863,6 @@
     "updated": "2020-03-03",
     "sources": ["https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html"]
   },
-
   {
     "name": "SAP",
     "wfh": "Encouraged",
@@ -270,6 +870,24 @@
     "visitors": "Restricted",
     "events": "Restricted",
     "updated": "2020-03-05",
+    "sources": []
+  },
+  {
+    "name": "Shopify",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-11",
+    "sources": ["https://twitter.com/Shopify/status/1237741373417193476"]
+  },
+  {
+    "name": "Simpleway",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-11",
     "sources": []
   },
   {
@@ -282,6 +900,51 @@
     "sources": []
   },
   {
+    "name": "SoftServe",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "Restricted",
+    "updated": "2020-03-11",
+    "sources": []
+  },
+  {
+    "name": "Soundtrack Your Brand",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-11",
+    "sources": []
+  },
+  {
+    "name": "Splunk",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "Restricted",
+    "updated": "2020-03-06",
+    "sources": []
+  },
+  {
+    "name": "Springboard (aka SlideRule Labs Inc.)",
+    "wfh": "Encouraged, Recommended for Bangalore",
+    "travel": "Restricted",
+    "visitors": "N/A",
+    "events": "N/A",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "Spotify",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-10",
+    "sources": ["https://twitter.com/eldsjal/status/1237487784996343813"]
+  },
+  {
     "name": "Square",
     "wfh": "Encouraged",
     "travel": "Restricted",
@@ -291,6 +954,15 @@
     "sources": ["https://twitter.com/zamosta/status/1234658276781912064"]
   },
   {
+    "name": "Squarespace",
+    "wfh": "Allowed",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
     "name": "Stripe",
     "wfh": "Encouraged, some Required",
     "travel": "Restricted",
@@ -298,6 +970,15 @@
     "events": "?",
     "updated": "2020-02-29",
     "sources": ["https://stripe.com/newsroom/news/covid-19"]
+  },
+  {
+    "name": "Tapjoy",
+    "wfh": "Required or Encouraged (by Geo)",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-07",
+    "sources": []
   },
   {
     "name": "Telenav",
@@ -315,7 +996,34 @@
     "visitors": "?",
     "events": "?",
     "updated": "2020-03-04",
-    "sources": ["https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus"]
+    "sources": ["https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/"]
+  },
+  {
+    "name": "Tubi",
+    "wfh": "Encouraged",
+    "travel": "?",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-05",
+    "sources": []
+  },
+  {
+    "name": "Twilio",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-10",
+    "sources": ["https://www.twilio.com/blog/twilio-safety-response-covid-19"]
+  },
+  {
+    "name": "Twitch",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-06",
+    "sources": ["https://twitter.com/DaleCruse/status/1236016477666308096?s=20"]
   },
   {
     "name": "Twitter",
@@ -336,12 +1044,131 @@
     "sources": ["https://typless.com/2020/03/05/switching-to-fully-remote-work/"]
   },
   {
-    "name": "Yelp ",
+    "name": "Uber",
+    "wfh": "Allowed",
+    "travel": "Restricted",
+    "visitors": "Discouraged",
+    "events": "Restricted",
+    "updated": "2020-03-10",
+    "sources": []
+  },
+  {
+    "name": "UserTesting",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-10",
+    "sources": []
+  },
+  {
+    "name": "Vanilla Forums",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-11",
+    "sources": []
+  },
+  {
+    "name": "Vectra AI",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "VMware",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "Restricted",
+    "updated": "2020-03-10",
+    "sources": []
+  },
+  {
+    "name": "VSCO",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-06",
+    "sources": []
+  },
+  {
+    "name": "Wikimedia Foundation",
+    "wfh": "Encouraged, required for San Francisco office",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-06",
+    "sources": [
+      "https://wikimediafoundation.org/news/2020/03/06/wikimedia-foundation-will-close-san-francisco-office-and-encourage-remote-work-for-march-2020-amidst-covid-19-concerns/"
+    ]
+  },
+  {
+    "name": "Wish",
+    "wfh": "Encouraged, required for some locations",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-05",
+    "sources": []
+  },
+  {
+    "name": "Workday",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-09",
+    "sources": []
+  },
+  {
+    "name": "Yelp",
     "wfh": "Encouraged",
     "travel": "Restricted",
     "visitors": "?",
     "events": "?",
     "updated": "2020-03-03",
+    "sources": []
+  },
+  {
+    "name": "Zenefits",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-10",
+    "sources": []
+  },
+  {
+    "name": "Zeus Living",
+    "wfh": "Required",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "Restricted",
+    "updated": "2020-03-10",
+    "sources": []
+  },
+  {
+    "name": "Zillow",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "?",
+    "events": "?",
+    "updated": "2020-03-06",
+    "sources": []
+  },
+  {
+    "name": "Zulily",
+    "wfh": "Encouraged",
+    "travel": "Restricted",
+    "visitors": "Restricted",
+    "events": "?",
+    "updated": "2020-03-07",
     "sources": []
   }
 ]

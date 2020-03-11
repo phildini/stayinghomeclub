@@ -16,13 +16,25 @@ function buildCompanyMarkdownFromParsedJSON(parsedJSON) {
   let md = "";
 
   // header row
-  md += buildCompanyRow(["Company", "WFH", "Travel", "Visitors", "Events", "Updated", "Source"]);
-  md += buildCompanyRow(["---", "---", "---", "---", "---", "---", "---"]);
+  md += buildCompanyRow(["Company", "WFH", "Travel", "Visitors", "Events", "Updated"]);
+  md += buildCompanyRow(["---", "---", "---", "---", "---", "---"]);
 
   // other rows
   for (var i = 0; i < parsedJSON.length; i++) {
     let d = parsedJSON[i];
-    md += buildCompanyRow([d.name, d.wfh, d.travel, d.visitors, d.events, d.updated, d.sources.join(", ")]);
+
+    let name = d.name;
+
+    // create a list of source links in this format:
+    // Company [1] [2]
+    if (d.sources.length > 0) {
+      const sources = d.sources.map((url, i) => {
+        return `[[${i + 1}]](${url})`;
+      });
+      name += " " + sources.join(" ");
+    }
+
+    md += buildCompanyRow([name, d.wfh, d.travel, d.visitors, d.events, d.updated]);
   }
 
   return md;

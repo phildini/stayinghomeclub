@@ -1,23 +1,53 @@
 [
   {
+    "title": "Adobe Summit & Magento Imagine",
+    "source": "https://www.adobe.com/summit.html",
+    "note": "online-only"
+  },
+  {
+    "title": "Apache Roadshow/Chicago",
+    "source": "https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences",
+    "note": "cancelled"
+  },
+  {
     "title": "Apache Roadshow/DC",
     "source": "https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences",
     "note": "cancelled"
   },
   {
-    "title": "APIdays Singapore",
-    "source": "https://www.apidays.co/singapore",
-    "note": "Postponed until August 19-20"
+    "title": "Apache Roadshow/Seattle",
+    "source": "https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences",
+    "note": "postponed to autumn 2020"
   },
   {
-    "title": "Atlassian Summit",
-    "source": "https://www.atlassian.com/company/events/summit",
-    "note": "Moving to virtual."
+    "title": "APIdays Singapore",
+    "source": "https://www.apidays.co/singapore",
+    "note": "postponed until August 19-20"
+  },
+  {
+    "title": "Architectural Support for Programming Languages and Operating Systems (ASPLOS)",
+    "source": "ASPLOS",
+    "note": "cancelled"
+  },
+  {
+    "title": "Area41 Security Conference",
+    "source": "https://a41con.blogspot.com/2020/03/area41-postponed-to-june-2021.html",
+    "note": "postponed"
   },
   {
     "title": "Aruba Atmosphere 2020",
     "source": "https://www.atlassian.com/company/events/summit",
-    "note": "Virtual with small local events"
+    "note": "virtual with small local events"
+  },
+  {
+    "title": "Association of the United States Army Global Force Symposium 2020",
+    "source": "https://www.ausa.org/news/ausa-cancels-global-force-2020",
+    "note": "cancelled; keynote speaker to live stream remarks from Virginia"
+  },
+  {
+    "title": "Atlassian Summit",
+    "source": "https://www.atlassian.com/company/events/summit",
+    "note": "moving to virtual"
   },
   {
     "title": "AWS Summit Paris",
@@ -30,29 +60,59 @@
     "note": "cancelled"
   },
   {
-    "title": "Adobe Summit & Magento Imagine",
-    "source": "https://www.adobe.com/summit.html",
-    "note": "online-only"
-  },
-  {
     "title": "Berlin March Golang Meetup",
     "source": "https://www.meetup.com/golang-users-berlin/events/265472557",
     "note": "online-only"
   },
   {
+    "title": "Bitcoin 2020 Conference",
+    "source": "https://bitcoinmagazine.com/articles/postponed-bitcoin-2020-is-moving-to-q3-2020",
+    "note": "postponed to Q3"
+  },
+  {
     "title": "Black Hat Asia",
     "source": "https://www.blackhat.com/asia-20/travel-updates.html",
-    "note": "postponed until fall"
+    "note": "postponed until September 29 - October 2"
+  },
+  {
+    "title": "BountyCon",
+    "source": "https://www.facebook.com/notes/facebook-bug-bounty/an-update-on-bountycon/3278348118846058/",
+    "note": "postponed"
+  },
+  {
+    "title": "BSides Charm",
+    "source": "https://www.bsidescharm.org/health/",
+    "note": "optional remote speaker options, no international speakers but event will happen"
+  },
+  {
+    "title": "BSides Liverpool",
+    "source": "https://twitter.com/BsidesLivrpool/status/1235988839623266304",
+    "note": "postponed until later this year"
+  },
+  {
+    "title": "California Association for Behavior Analysis Conference",
+    "source": "https://calaba.org/conference",
+    "note": "cancelled"
   },
   {
     "title": "Cisco Live Melbourne",
     "source": "https://www.ciscolive.com/apjc.html",
-    "note": "Cancelled"
+    "note": "cancelled"
   },
   {
     "title": "CloudFest 2020",
     "source": "https://www.cloudfest.com/",
     "note": "cancelled"
+  },
+  {
+    "title": "Coachella",
+    "source": "https://www.cnn.com/2020/03/10/entertainment/coachella-postponed-coronavirus/index.html",
+    "note": "reportedly postponed to October"
+  },
+  {
+    "title": "Collision",
+    "source": "https://collisionconf.com/",
+    "note": "moving to virtual event"
   },
   {
     "title": "Deconstruct",
@@ -62,17 +122,17 @@
   {
     "title": "DEFCON China 2.0",
     "source": "https://defcon.org/html/defcon-china-2/dc-cn-2-index.html",
-    "note": "postponed"
+    "note": "postponed, new date TBD"
   },
   {
     "title": "DevNet Create",
     "source": "https://developer.cisco.com/devnetcreate/2020/",
-    "note": "Postponed, new date unknown."
+    "note": "postponed, new date unknown"
   },
   {
     "title": "DevOpsDays Seattle",
     "source": "https://twitter.com/DevOpsDaysSEA/status/1235307914908389376",
-    "note": "Postponed, possibly cancelled"
+    "note": "postponed, possibly cancelled"
   },
   {
     "title": "DevOpsDays Tokyo",
@@ -95,6 +155,11 @@
     "note": "online-only"
   },
   {
+    "title": "DragonPy",
+    "source": "https://dragonpy.com/postponed",
+    "note": "postponed"
+  },
+  {
     "title": "dotGo",
     "source": "https://twitter.com/dotGoEu/status/1234767083369639937",
     "note": "cancelled"
@@ -106,8 +171,23 @@
   },
   {
     "title": "Dreamforce World Tour (Sydney)",
-    "source": "https://www.arnnet.com.au/article/671175/salesforce-world-tour-sydney-goes-digital-amid-coronavirus-fears/",
+    "source": "Sydney",
     "note": "cancelled"
+  },
+  {
+    "title": "E3 2020",
+    "source": "https://arstechnica.com/gaming/2020/03/e3-2020-has-been-canceled/",
+    "note": "canceled"
+  },
+  {
+    "title": "Ellucian Live 2020",
+    "source": "https://www.ellucian.com/ellucianlive",
+    "note": "moving to virtual event"
+  },
+  {
+    "title": "Emerald City Comic Con (ECCC)",
+    "source": "ECCC",
+    "note": "postponed until summer"
   },
   {
     "title": "EmTech Asia",
@@ -115,14 +195,14 @@
     "note": "postponed until August"
   },
   {
+    "title": "Experimental Biology 2020",
+    "source": "https://experimentalbiology.org/2020/home.aspx",
+    "note": "cancelled"
+  },
+  {
     "title": "F5 Agility",
     "source": "https://www.f5.com/agility",
     "note": "moving to virtual event"
-  },
-  {
-    "title": "Facebook Global Marketing Summit",
-    "source": "https://www.businessinsider.com/how-facebook-affected-novel-coronavirus-outbreak-2020-2",
-    "note": "cancelled"
   },
   {
     "title": "Facebook F8",
@@ -130,9 +210,34 @@
     "note": "moving to a primarily online event"
   },
   {
+    "title": "Facebook Global Marketing Summit",
+    "source": "https://www.businessinsider.com/how-facebook-affected-novel-coronavirus-outbreak-2020-2",
+    "note": "cancelled"
+  },
+  {
+    "title": "Fast Software Encryption (FSE) 2020",
+    "source": "FSE",
+    "note": "postponed"
+  },
+  {
+    "title": "FIRST Cyber Threat Intelligence Symposium 2020 (FIRST CTI)",
+    "source": "FIRST CTI",
+    "note": "cancelled"
+  },
+  {
+    "title": "FIRST Technical Colloquium 2020 (FIRST TC)",
+    "source": "FIRST TC",
+    "note": "postponed until next year (2021)"
+  },
+  {
+    "title": "Flink Forward (Apache Flink)",
+    "source": "Apache Flink",
+    "note": "cancelled, considering moving to virtual"
+  },
+  {
     "title": "Game Developers Conference (GDC)",
-    "source": "https://www.gdconf.com/news/important-gdc-2020-update",
-    "note": "postponed "
+    "source": "GDC",
+    "note": "postponed"
   },
   {
     "title": "GitHub Satellite",
@@ -160,6 +265,11 @@
     "note": "online-only"
   },
   {
+    "title": "HYPERGROWTH London",
+    "source": "https://www.drift.com/blog/hypergrowth-london-update/",
+    "note": "Postponed until September 14th"
+  },
+  {
     "title": "IBM Think 2020",
     "source": "https://www.ibm.com/events/think/",
     "note": "online-only"
@@ -175,7 +285,12 @@
     "note": "postponed until early 2021"
   },
   {
-    "title": "Internet Freedom Summit",
+    "title": "International Conference on Software Engineering (ICSE)",
+    "source": "ICSE",
+    "note": "postponed to October"
+  },
+  {
+    "title": "Internet Freedom Festival",
     "source": "https://internetfreedomfestival.org/wiki/index.php/Cancellation_of_the_2020_Internet_Freedom_Festival",
     "note": "cancelled"
   },
@@ -185,9 +300,24 @@
     "note": "cancelled"
   },
   {
+    "title": "ISC West",
+    "source": "https://www.iscwest.com/RNA/RNA_ISCWest_v2/2020/doc/legal/ISC-West-A-Statement-from-Reed-Exhibitions-3-6.pdf",
+    "note": "postponed until July, dates TBD"
+  },
+  {
+    "title": "IsomniHack 2020",
+    "source": "hhttps://insomnihack.ch/covid-19/",
+    "note": "postponed until June"
+  },
+  {
+    "title": "Kafka Summit London 2020",
+    "source": "https://www.confluent.io/blog/kafka-summit-london-2020-update/",
+    "note": "cancelled"
+  },
+  {
     "title": "Kaspersky's Security Analyst Summit",
     "source": "https://thesascon.com/",
-    "note": "postponed until Fall"
+    "note": "postponed until September, exact date TBD"
   },
   {
     "title": "KubeCon EU 2020",
@@ -195,17 +325,27 @@
     "note": "postponed until July/August, 2020, dates pending"
   },
   {
-    "title": "Linaro Connect Budapest 2020",
-    "source": "https://www.linaro.org/blog/linaro-connect-budapest-2020-cancelled/",
-    "note": "cancelled"
-  },
-  {
     "title": "Lesbians Who Tech",
     "source": "https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20",
     "note": "postponed until August 6-8, 2020 pending developments"
   },
   {
-    "title": "Microsoft Ignite The Tour Amsterdam",
+    "title": "LibrePlanet 2020",
+    "source": "https://www.fsf.org/blogs/community/libreplanet-2020-in-person-component-canceled-but-well-see-you-online",
+    "note": "online-only"
+  },
+  {
+    "title": "Linaro Connect Budapest 2020",
+    "source": "https://www.linaro.org/blog/linaro-connect-budapest-2020-cancelled/",
+    "note": "cancelled"
+  },
+  {
+    "title": "Micro Focus Universe The Hague",
+    "source": "https://universe.microfocus.com/",
+    "note": "moving to virtual event Micro Focus Virtual Universe 2020"
+  },
+  {
+    "title": "Microsoft Ignite the Tour Amsterdam",
     "source": "https://www.microsoft.com/nl-nl/ignite-the-tour/amsterdam",
     "note": "cancellation announced March 2, 2020"
   },
@@ -225,23 +365,53 @@
     "note": "cancelled"
   },
   {
+    "title": "Minecraft Festival",
+    "source": "https://www.minecraft.net/en-us/article/minecraft-festival-postponed",
+    "note": "postponed to 2021, Minecraft Live still happening online-only"
+  },
+  {
     "title": "Mobile World Congress (MWC) - Barcelona",
-    "source": "https://www.mwcbarcelona.com/gsma-statement-on-mwc-2020/",
+    "source": "MWC",
     "note": "cancelled"
   },
   {
+    "title": "MongoDB World",
+    "source": "https://www.mongodb.com/world",
+    "note": "changed to a virtual event; re-branded as MongoDB.live"
+  },
+  {
+    "title": "National Association of Broadcasters (NAB)",
+    "source": "NAB",
+    "note": "cancelled"
+  },
+  {
+    "title": "NetApp INSIGHT",
+    "source": "https://blog.netapp.com/postponing-netapp-insight-paris-and-berlin-events/",
+    "note": "postponed"
+  },
+  {
     "title": "Nvidia GPU Technology Conference (GTC) 2020",
-    "source": "https://www.theverge.com/2020/3/2/21161635/nvidias-gpu-technology-conference-gtc-online-only-coronavirus",
+    "source": "GTC",
     "note": "online-only"
   },
   {
-    "title": "Open Compute Project Global Summit",
-    "source": "https://www.opencompute.org/blog/we-are-moving-the-2020-ocp-global-summit-to-an-interactive-virtual-global-summit",
-    "note": "changed to a virtual event."
+    "title": "OCLC Resource Sharing Conference 2020",
+    "source": "https://www.oclc.org/en/events/2020/Resource-Sharing-Conference.html",
+    "note": "cancelled"
   },
   {
     "title": "Oktane",
     "source": "https://www.oktane20.com/",
+    "note": "changed to a virtual event"
+  },
+  {
+    "title": "Open Compute Project Global Summit",
+    "source": "https://www.opencompute.org/blog/we-are-moving-the-2020-ocp-global-summit-to-an-interactive-virtual-global-summit",
+    "note": "changed to a virtual event"
+  },
+  {
+    "title": "Open Hardware Summit",
+    "source": "https://2020.oshwa.org/2020/03/08/the-2020-open-hardware-summit-is-going-virtual/",
     "note": "changed to a virtual event"
   },
   {
@@ -251,7 +421,12 @@
   },
   {
     "title": "Oracle User Group Irelend (OUG Ireland)",
-    "source": "https://twitter.com/MDWidlake/status/1234864869377216515",
+    "source": "OUG Ireland",
+    "note": "cancelled"
+  },
+  {
+    "title": "Outreach Unleash 2020",
+    "source": "https://www.outreach.io/blog/unleash-20-update",
     "note": "cancelled"
   },
   {
@@ -260,9 +435,24 @@
     "note": "postponed until Dec. 9-10"
   },
   {
+    "title": "Pwn2Own CansSecWest",
+    "source": "https://www.thezdi.com/blog/2020/3/3/announcing-remote-participation-in-pwn2own-vancouver",
+    "note": "optional remote participation (can attend, or have people on site execute commands/actions ie. on-site not required to participate)"
+  },
+  {
     "title": "PyCon Italia",
     "source": "https://pycon.it/en/blog/pycon-11-postponed-to-november",
     "note": "moved to November"
+  },
+  {
+    "title": "PyCon SK",
+    "source": "https://2020.pycon.sk/en/news.html",
+    "note": "moved to September"
+  },
+  {
+    "title": "Qt World Summit",
+    "source": "https://www.qt.io/qtws20",
+    "note": "postponed to October 2020"
   },
   {
     "title": "Qualtrics X4 Summit",
@@ -270,13 +460,38 @@
     "note": "postponed to early Fall 2020"
   },
   {
+    "title": "RailsConf2020",
+    "source": "https://railsconf.com/",
+    "note": "cancelled"
+  },
+  {
     "title": "Red Hat Summit",
     "source": "https://www.redhat.com/en/summit",
-    "note": "moving to virtual event."
+    "note": "moving to virtual event"
+  },
+  {
+    "title": "RedisConf20",
+    "source": "https://events.redislabs.com/redisconf20/",
+    "note": "moving to virtual event"
+  },
+  {
+    "title": "Red Team Summit",
+    "source": "https://www.zdnet.com/article/a-list-of-security-conferences-canceled-or-postponed-due-to-coronavirus-concerns/",
+    "note": "postponed until June 11-12"
+  },
+  {
+    "title": "Rocket League World Championship",
+    "source": "https://www.rocketleague.com/news/important-rocket-league-esports-update/",
+    "note": "cancelled"
   },
   {
     "title": "RubyKaigi",
     "source": "https://rubykaigi.org/2020",
+    "note": "postponed until September"
+  },
+  {
+    "title": "SaaStr Annual",
+    "source": "https://www.saastrannual.com/",
     "note": "postponed until September"
   },
   {
@@ -295,9 +510,9 @@
     "note": "in-person canceled; online-only event"
   },
   {
-    "title": "SNUG Silicon Valley",
-    "source": "https://www.synopsys.com/community/snug/snug-silicon-valley.html",
-    "note": "cancelled"
+    "title": "SAS Global Forum",
+    "source": "https://www.sas.com/en_us/events/sas-global-forum/announcement.html",
+    "note": "in-person canceled; online-only event"
   },
   {
     "title": "Security Analyst Summit",
@@ -305,9 +520,14 @@
     "note": "cancelled"
   },
   {
-    "title": "Shopify Unite & Shopify Pursuit",
+    "title": "Shopify Pursuit (Melbourne and Mexico)",
+    "source": "Melbourne and Mexico",
+    "note": "postponed, no date given"
+  },
+  {
+    "title": "Shopify Unite",
     "source": "https://www.shopify.com.au/partners/blog/unite-2020-update",
-    "note": "cancelled"
+    "note": "moving to virtual event"
   },
   {
     "title": "Shoptalk",
@@ -315,14 +535,34 @@
     "note": "Postponed until September"
   },
   {
+    "title": "SNUG Silicon Valley",
+    "source": "https://www.synopsys.com/community/snug/snug-silicon-valley.html",
+    "note": "cancelled"
+  },
+  {
     "title": "SRECon Americas West",
     "source": "https://www.usenix.org/conferences/coronavirus",
     "note": "postponed until June"
   },
   {
+    "title": "STP Con",
+    "source": "https://www.stpcon.com/important-stpcon-spring-2020-announcement-please-read/",
+    "note": "cancelled"
+  },
+  {
     "title": "Strata Data & AI",
     "source": "https://conferences.oreilly.com/strata-data-ai/stai-ca",
     "note": "merged with NY in September"
+  },
+  {
+    "title": "SUSECON 2020",
+    "source": "https://www.suse.com/c/reimagining-susecon-2020/",
+    "note": "moving to virtual event"
+  },
+  {
+    "title": "SXSW",
+    "source": "https://www.sxsw.com/2020-event-update/",
+    "note": "cancelled"
   },
   {
     "title": "TED",
@@ -340,9 +580,24 @@
     "note": "postponed"
   },
   {
+    "title": "TwitchCon Amsterdam",
+    "source": "https://twitter.com/TwitchCon/status/1235942102556651521?s=20",
+    "note": "cancelled"
+  },
+  {
     "title": "Unreal Fest Europe",
     "source": "https://www.unrealengine.com/en-US/events/unreal-fest-europe-2020",
     "note": "cancelled"
+  },
+  {
+    "title": "Write the Docs Portland 2020",
+    "source": "https://www.writethedocs.org/conf/portland/2020/news/covid-19-update-02/",
+    "note": "postponed, likely to August; final date expected to be announced by March 20"
+  },
+  {
+    "title": "Women in Cybersecurity (WiCyS) 2020",
+    "source": "WiCyS",
+    "note": "cancelled, looking for alternative options TBD"
   },
   {
     "title": "WSLConf",
@@ -350,9 +605,9 @@
     "note": "going online-only"
   },
   {
-    "title": "Women in Cybersecurity (WiCyS) 2020",
-    "source": "https://www.wicys.org/",
-    "note": "cancelled, looking for alternative options TBD"
+    "title": "WWCode CONNECT India 2020",
+    "source": "https://www.womenwhocode.com/blog/coronavirus-update-a-note-from-our-ceo",
+    "note": "postponed"
   },
   {
     "title": "WWHackinfest San Diego",
@@ -360,8 +615,18 @@
     "note": "moving to virtual event (talks, training and MetaCTF will be virtual)"
   },
   {
+    "title": "Zcon2",
+    "source": "https://www.zfnd.org/zcon/",
+    "note": "cancelled"
+  },
+  {
     "title": "ZenDesk Relate",
     "source": "https://www.miamiherald.com/news/business/tourism-cruises/article240801336.html",
     "note": "cancelled"
+  },
+  {
+    "title": "Workshop on Formal Methods for Cryptographic Proofs",
+    "source": "https://fmcpworkshop.onai.com",
+    "note": "changed to primarily online"
   }
 ]
