@@ -219,6 +219,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Pwn2Own CansSecWest](https://www.thezdi.com/blog/2020/3/3/announcing-remote-participation-in-pwn2own-vancouver): optional remote participation (can attend, or have people on site execute commands/actions ie. on-site not required to participate)
 - [PyCon Italia](https://pycon.it/en/blog/pycon-11-postponed-to-november): moved to November
 - [PyCon SK](https://2020.pycon.sk/en/news.html): moved to September
+- [Qt World Summit](https://www.qt.io/qtws20): postponed to October 2020
 - [Qualtrics X4 Summit](https://www.qualtrics.com/x4summit/): postponed to early Fall 2020
 - [Red Hat Summit](https://www.redhat.com/en/summit): moving to virtual event
 - [RedisConf20](https://events.redislabs.com/redisconf20/): moving to virtual event
