@@ -156,6 +156,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [dotGo](https://twitter.com/dotGoEu/status/1234767083369639937): cancelled
 - [dotPy](https://twitter.com/dotpy_io/status/1233830965421711360): cancelled
 - [Dreamforce World Tour (Sydney)](https://www.arnnet.com.au/article/671175/salesforce-world-tour-sydney-goes-digital-amid-coronavirus-fears/): cancelled
+- [E3](https://www.gamesradar.com/e3-2020-cancelled/): cancelled
 - [Ellucian Live 2020](https://www.ellucian.com/ellucianlive): moving to virtual event
 - [Emerald City Comic Con (ECCC)](https://www.emeraldcitycomiccon.com/About/A-Statement-From-Reedpop/): postponed until summer
 - [EmTech Asia](https://emtechasia.com/): postponed until August
