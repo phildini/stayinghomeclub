@@ -114,7 +114,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
-## Events - 113
+## Events - 114
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
 - [Apache Roadshow/Chicago](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
@@ -124,6 +124,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Architectural Support for Programming Languages and Operating Systems (ASPLOS)](https://asplos-conference.org/): cancelled
 - [Area41 Security Conference](https://a41con.blogspot.com/2020/03/area41-postponed-to-june-2021.html): postponed
 - [Aruba Atmosphere 2020](https://www.atlassian.com/company/events/summit): virtual with small local events
+- [Association of the United States Army Global Force Symposium 2020](https://www.ausa.org/news/ausa-cancels-global-force-2020): cancelled; keynote speaker to live stream remarks from Virginia
 - [Atlassian Summit](https://www.atlassian.com/company/events/summit): moving to virtual
 - [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/): cancelled
 - [AWS Summit Sydney](https://aws.amazon.com/events/summits/sydney/): cancelled
