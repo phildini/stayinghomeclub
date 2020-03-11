@@ -23,6 +23,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Bluecore | Allowed | Restricted | ? | Discouraged | 2020-03-09 |
 | Brex | Encouraged, Recommended for San Francisco, Vancouver, New York | Restricted | Restricted | Restricted | 2020-03-06 |
 | Brightloom | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
+| Bryce Labs | Required | Encouraged | Restricted | Encouraged | 2020-03-11 |
 | Builder.io | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Bungie[[1]](https://www.bungie.net/en/Explore/Detail/News/48839) | Required | ? | ? | ? | 2020-03-05 |
 | Buzzfeed | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
