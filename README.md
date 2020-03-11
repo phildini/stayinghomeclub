@@ -107,7 +107,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | UserTesting | Encouraged | Restricted | ? | ? | 2020-03-10 |
 | Vanilla Forums | Allowed | Restricted | Restricted | Restricted | 2020-03-03 |
 | Vectra AI | Encouraged | Restricted | ? | ? | 2020-03-09 |
-| VMware | Allowed | Restricted | ? | Restricted | 2020-03-09 |
+| VMware | Encouraged | Restricted | ? | Restricted | 2020-03-10 |
 | VSCO | Required | Restricted | ? | ? | 2020-03-06 |
 | Wikimedia Foundation[[1]](https://wikimediafoundation.org/news/2020/03/06/wikimedia-foundation-will-close-san-francisco-office-and-encourage-remote-work-for-march-2020-amidst-covid-19-concerns/) | Encouraged, required for San Francisco office | Restricted | Restricted | Restricted | 2020-03-06 |
 | Wish | Encouraged, required for some locations | Restricted | Restricted | Restricted | 2020-03-05 |
