@@ -141,7 +141,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Twitch[[1]](https://twitter.com/DaleCruse/status/1236016477666308096?s=20) | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | Twitter[[1]](https://blog.twitter.com/en_us/topics/company/2020/keeping-our-employees-and-partners-safe-during-coronavirus.html) | Required | Restricted | Restricted | Restricted | 2020-03-03 |
 | Typless[[1]](https://typless.com/2020/03/05/switching-to-fully-remote-work/) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
-| Uber | Allowed | Restricted | Discouraged | Restricted | 2020-03-10 |
+| Uber | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | UserTesting | Encouraged | Restricted | ? | ? | 2020-03-10 |
 | Vanilla Forums | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | Vectra AI | Encouraged | Restricted | ? | ? | 2020-03-09 |
