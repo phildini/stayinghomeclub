@@ -137,7 +137,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
-## Events - 120
+## Events - 121
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
 - [Apache Roadshow/Chicago](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
@@ -229,6 +229,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [PyCon SK](https://2020.pycon.sk/en/news.html): moved to September
 - [Qt World Summit](https://www.qt.io/qtws20): postponed to October 2020
 - [Qualtrics X4 Summit](https://www.qualtrics.com/x4summit/): postponed to early Fall 2020
+- [RailsConf2020](https://railsconf.com/): cancelled
 - [Red Hat Summit](https://www.redhat.com/en/summit): moving to virtual event
 - [RedisConf20](https://events.redislabs.com/redisconf20/): moving to virtual event
 - [Red Team Summit](https://www.zdnet.com/article/a-list-of-security-conferences-canceled-or-postponed-due-to-coronavirus-concerns/): postponed until June 11-12
