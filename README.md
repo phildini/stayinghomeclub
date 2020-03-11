@@ -3,12 +3,13 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 100
+## Companies - 103
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
 | ActionIQ | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
 | Adobe[[1]](https://www.npr.org/2020/03/03/811728989/coronavirus-cancellations-and-travel-bans-google-is-latest)[[2]](https://twitter.com/AdobeNews/status/1236758404330389504) | Encouraged / Directed for Seattle and Bay Area till 03/23/20 | Restricted | ? | ? | 2020-03-09 |
+| Airbnb [[1]](https://www.businessinsider.com/airbnb-tells-bay-area-employees-work-remote-covid-19-coronavirus-2020-3) | Required | Restricted | Restricted | Restricted | 2020-03-10 |
 | Amazon[[1]](https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020)[[2]](https://www.cnbc.com/2020/03/09/coronavirus-amazon-tells-employees-in-ny-nj-to-work-from-home.html) | Encouraged, Recommended for Seattle, Bay Area, Lombardy region & Asti province of Italy, New York, and New Jersey to 3/31 | Restricted | Restricted | Restricted | 2020-03-09 |
 | Anvyl | Encouraged | Restricted | ? | Restricted | 2020-03-09 |
 | Apartment List | Required | Restricted | Restricted | Restricted | 2020-03-06 |
@@ -32,6 +33,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Coursera | Encouraged | Restricted | Restricted | ? | 2020-03-06 |
 | Crunchbase | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Crunchyroll | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
+| Culture Amp | Encouraged | Restricted | Restricted | Restricted | 2020-03-10 |
 | Dell-EMC | Allowed | Restricted | Restricted | Restricted | 2020-03-02 |
 | Determined AI | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Digit | Required | Restricted | Restricted | Restricted | 2020-03-05 |
@@ -98,8 +100,9 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Twitch[[1]](https://twitter.com/DaleCruse/status/1236016477666308096?s=20) | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | Twitter[[1]](https://blog.twitter.com/en_us/topics/company/2020/keeping-our-employees-and-partners-safe-during-coronavirus.html) | Required | Restricted | Restricted | Restricted | 2020-03-03 |
 | Typless[[1]](https://typless.com/2020/03/05/switching-to-fully-remote-work/) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
-| Uber | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
+| Uber | Allowed | Restricted | Discouraged | Restricted | 2020-03-10 |
 | UserTesting | Encouraged | Restricted | ? | ? | 2020-03-10 |
+| Vanilla Forums | Allowed | Restricted | Restricted | Restricted | 2020-03-03 |
 | Vectra AI | Encouraged | Restricted | ? | ? | 2020-03-09 |
 | VMware | Allowed | Restricted | ? | Restricted | 2020-03-09 |
 | VSCO | Required | Restricted | ? | ? | 2020-03-06 |
@@ -111,7 +114,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
-## Events - 112
+## Events - 113
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
 - [Apache Roadshow/Chicago](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
@@ -171,6 +174,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Internet2 2020 Global Summit](https://meetings.internet2.edu/2020-global-summit/update-coronavirus/): cancelled
 - [ISC West](https://www.iscwest.com/RNA/RNA_ISCWest_v2/2020/doc/legal/ISC-West-A-Statement-from-Reed-Exhibitions-3-6.pdf): postponed until July, dates TBD
 - [IsomniHack 2020](hhttps://insomnihack.ch/covid-19/): postponed until June
+- [Kafka Summit London 2020](https://www.confluent.io/blog/kafka-summit-london-2020-update/): cancelled
 - [Kaspersky's Security Analyst Summit](https://thesascon.com/): postponed until September, exact date TBD
 - [KubeCon EU 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/): postponed until July/August, 2020, dates pending
 - [Lesbians Who Tech](https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20): postponed until August 6-8, 2020 pending developments
