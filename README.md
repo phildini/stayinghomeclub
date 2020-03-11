@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 134
+## Companies - 135
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -87,6 +87,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | NASA Ames[[1]](https://twitter.com/scottbudman/status/1237054027201794049) | Required | ? | ? | ? | 2020-03-09 |
 | NCR Corporation | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
 | NetApp | ? | Restricted | ? | ? | 2020-03-09 |
+| Netguru[[1]](https://www.linkedin.com/posts/netguru_coronavirus-activity-6643166410015035392-V5E8) | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Netflix | Encouraged, Geo-specific | Restricted | Restricted | Restricted | 2020-03-11 |
 | Nextdoor | Encouraged | ? | ? | ? | 2020-03-09 |
 | Niteo | Required | Restricted | Restricted | Restricted | 2020-03-11 |
