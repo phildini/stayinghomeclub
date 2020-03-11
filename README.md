@@ -132,7 +132,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
-## Events - 115
+## Events - 118
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
 - [Apache Roadshow/Chicago](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
@@ -207,6 +207,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Microsoft MVP Summit](https://www.geekwire.com/2020/microsoft-cancels-mvp-summit-due-coronavirus-outbreak-seattle-area/): cancelled
 - [Minecraft Festival](https://www.minecraft.net/en-us/article/minecraft-festival-postponed): postponed to 2021, Minecraft Live still happening online-only
 - [Mobile World Congress (MWC) - Barcelona](https://www.mwcbarcelona.com/gsma-statement-on-mwc-2020/): cancelled
+- [MongoDB World](https://www.mongodb.com/world): changed to a virtual event; re-branded as MongoDB.live
 - [NetApp INSIGHT](https://blog.netapp.com/postponing-netapp-insight-paris-and-berlin-events/): postponed
 - [Nvidia GPU Technology Conference (GTC) 2020](https://www.theverge.com/2020/3/2/21161635/nvidias-gpu-technology-conference-gtc-online-only-coronavirus): online-only
 - [OCLC Resource Sharing Conference 2020](https://www.oclc.org/en/events/2020/Resource-Sharing-Conference.html): cancelled
