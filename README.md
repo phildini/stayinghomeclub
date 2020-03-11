@@ -106,7 +106,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Typless[[1]](https://typless.com/2020/03/05/switching-to-fully-remote-work/) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
 | Uber | Allowed | Restricted | Discouraged | Restricted | 2020-03-10 |
 | UserTesting | Encouraged | Restricted | ? | ? | 2020-03-10 |
-| Vanilla Forums | Allowed | Restricted | Restricted | Restricted | 2020-03-03 |
+| Vanilla Forums | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | Vectra AI | Encouraged | Restricted | ? | ? | 2020-03-09 |
 | VMware | Encouraged | Restricted | ? | Restricted | 2020-03-10 |
 | VSCO | Required | Restricted | ? | ? | 2020-03-06 |
