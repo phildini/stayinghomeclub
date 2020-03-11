@@ -72,6 +72,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Intuit | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Joy | Encouraged | ? | ? | ? | 2020-03-06 |
 | Kanteron Systems[[1]](https://twitter.com/kanteron/status/1237694498597208064) | Required | Encouraged | Encouraged | Encouraged | 2020-03-11 |
+| Kayak | Strongly Encouraged | Restricted | ? | ? | 2020-03-11 |
 | Lightstep | Encouraged | Restricted | Restricted | Restricted | 2020-03-08 |
 | LinkedIn[[1]](https://www.businessinsider.com/linkedin-tells-employees-to-work-from-home-over-coronavirus-concerns-2020-3) | Encouraged | Restricted | ? | Restricted | 2020-03-05 |
 | Lime | Optional | Restricted | Restricted | Restricted | 2020-03-09 |
@@ -90,6 +91,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | OfferUp | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Okta | Required | Restricted | ? | ? | 2020-03-05 |
 | Opendoor | Encouraged | ? | Restricted | ? | 2020-03-08 |
+| OpenTable | Strongly Encouraged | Restricted | ? | ? | 2020-03-11 |
 | Pandora | Optional | Restricted | Restricted | ? | 2020-03-09 |
 | Parler | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | PingCap | Required for Bay Area | Restricted | Restricted | Restricted | 2020-03-07 |
