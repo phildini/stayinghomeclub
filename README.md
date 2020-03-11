@@ -92,6 +92,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Nextdoor | Encouraged | ? | ? | ? | 2020-03-09 |
 | Niteo | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Nordstrom[[1]](https://www.geekwire.com/2020/coronavirus-live-updates-seattle-tech-community-grappling-covid-19/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
+| Notion Labs | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | Oden Technologies | Encouraged | Restricted | Restricted | Restricted | 2020-03-10 |
 | OLX Group | Encouraged | Restricted | ? | Restricted | 2020-03-11 |
 | OfferUp | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
