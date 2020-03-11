@@ -112,7 +112,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
-## Events - 112
+## Events - 113
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
 - [Apache Roadshow/Chicago](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
@@ -172,6 +172,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Internet2 2020 Global Summit](https://meetings.internet2.edu/2020-global-summit/update-coronavirus/): cancelled
 - [ISC West](https://www.iscwest.com/RNA/RNA_ISCWest_v2/2020/doc/legal/ISC-West-A-Statement-from-Reed-Exhibitions-3-6.pdf): postponed until July, dates TBD
 - [IsomniHack 2020](hhttps://insomnihack.ch/covid-19/): postponed until June
+- [Kafka Summit London 2020](https://www.confluent.io/blog/kafka-summit-london-2020-update/): cancelled
 - [Kaspersky's Security Analyst Summit](https://thesascon.com/): postponed until September, exact date TBD
 - [KubeCon EU 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/): postponed until July/August, 2020, dates pending
 - [Lesbians Who Tech](https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20): postponed until August 6-8, 2020 pending developments
