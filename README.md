@@ -45,6 +45,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Dropbox | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | eBay | ? | Restricted | ? | Restricted | 2020-03-04 |
 | Expedia | Encouraged, some Required | Restricted | ? | ? | 2020-03-06 |
+| Houzz | Optional | Restricted | Restricted | Restricted | 2020-03-09 |
 | f5 Networks | Encouraged for Seattle and Bay Area until 3/23 | Restricted | Restricted | Restricted | 2020-03-05 |
 | Facebook[[1]](https://www.geekwire.com/2020/facebook-contractor-seattle-tests-positive-coronavirus-company-closes-office/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
 | Fastly[[1]](https://www.fastly.com/blog/exercising-caution-as-covid-19-evolves) | Required | Restricted | Restricted | Restricted | 2020-03-01 |
@@ -74,6 +75,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | NetApp | ? | Restricted | ? | ? | 2020-03-09 |
 | Nextdoor | Encouraged | ? | ? | ? | 2020-03-09 |
 | Nordstrom[[1]](https://www.geekwire.com/2020/coronavirus-live-updates-seattle-tech-community-grappling-covid-19/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
+| Oden Technologies | Encouraged | Restricted | Restricted | Restricted | 2020-03-10 |
 | OfferUp | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Okta | Required | Restricted | ? | ? | 2020-03-05 |
 | Opendoor | Encouraged | ? | Restricted | ? | 2020-03-08 |
@@ -111,11 +113,12 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Wish | Encouraged, required for some locations | Restricted | Restricted | Restricted | 2020-03-05 |
 | Workday | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Yelp | Encouraged | Restricted | ? | ? | 2020-03-03 |
+| Zeus Living | Required | Restricted | Restricted | Restricted | 2020-03-10 |
 | Zillow | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
-## Events - 113
+## Events - 114
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
 - [Apache Roadshow/Chicago](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
@@ -125,6 +128,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Architectural Support for Programming Languages and Operating Systems (ASPLOS)](https://asplos-conference.org/): cancelled
 - [Area41 Security Conference](https://a41con.blogspot.com/2020/03/area41-postponed-to-june-2021.html): postponed
 - [Aruba Atmosphere 2020](https://www.atlassian.com/company/events/summit): virtual with small local events
+- [Association of the United States Army Global Force Symposium 2020](https://www.ausa.org/news/ausa-cancels-global-force-2020): cancelled; keynote speaker to live stream remarks from Virginia
 - [Atlassian Summit](https://www.atlassian.com/company/events/summit): moving to virtual
 - [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/): cancelled
 - [AWS Summit Sydney](https://aws.amazon.com/events/summits/sydney/): cancelled
@@ -225,6 +229,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [TSConf EU](https://twitter.com/tsconfeu/status/1235135186033139713): postponed
 - [TwitchCon Amsterdam](https://twitter.com/TwitchCon/status/1235942102556651521?s=20): cancelled
 - [Unreal Fest Europe](https://www.unrealengine.com/en-US/events/unreal-fest-europe-2020): cancelled
+- [Write the Docs Portland 2020](https://www.writethedocs.org/conf/portland/2020/news/covid-19-update-02/): postponed, likely to August; final date expected to be announced by March 20
 - [Women in Cybersecurity (WiCyS) 2020](https://www.wicys.org/): cancelled, looking for alternative options TBD
 - [WSLConf](https://www.wslconf.dev/): going online-only
 - [WWCode CONNECT India 2020](https://www.womenwhocode.com/blog/coronavirus-update-a-note-from-our-ceo): postponed
