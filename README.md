@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 127
+## Companies - 128
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -104,6 +104,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Salesforce[[1]](https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
 | SAP | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Shopify[[1]](https://twitter.com/Shopify/status/1237741373417193476) | Required | Restricted | Restricted | Restricted | 2020-03-11 |
+| Simpleway | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | Slack | Encouraged, Required in JP | Restricted | ? | Restricted | 2020-03-04 |
 | SoftServe | Encouraged | Restricted | ? | Restricted | 2020-03-11 |
 | Soundtrack Your Brand | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
