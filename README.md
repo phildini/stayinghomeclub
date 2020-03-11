@@ -204,6 +204,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Lesbians Who Tech](https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20): postponed until August 6-8, 2020 pending developments
 - [LibrePlanet 2020](https://www.fsf.org/blogs/community/libreplanet-2020-in-person-component-canceled-but-well-see-you-online): online-only
 - [Linaro Connect Budapest 2020](https://www.linaro.org/blog/linaro-connect-budapest-2020-cancelled/): cancelled
+- [Micro Focus Universe The Hague](https://universe.microfocus.com/): moving to virtual event Micro Focus Virtual Universe 2020
 - [Microsoft Ignite the Tour Amsterdam](https://www.microsoft.com/nl-nl/ignite-the-tour/amsterdam): cancellation announced March 2, 2020
 - [Microsoft Ignite the Tour Singapore](https://www.microsoft.com/en-sg/ignite-the-tour/singapore): cancelled
 - [Microsoft Ignite the Tour Zurich](https://www.microsoft.com/de-ch/ignite-the-tour/zurich): cancelled
