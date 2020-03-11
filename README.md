@@ -87,6 +87,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | NetApp | ? | Restricted | ? | ? | 2020-03-09 |
 | Netflix | Encouraged, Geo-specific | Restricted | Restricted | Restricted | 2020-03-11 |
 | Nextdoor | Encouraged | ? | ? | ? | 2020-03-09 |
+| Niteo | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Nordstrom[[1]](https://www.geekwire.com/2020/coronavirus-live-updates-seattle-tech-community-grappling-covid-19/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
 | Oden Technologies | Encouraged | Restricted | Restricted | Restricted | 2020-03-10 |
 | OLX Group | Encouraged | Restricted | ? | Restricted | 2020-03-11 |
@@ -174,6 +175,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [DevRelCon Tokyo](https://tokyo-2020.devrel.net/information/2020/02/13/devrelcon-tokyo-has-canceled_en.html): cancelled
 - [DocuSign Momentum - San Francisco](https://momentum.docusign.com/faq): online-only
 - [Domopalooza 2020](https://www.domo.com/domopalooza#FAQs): online-only
+- [DragonPy](https://dragonpy.com/postponed): postponed
 - [dotGo](https://twitter.com/dotGoEu/status/1234767083369639937): cancelled
 - [dotPy](https://twitter.com/dotpy_io/status/1233830965421711360): cancelled
 - [Dreamforce World Tour (Sydney)](https://www.arnnet.com.au/article/671175/salesforce-world-tour-sydney-goes-digital-amid-coronavirus-fears/): cancelled
