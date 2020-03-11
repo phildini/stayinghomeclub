@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 107
+## Companies - 108
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -25,6 +25,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Builder.io | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Bungie[[1]](https://www.bungie.net/en/Explore/Detail/News/48839) | Required | ? | ? | ? | 2020-03-05 |
 | Buzzfeed | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
+| Bugcrowd | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | charity: water | Required | Restricted | Restricted | Restricted | 2020-3-06 |
 | Cisco | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Cloudflare | ? | Restricted | Restricted | Restricted | 2020-03-04 |
@@ -64,6 +65,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Internet Archive [[1]](https://twitter.com/brewster_kahle/status/1237194160949489670) | Required | ? | ? | ? | 2020-03-10 |
 | Intuit | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Joy | Encouraged | ? | ? | ? | 2020-03-06 |
+| Kanteron Systems[[1]](https://twitter.com/kanteron/status/1237694498597208064) | Required | Encouraged | Encouraged | Encouraged | 2020-03-11 |
 | LinkedIn[[1]](https://www.businessinsider.com/linkedin-tells-employees-to-work-from-home-over-coronavirus-concerns-2020-3) | Encouraged | Restricted | ? | Restricted | 2020-03-05 |
 | Lime | Optional | Restricted | Restricted | Restricted | 2020-03-09 |
 | Lyft | Encouraged | Non-critical restricted | ? | ? | 2020-03-06 |
@@ -76,6 +78,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Nextdoor | Encouraged | ? | ? | ? | 2020-03-09 |
 | Nordstrom[[1]](https://www.geekwire.com/2020/coronavirus-live-updates-seattle-tech-community-grappling-covid-19/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
 | Oden Technologies | Encouraged | Restricted | Restricted | Restricted | 2020-03-10 |
+| OLX Group | Encouraged | Restricted | ? | Restricted | 2020-03-11 |
 | OfferUp | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Okta | Required | Restricted | ? | ? | 2020-03-05 |
 | Opendoor | Encouraged | ? | Restricted | ? | 2020-03-08 |
@@ -83,6 +86,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Parler | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | PingCap | Required for Bay Area | Restricted | Restricted | Restricted | 2020-03-07 |
 | Pinterest | Encouraged | Restricted | Restricted | Partially Restricted | 2020-03-08 |
+| Polidea | Encouraged | Restricted | Restricted | Restricted | 2020-03-10 |
 | PressCentric | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | ProdPerfect | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Redfin[[1]](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/) | Encouraged | ? | ? | ? | 2020-03-04 |
@@ -91,8 +95,10 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Salesforce[[1]](https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
 | SAP | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Slack | Encouraged, Required in JP | Restricted | ? | Restricted | 2020-03-04 |
+| SoftServe | Encouraged | Restricted | ? | Restricted | 2020-03-11 |
 | Soundtrack Your Brand | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | Splunk | Encouraged | Restricted | ? | Restricted | 2020-03-06 |
+| Springboard (aka SlideRule Labs Inc.) | Encouraged, Recommended for Bangalore | Restricted | N/A | N/A | 2020-03-09 |
 | Spotify[[1]](https://twitter.com/eldsjal/status/1237487784996343813) | Encouraged | Restricted | Restricted | Restricted | 2020-03-10 |
 | Square[[1]](https://twitter.com/zamosta/status/1234658276781912064) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
 | Squarespace | Allowed | Restricted | Restricted | Restricted | 2020-03-09 |
@@ -178,6 +184,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [IBM Think 2020](https://www.ibm.com/events/think/): online-only
 - [ICANN 67](https://www.icann.org/news/announcement-2020-02-19-en): online-only
 - [Ingram Micro Cloud Summit 2020](https://www.ingrammicrocloud.com/press-releases/ingram-micro-cloud-postpones-cloud-summit-2020-early-2021/): postponed until early 2021
+- [International Conference on Software Engineering (ICSE)](https://conf.researchr.org/home/icse-2020): postponed to October
 - [Internet Freedom Festival](https://internetfreedomfestival.org/wiki/index.php/Cancellation_of_the_2020_Internet_Freedom_Festival): cancelled
 - [Internet2 2020 Global Summit](https://meetings.internet2.edu/2020-global-summit/update-coronavirus/): cancelled
 - [ISC West](https://www.iscwest.com/RNA/RNA_ISCWest_v2/2020/doc/legal/ISC-West-A-Statement-from-Reed-Exhibitions-3-6.pdf): postponed until July, dates TBD
