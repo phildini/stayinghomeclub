@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 138
+## Companies - 139
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -53,6 +53,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Drop | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Dropbox | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | eBay | ? | Restricted | ? | Restricted | 2020-03-04 |
+| Element Analytics| Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Equinix | Encouraged for Seattle and Bay Area until 4/3 | Restricted| Restricted | Restricted | 2020-03-10 |
 | Expedia | Encouraged, some Required | Restricted | ? | ? | 2020-03-06 |
 | f5 Networks | Encouraged for Seattle and Bay Area until 3/23 | Restricted | Restricted | Restricted | 2020-03-05 |
