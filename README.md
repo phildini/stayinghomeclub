@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 125
+## Companies - 126
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -99,6 +99,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Redfin[[1]](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/) | Encouraged | ? | ? | ? | 2020-03-04 |
 | RingCentral | Encouraged, Recommended for Bay Area | Restricted | ? | ? | 2020-03-08 |
 | Roblox | Required | Restricted | Restricted | Restricted | 2020-03-06 |
+| RoboTerra| Required | Restricted | Restricted | Restricted | 2020-03-08 |
 | Salesforce[[1]](https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
 | SAP | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Shopify[[1]](https://twitter.com/Shopify/status/1237741373417193476) | Required | Restricted | Restricted | Restricted | 2020-03-11 |
