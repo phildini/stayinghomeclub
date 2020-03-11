@@ -141,7 +141,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
-## Events - 121
+## Events - 122
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
 - [Apache Roadshow/Chicago](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
@@ -265,5 +265,6 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [WSLConf](https://www.wslconf.dev/): going online-only
 - [WWCode CONNECT India 2020](https://www.womenwhocode.com/blog/coronavirus-update-a-note-from-our-ceo): postponed
 - [WWHackinfest San Diego](https://twitter.com/strandjs/status/1235648436545847297?s=20): moving to virtual event (talks, training and MetaCTF will be virtual)
+- [Zcon2](https://www.zfnd.org/zcon/): cancelled
 - [ZenDesk Relate](https://www.miamiherald.com/news/business/tourism-cruises/article240801336.html): cancelled
 - [Workshop on Formal Methods for Cryptographic Proofs](https://fmcpworkshop.onai.com): changed to primarily online
