@@ -53,6 +53,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Facebook[[1]](https://www.geekwire.com/2020/facebook-contractor-seattle-tests-positive-coronavirus-company-closes-office/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
 | Fastly[[1]](https://www.fastly.com/blog/exercising-caution-as-covid-19-evolves) | Required | Restricted | Restricted | Restricted | 2020-03-01 |
 | Freshworks | Optional | Restricted | ? | ? | 2020-03-06 |
+| General Dynamics | Optional | Restricted | ? | ? | 2020-03-11 |
 | GitHub[[1]](https://github.blog/2020-03-03-covid-19-update-supporting-our-employees-and-community/) | Encouraged | Restricted | ? | ? | 2020-03-04 |
 | Glassdoor[[1]](https://www.glassdoor.com/blog/glassdoor-coronavirus/) | Required | Restricted | Restricted | ? | 2020-03-05 |
 | Glitch | Required | Restricted | Restricted | Restricted | 2020-03-09 |
@@ -230,6 +231,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Salesforce World Tour Sydney](https://www.salesforce.com/au/events/worldtour/syd20/overview/): in-person canceled; online-only event
 - [SAP Ariba LIVE](https://twitter.com/SAPAriba/status/1235043870250958854?s=20): cancelled
 - [SAP Concur Fusion](https://fusion.concur.com/fusion-orlando-announcement): in-person canceled; online-only event
+- [SAS Global Forum](https://www.sas.com/en_us/events/sas-global-forum/announcement.html): in-person canceled; online-only event
 - [Security Analyst Summit](https://twitter.com/TheSAScon/status/1234911915773583361): cancelled
 - [Shopify Pursuit (Melbourne and Mexico)](https://pursuit.shopify.com/): postponed, no date given
 - [Shopify Unite](https://www.shopify.com.au/partners/blog/unite-2020-update): moving to virtual event
