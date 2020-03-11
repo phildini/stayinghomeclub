@@ -53,6 +53,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Drop | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Dropbox | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | eBay | ? | Restricted | ? | Restricted | 2020-03-04 |
+| Equinix | Encouraged for Seattle and Bay Area until 4/3 | Restricted| Restricted | Restricted | 2020-03-10 |
 | Expedia | Encouraged, some Required | Restricted | ? | ? | 2020-03-06 |
 | f5 Networks | Encouraged for Seattle and Bay Area until 3/23 | Restricted | Restricted | Restricted | 2020-03-05 |
 | Facebook[[1]](https://www.geekwire.com/2020/facebook-contractor-seattle-tests-positive-coronavirus-company-closes-office/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
