@@ -65,6 +65,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Internet Archive [[1]](https://twitter.com/brewster_kahle/status/1237194160949489670) | Required | ? | ? | ? | 2020-03-10 |
 | Intuit | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Joy | Encouraged | ? | ? | ? | 2020-03-06 |
+| Kanteron Systems[[1]](https://twitter.com/kanteron/status/1237694498597208064) | Required | Encouraged | Encouraged | Encouraged | 2020-03-11 |
 | LinkedIn[[1]](https://www.businessinsider.com/linkedin-tells-employees-to-work-from-home-over-coronavirus-concerns-2020-3) | Encouraged | Restricted | ? | Restricted | 2020-03-05 |
 | Lime | Optional | Restricted | Restricted | Restricted | 2020-03-09 |
 | Lyft | Encouraged | Non-critical restricted | ? | ? | 2020-03-06 |
