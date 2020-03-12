@@ -880,6 +880,13 @@
   events: Restricted 
   last_update: 2020-03-05 
  
+- name: Satoshilabs 
+  wfh: Required 
+  travel: ? 
+  visitors: ? 
+  events: ? 
+  last_update: 2020-03-12 
+ 
 - name: Shopify[[1]](https://twitter.com/Shopify/status/1237741373417193476) 
   wfh: Required 
   travel: Restricted 
