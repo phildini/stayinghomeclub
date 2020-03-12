@@ -75,6 +75,9 @@
 
 - name: "[Coachella](https://www.cnn.com/2020/03/10/entertainment/coachella-postponed-coronavirus/index.html)"
   status: reportedly postponed to October
+  
+- name: "[Code for America Summit](https://www.codeforamerica.org/news/important-announcement-regarding-code-for-america-summit-2020)"
+  status: cancelled
 
 - name: "[Collision](https://collisionconf.com/)"
   status: moving to virtual event
