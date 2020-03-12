@@ -295,6 +295,9 @@
 - name: "[Paris Blockchain Week Summit](https://www.pbwsummit.com/)"
   status: postponed until Dec. 9-10
 
+- name: "[Percona Live Austin](https://www.perconalive.com/event/912fe685-e6c9-44f4-9ee0-c700fda1f409/websitePage:89cb3189-2ac4-4f4a-b511-97e5c8dc959f?5S%2CM3%2C912fe685-e6c9-44f4-9ee0-c700fda1f409=)"
+  status: postponed
+
 - name: "[Pixels Camp](https://blog.pixels.camp/pixels-camp-postponed-fddece7ccc4c)"
   status: postponed to Nov. 26
 
