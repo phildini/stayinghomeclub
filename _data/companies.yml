@@ -1068,6 +1068,13 @@
   visitors: "?"
   events: "?"
   last_update: 2020-03-06
+  
+- name: N26[[1]](https://twitter.com/mobilegeekgirl/status/1238165955576049666)
+  wfh: Required
+  travel: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-12
 
 - name: NASA Ames[[1]](https://twitter.com/scottbudman/status/1237054027201794049)
   wfh: Required
