@@ -73,6 +73,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Google[[1]](https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent) [[2]](https://www.reuters.com/article/us-health-coronavirus-alphabet/google-recommends-all-north-america-employees-to-work-from-home-idUSKBN20X38J?feedType=RSS&feedName=technologyNews) | Encouraged / Geo-specific | Restricted | Restricted | ? | 2020-03-11 |
 | Granular.ag | Required for SF / All others allowed | Restricted | Restricted for SF | Restricted | 2020-03-05 |
 | Groupon | Encouraged | Restricted | ? | Restricted | 2020-03-06 |
+| HASH | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | [Heap](https://github.com/phildini/stayinghomeclub/pull/345) | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | HERE | Encouraged | Restricted | ? | Restricted | 2020-03-05 |
 | Houzz | Optional | Restricted | Restricted | Restricted | 2020-03-09 |
@@ -169,7 +170,6 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zeus Living | Required | Restricted | Restricted | Restricted | 2020-03-10 |
 | Zillow | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
-| HASH | Encouraged | Restricted | Restricted | ? | 2020-03-11 |
 
 <a name="events"></a>
 ## Events - 130
