@@ -44,7 +44,7 @@
   status: postponed to Q3
 
 - name: "[Black Hat Asia](https://www.blackhat.com/asia-20/travel-updates.html)"
-  status: postponed until September 29 - Octobe"r 2"
+  status: postponed until September 29 - October 2
 
 - name: "[BountyCon](https://www.facebook.com/notes/facebook-bug-bounty/an-update-on-bountycon/3278348118846058/)"
   status: postponed
@@ -57,6 +57,9 @@
 
 - name: "[California Association for Behavior Analysis Conference](https://calaba.org/conference)"
   status: cancelled
+
+- name: "[CampaignTech East](https://campaigntecheast.com/)"
+  status: postponed until June 25-26
 
 - name: "[Cisco Live Melbourne](https://www.ciscolive.com/apjc.html)"
   status: cancelled
