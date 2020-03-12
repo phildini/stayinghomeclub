@@ -41,10 +41,10 @@
   last_update: 2020-03-09
 
 - name: Alan
-  wfh: Required 
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
   last_update: 2020-03-12
 
 - name: Anvyl
@@ -61,12 +61,12 @@
   events: Restricted
   last_update: 2020-03-06
 
-- name: Apideck 
+- name: Apideck
   wfh: Required
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
-  last_update: 2020-03-12 
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Apple[[1]](https://www.bloomberg.com/news/articles/2020-03-08/apple-s-cook-offers-work-from-home-this-week-to-most-staff)
   wfh: Encouraged
@@ -104,18 +104,18 @@
   last_update: 2020-03-09
 
 - name: Avid
-  wfh: Encouraged 
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
-  last_update: 2020-03-12  
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
-- name: Bitwala 
-  wfh: Encouraged 
-  travel: Restricted 
-  visitors: "?" 
-  events: Restricted 
-  last_update: 2020-03-12 
+- name: Bitwala
+  wfh: Encouraged
+  travel: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Blink Health
   wfh: Allowed
@@ -139,10 +139,10 @@
   last_update: 2020-03-12
 
 - name: Boldare[[1]](https://www.linkedin.com/posts/boldarecom_covid19-activity-6643785340945473537-8XA0)
-  wfh: Required 
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
   last_update: 2020-03-12
 
 - name: Brex
@@ -810,7 +810,7 @@
   events: "?"
   last_update: 2020-03-09
 
-- name: Niteo[[1]](https://blog.niteo.co/niteo-covid-19-response/) 
+- name: Niteo[[1]](https://blog.niteo.co/niteo-covid-19-response/)
   wfh: Required
   travel: Restricted
   visitors: Restricted
@@ -825,11 +825,11 @@
   last_update: 2020-03-04
 
 - name: Nosto
-  wfh: Encouraged 
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
-  last_update: 2020-03-10 
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-10
 
 - name: Notion Labs
   wfh: Required
@@ -901,11 +901,11 @@
   events: Restricted
   last_update: 2020-03-11
 
-- name: OverOps 
-  wfh: Optional 
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
+- name: OverOps
+  wfh: Optional
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
   last_update: 2020-03-12
 
 - name: Pagerduty[[1]](https://www.pagerduty.com/blog/announcements-covid-19-measures/)
@@ -942,7 +942,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
-  
+
 - name: Pics.io
   wfh: Recommended
   travel: Restricted
@@ -1048,12 +1048,12 @@
   events: Restricted
   last_update: 2020-03-05
 
-- name: Satoshilabs 
-  wfh: Required 
-  travel: "?" 
-  visitors: "?" 
-  events: "?" 
-  last_update: 2020-03-12 
+- name: Satoshilabs
+  wfh: Required
+  travel: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-12
 
 - name: Sensotrend
   wfh: Recommended
@@ -1069,11 +1069,11 @@
   events: Restricted
   last_update: 2020-03-12
 
-- name: Schibsted Media Group 
-  wfh: Encouraged 
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
+- name: Schibsted Media Group
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
   last_update: 2020-03-11
 
 - name: Shopify[[1]](https://twitter.com/Shopify/status/1237741373417193476)
@@ -1314,12 +1314,12 @@
   events: "?"
   last_update: 2020-03-06
 
-- name: Wayfair [[1]](https://www.bostonherald.com/2020/03/11/boston-companies-urge-employees-to-work-from-home-amid-coronavirus-outbreak/) 
+- name: Wayfair [[1]](https://www.bostonherald.com/2020/03/11/boston-companies-urge-employees-to-work-from-home-amid-coronavirus-outbreak/)
   wfh: Required
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
-  last_update: 2020-03-12 
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Wikimedia Foundation[[1]](https://wikimediafoundation.org/news/2020/03/06/wikimedia-foundation-will-close-san-francisco-office-and-encourage-remote-work-for-march-2020-amidst-covid-19-concerns/)
   wfh: Encouraged, required for San Francisco office
