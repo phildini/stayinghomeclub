@@ -978,6 +978,13 @@
   events: Restricted
   last_update: 2020-03-08
 
+- name: RumbleUp[[1]](https://medium.com/rumbleup/covid-19-why-texting-is-the-new-handshake-5cfb2e30a23)
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Salesforce[[1]](https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html)
   wfh: Encouraged
   travel: Restricted
