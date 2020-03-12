@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 163
+## Companies - 162
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -73,7 +73,6 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Google[[1]](https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent) [[2]](https://www.reuters.com/article/us-health-coronavirus-alphabet/google-recommends-all-north-america-employees-to-work-from-home-idUSKBN20X38J?feedType=RSS&feedName=technologyNews) | Encouraged / Geo-specific | Restricted | Restricted | ? | 2020-03-11 |
 | Granular.ag | Required for SF / All others allowed | Restricted | Restricted for SF | Restricted | 2020-03-05 |
 | Groupon | Encouraged | Restricted | ? | Restricted | 2020-03-06 |
-| HASH | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | [Heap](https://github.com/phildini/stayinghomeclub/pull/345) | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | HERE | Encouraged | Restricted | ? | Restricted | 2020-03-05 |
 | Houzz | Optional | Restricted | Restricted | Restricted | 2020-03-09 |
@@ -82,6 +81,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Humu | Encouraged, recent travel Required | Restricted | Discouraged | ? | 2020-03-02 |
 | IBM[[1]](https://www.theverge.com/2020/3/4/21165449/ibm-coronavirus-suspending-domestic-international-travel) | Encouraged / Geo-specific | Restricted | Restricted / Geo-specific | Restricted > 100 people | 2020-03-11 |
 | IceWarp | Required | Restricted | Restricted | Restricted | 2020-03-11 |
+| IDbyDNA | Optional | Restricted | Restricted | Restricted | 2020-03-11 |
 | Indeed[[1]](https://www.kvue.com/article/news/health/indeed-coronavirus-work-from-home/269-79c7797f-4d60-41df-bd9b-8b6bc25d9f3f) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
 | Indigo Agriculture | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Intel | Encouraged | Restricted | Screened | Restricted | 2020-03-09 |
@@ -120,7 +120,6 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Parler | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | Patreon | Required | Restricted | Restricted | ? | 2020-03-11 |
 | Philo | Required | Restricted | Restricted | Restricted | 2020-03-11 |
-| Pilates Anytime | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | PingCap | Required for Bay Area | Restricted | Restricted | Restricted | 2020-03-07 |
 | Pinterest | Encouraged | Restricted | Restricted | Partially Restricted | 2020-03-08 |
 | Polidea | Encouraged | Restricted | Restricted | Restricted | 2020-03-10 |
@@ -170,6 +169,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zeus Living | Required | Restricted | Restricted | Restricted | 2020-03-10 |
 | Zillow | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
+| HASH | Encouraged | Restricted | Restricted | ? | 2020-03-11 |
 
 <a name="events"></a>
 ## Events - 130
