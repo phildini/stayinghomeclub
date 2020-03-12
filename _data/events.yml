@@ -406,3 +406,8 @@
 - name: "[Workshop on Formal Methods for Cryptographic Proofs](https://fmcpworkshop.onai.com)"
   status: changed to primarily online
 
+- name: "[WordCamp Retreat Soltau 2020](https://2020-soltau.retreat.wordcamp.org/)"
+  status: postponed to 2021
+
+- name: "[WordCamp Jacksonville 2020](https://2020.jacksonville.wordcamp.org/)"
+  status: cancelled
