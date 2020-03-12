@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 154
+## Companies - 152
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -38,6 +38,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Coinbase[[1]](https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/edit) | Encouraged | ? | ? | ? | 2020-03-03 |
 | Contentful | Encouraged | Restricted | ? | Restricted | 2020-03-03 |
 | Coursera | Encouraged | Restricted | Restricted | ? | 2020-03-06 |
+| Cruise[[1]](https://twitter.com/Cruise/status/1237091656588881920) | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | Crisis Text Line | Encouraged | Restricted | ? | Restricted | 2020-03-11 |
 | Crunchbase | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Crunchyroll | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
@@ -161,7 +162,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
-## Events - 123
+## Events - 127
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
 - [Apache Roadshow/Chicago](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
