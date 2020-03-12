@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 165
+## Companies - 166
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -56,6 +56,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Dropbox | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Dstillery | Encouraged | Discouraged | Restricted | Restricted | 2020-03-10 |
 | eBay | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
+| edX | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Equinix | Encouraged for Seattle and Bay Area until 4/3 | Restricted| Restricted | Restricted | 2020-03-10 |
 | Expedia | Encouraged, some Required | Restricted | ? | ? | 2020-03-06 |
 | f5 Networks | Encouraged for Seattle and Bay Area until 3/23 | Restricted | Restricted | Restricted | 2020-03-05 |
@@ -262,6 +263,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [OCLC Resource Sharing Conference 2020](https://www.oclc.org/en/events/2020/Resource-Sharing-Conference.html): cancelled
 - [Oktane](https://www.oktane20.com/): changed to a virtual event
 - [Open Compute Project Global Summit](https://www.opencompute.org/blog/we-are-moving-the-2020-ocp-global-summit-to-an-interactive-virtual-global-summit): changed to a virtual event
+- [Open edX 2020](https://discuss.openedx.org/t/cancelling-the-in-person-open-edx-2020-conference/1555): changed to virtual event
 - [Open Hardware Summit](https://2020.oshwa.org/2020/03/08/the-2020-open-hardware-summit-is-going-virtual/): changed to a virtual event
 - [Oracle Modern Business Experience](https://www.oracle.com/modern-business-experience/): postponed until Sep. 21-24 to coincide with OpenWorld
 - [Oracle User Group Irelend (OUG Ireland)](https://twitter.com/MDWidlake/status/1234864869377216515): cancelled
