@@ -41,18 +41,18 @@
   last_update: 2020-03-09
 
 - name: Alan
-  wfh: Required 
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
   last_update: 2020-03-12
 
 - name: Anvyl
-  wfh: Encouraged
+  wfh: Required
   travel: Restricted
-  visitors: "?"
+  visitors: Restricted
   events: Restricted
-  last_update: 2020-03-09
+  last_update: 2020-03-12
 
 - name: Apartment List
   wfh: Required
@@ -61,12 +61,19 @@
   events: Restricted
   last_update: 2020-03-06
 
-- name: Apideck 
+- name: Apideck
   wfh: Required
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
-  last_update: 2020-03-12 
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: AppGyver
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Apple[[1]](https://www.bloomberg.com/news/articles/2020-03-08/apple-s-cook-offers-work-from-home-this-week-to-most-staff)
   wfh: Encouraged
@@ -139,10 +146,10 @@
   last_update: 2020-03-12
 
 - name: Boldare[[1]](https://www.linkedin.com/posts/boldarecom_covid19-activity-6643785340945473537-8XA0)
-  wfh: Required 
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
   last_update: 2020-03-12
 
 - name: Brex
@@ -193,6 +200,20 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-09
+
+- name: Cargonexx
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: CB Insights
+  wfh: Required
+  travel: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-12
 
 - name: Cengage
   wfh: Strongly Encouraged for Boston and Raleigh
@@ -341,6 +362,13 @@
   events: Restricted
   last_update: 2020-03-05
 
+- name: DigitalOcean
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Dockwa
   wfh: Required
   travel: Restricted
@@ -410,13 +438,20 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
-  
+
 - name: Equinix
   wfh: Encouraged for Seattle and Bay Area until 4/3
   travel: Restricted
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-10
+  
+- name: eTeam
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Expedia
   wfh: Encouraged, some Required
@@ -543,6 +578,13 @@
   visitors: "?"
   events: Restricted
   last_update: 2020-03-06
+
+- name: Guidewire
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: HASH
   wfh: Encouraged
@@ -684,6 +726,13 @@
   events: "?"
   last_update: 2020-03-11
 
+- name: Kentico[[1]](https://www.kentico.com/blog/how-kentico-is-coping-with-covid-19)
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: LaunchPad Lab
   wfh: Required
   travel: Restricted
@@ -810,7 +859,7 @@
   events: "?"
   last_update: 2020-03-09
 
-- name: Niteo[[1]](https://blog.niteo.co/niteo-covid-19-response/) 
+- name: Niteo[[1]](https://blog.niteo.co/niteo-covid-19-response/)
   wfh: Required
   travel: Restricted
   visitors: Restricted
@@ -825,11 +874,11 @@
   last_update: 2020-03-04
 
 - name: Nosto
-  wfh: Encouraged 
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
-  last_update: 2020-03-10 
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-10
 
 - name: Notion Labs
   wfh: Required
@@ -839,11 +888,11 @@
   last_update: 2020-03-11
 
 - name: Ocado
-  wfh: Allowed
+  wfh: Encouraged
   travel: Restricted
-  visitors: "?"
-  events: "?"
-  last_update: 2020-03-11
+  visitors: "Restricted"
+  events: "Restricted"
+  last_update: 2020-03-12
 
 - name: Octopart
   wfh: Encouraged
@@ -880,6 +929,13 @@
   events: "?"
   last_update: 2020-03-05
 
+- name: OneChronos
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Opendoor
   wfh: Encouraged
   travel: "?"
@@ -901,11 +957,11 @@
   events: Restricted
   last_update: 2020-03-11
 
-- name: OverOps 
-  wfh: Optional 
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
+- name: OverOps
+  wfh: Optional
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
   last_update: 2020-03-12
 
 - name: Pagerduty[[1]](https://www.pagerduty.com/blog/announcements-covid-19-measures/)
@@ -942,6 +998,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
+
+- name: Pics.io
+  wfh: Recommended
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Pilates Anytime
   wfh: Encouraged
@@ -1041,12 +1104,12 @@
   events: Restricted
   last_update: 2020-03-05
 
-- name: Satoshilabs 
-  wfh: Required 
-  travel: ? 
-  visitors: ? 
-  events: ? 
-  last_update: 2020-03-12 
+- name: Satoshilabs
+  wfh: Required
+  travel: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-12
 
 - name: Sensotrend
   wfh: Recommended
@@ -1054,7 +1117,7 @@
   visitors: Discouraged
   events: Discouraged
   last_update: 2020-03-12
- 
+
 - name: Servers.com
   wfh: Required
   travel: Restricted
@@ -1062,11 +1125,11 @@
   events: Restricted
   last_update: 2020-03-12
 
-- name: Schibsted Media Group 
-  wfh: Encouraged 
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
+- name: Schibsted Media Group
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
   last_update: 2020-03-11
 
 - name: Shopify[[1]](https://twitter.com/Shopify/status/1237741373417193476)
@@ -1089,6 +1152,13 @@
   visitors: "?"
   events: Restricted
   last_update: 2020-03-04
+
+- name: Slido
+  wfh: Encouraged
+  travel: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-11
 
 - name: SoftServe
   wfh: Encouraged
@@ -1307,12 +1377,12 @@
   events: "?"
   last_update: 2020-03-06
 
-- name: Wayfair [[1]](https://www.bostonherald.com/2020/03/11/boston-companies-urge-employees-to-work-from-home-amid-coronavirus-outbreak/) 
+- name: Wayfair [[1]](https://www.bostonherald.com/2020/03/11/boston-companies-urge-employees-to-work-from-home-amid-coronavirus-outbreak/)
   wfh: Required
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
-  last_update: 2020-03-12 
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Wikimedia Foundation[[1]](https://wikimediafoundation.org/news/2020/03/06/wikimedia-foundation-will-close-san-francisco-office-and-encourage-remote-work-for-march-2020-amidst-covid-19-concerns/)
   wfh: Encouraged, required for San Francisco office
@@ -1454,11 +1524,11 @@
   events: Restricted
   last_update: 2020-03-11
 
-- name: Zyro 
-  wfh: Required 
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
+- name: Zyro
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
   last_update: 2020-03-12
 
 - name: homeis
@@ -1467,12 +1537,12 @@
   visitors: "?"
   events: Restricted
   last_update: 2020-03-11
-  
-- name: Lovoo 
-  wfh: Required 
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
+
+- name: Lovoo
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
   last_update: 2020-03-12
 
 - name: eneba.com
@@ -1501,4 +1571,25 @@
   travel: Discouraged
   visitors: Discouraged
   events: Discouraged
+  last_update: 2020-03-12
+
+- name: Urjanet
+  wfh: Optional
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Welltory
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Lendis
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
   last_update: 2020-03-12

@@ -172,6 +172,9 @@
 - name: "[Google Tensorflow Dev Summit](https://www.tensorflow.org/dev-summit/)"
   status: online-only
 
+- name: "[HIMSS Global Health Conference & Exhibition](https://www.himssconference.org/updates/himss-update-coronavirus)"
+  status: online-only
+
 - name: "[HYPERGROWTH London](https://www.drift.com/blog/hypergrowth-london-update/)"
   status: Postponed until September 14th
 
@@ -210,6 +213,9 @@
 
 - name: "[KubeCon EU 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/)"
   status: postponed until July/August, 2020, dates pending
+  
+- name: "[Kentico Partner Summit Q2 2020](https://www.eventbrite.com/e/q2-2020-kentico-partner-summit-tickets-91103997509)"
+  status: postponed until later this year
 
 - name: "[Lesbians Who Tech](https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20)"
   status: postponed until August 6-8, 2020 pending developments
