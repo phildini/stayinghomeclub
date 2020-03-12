@@ -173,6 +173,13 @@
   events: Restricted
   last_update: 2020-03-12
 
+- name: Brave
+  wfh: Strongly Encouraged
+  travel: Discouraged
+  visitors: Discouraged
+  events: Discouraged
+  last_update: 2020-03-12
+
 - name: Brex
   wfh: Encouraged, Recommended for San Francisco, Vancouver, New York
   travel: Restricted
@@ -214,6 +221,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-09
+  
+- name: Buzzwoo
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Bugcrowd
   wfh: Required
@@ -334,6 +348,13 @@
   events: "?"
   last_update: 2020-03-06
 
+- name: Course Hero
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-09
+
 - name: Cricket Health
   wfh: Required
   travel: Restricted
@@ -383,6 +404,13 @@
   events: Restricted
   last_update: 2020-03-12
 
+- name: Databricks
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+  
 - name: Dell-EMC
   wfh: Allowed
   travel: Restricted
@@ -480,7 +508,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
- 
+
 - name: Elastic[[1]](https://www.elastic.co/blog/elastic-covid-19-update)
   wfh: Encouraged
   travel: Restricted
@@ -505,6 +533,13 @@
 - name: eTeam
   wfh: Encouraged
   travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Even
+  wfh: Encouraged
+  travel: Discouraged
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
@@ -650,6 +685,13 @@
   last_update: 2020-03-06
 
 - name: Guidewire
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Harvest
   wfh: Encouraged
   travel: Restricted
   visitors: Restricted
@@ -872,7 +914,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
-  
+
 - name: Medium
   wfh: Encouraged
   travel: Restricted
@@ -943,6 +985,13 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: Netskope
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: nevisQ
   wfh: Encouraged
   travel: Restricted
@@ -956,6 +1005,13 @@
   visitors: "?"
   events: "?"
   last_update: 2020-03-09
+
+- name: Nextroll
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Niteo[[1]](https://blog.niteo.co/niteo-covid-19-response/)
   wfh: Required
@@ -1036,6 +1092,13 @@
 
 - name: OneChronos
   wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: OpenCorporates
+  wfh: Optional
   travel: Restricted
   visitors: Restricted
   events: Restricted
@@ -1131,6 +1194,20 @@
   visitors: Restricted
   events: Partially Restricted
   last_update: 2020-03-08
+  
+- name: Pleo
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: PipelineDeals
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Polidea
   wfh: Encouraged
@@ -1159,6 +1236,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-06
+
+- name: Red Canary
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Redfin[[1]](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/)
   wfh: Encouraged
@@ -1223,6 +1307,13 @@
   events: Restricted
   last_update: 2020-03-12
 
+- name: Sandstream Development Sp. z o.o.
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: SAP
   wfh: Encouraged
   travel: Restricted
@@ -1235,6 +1326,13 @@
   travel: "?"
   visitors: "?"
   events: "?"
+  last_update: 2020-03-12
+
+- name: SauceLabs
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Discouraged
   last_update: 2020-03-12
 
 - name: Sensotrend
@@ -1757,6 +1855,13 @@
 
 - name: Lendis
   wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+  
+- name: Motorola Solutions
+  wfh: Strongly encouraged where possible, until at least 2020-04-06
   travel: Restricted
   visitors: Restricted
   events: Restricted
