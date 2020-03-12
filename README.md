@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 153
+## Companies - 158
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -28,16 +28,18 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Bungie[[1]](https://www.bungie.net/en/Explore/Detail/News/48839) | Required | ? | ? | ? | 2020-03-05 |
 | Buzzfeed | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
 | Bugcrowd | Required | Restricted | Restricted | Restricted | 2020-03-09 |
+| Cengage | Strongly Encouraged for Boston and Raleigh | Restricted | Restricted | Restricted | 2020-03-11 |
 | charity: water | Required | Restricted | Restricted | Restricted | 2020-3-06 |
 | Chattermill | Encouraged | Discouraged | Discouraged | Restricted | 2020-03-11 |
-| Cengage | Strongly Encouraged for Boston and Raleigh | Restricted | Restricted | Restricted | 2020-03-11 |
-| CloudLinux |Required | Restricted | Restricted | Restricted | 2020-03-09 |
+| Cimpress | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Cisco | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Cloudflare | ? | Restricted | Restricted | Restricted | 2020-03-04 |
+| CloudLinux |Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Clover | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Coinbase[[1]](https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/edit) | Encouraged | ? | ? | ? | 2020-03-03 |
 | Contentful | Encouraged | Restricted | ? | Restricted | 2020-03-03 |
 | Coursera | Encouraged | Restricted | Restricted | ? | 2020-03-06 |
+| Cruise[[1]](https://twitter.com/Cruise/status/1237091656588881920) | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | Crisis Text Line | Encouraged | Restricted | ? | Restricted | 2020-03-11 |
 | Crunchbase | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Crunchyroll | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
@@ -59,6 +61,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Facebook[[1]](https://www.geekwire.com/2020/facebook-contractor-seattle-tests-positive-coronavirus-company-closes-office/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
 | Fastly[[1]](https://www.fastly.com/blog/exercising-caution-as-covid-19-evolves) | Required | Restricted | Restricted | Restricted | 2020-03-01 |
 | Freshworks | Optional | Restricted | ? | ? | 2020-03-06 |
+| FullStory | Encouraged | Restricted | ? | Restricted | 2020-03-11 |
 | Fundbox | Required | Restricted | ? | ? | 2020-03-11 |
 | Gem | Optional | Restricted | Restricted | Restricted | 2020-03-11 |
 | General Dynamics | Optional | Restricted | ? | ? | 2020-03-11 |
@@ -76,6 +79,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | IBM[[1]](https://www.theverge.com/2020/3/4/21165449/ibm-coronavirus-suspending-domestic-international-travel) | Encouraged / Geo-specific | Restricted | Restricted / Geo-specific | Restricted > 100 people | 2020-03-11 |
 | IceWarp | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Indeed[[1]](https://www.kvue.com/article/news/health/indeed-coronavirus-work-from-home/269-79c7797f-4d60-41df-bd9b-8b6bc25d9f3f) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
+| Indigo Agriculture | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Intel | Encouraged | Restricted | Screened | Restricted | 2020-03-09 |
 | Internet Archive [[1]](https://twitter.com/brewster_kahle/status/1237194160949489670) | Required | ? | ? | ? | 2020-03-10 |
 | Intuit | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
@@ -99,7 +103,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Nextdoor | Encouraged | ? | ? | ? | 2020-03-09 |
 | Niteo | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Nordstrom[[1]](https://www.geekwire.com/2020/coronavirus-live-updates-seattle-tech-community-grappling-covid-19/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
-| Notion Labs | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
+| Notion Labs | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Ocado | Allowed | Restricted | ? | ? | 2020-03-11 |
 | Oden Technologies | Encouraged | Restricted | Restricted | Restricted | 2020-03-10 |
 | OLX Group | Encouraged | Restricted | ? | Restricted | 2020-03-11 |
@@ -133,6 +137,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Square[[1]](https://twitter.com/zamosta/status/1234658276781912064) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
 | Squarespace | Allowed | Restricted | Restricted | Restricted | 2020-03-09 |
 | Stripe[[1]](https://stripe.com/newsroom/news/covid-19) | Encouraged, some Required | Restricted | Restricted | ? |2020-02-29 |
+| SurveyMonkey | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | SUSE[[1]](https://www.suse.com/c/reimagining-susecon-2020/) | Required in serious outbreak areas | Restricted | ? | Restricted | 2020-03-06 |
 | Syncbnb | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | Tapjoy | Required or Encouraged (by Geo) | Restricted | Restricted | Restricted | 2020-03-07 |
@@ -148,6 +153,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | UserTesting | Encouraged | Restricted | ? | ? | 2020-03-10 |
 | Vanilla Forums | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | Vectra AI | Encouraged | Restricted | ? | ? | 2020-03-09 |
+| Vistaprint | Required (non-manufacturing, non-CARE) | Restricted | Restricted | Restricted | 2020-03-11 |
 | VMware | Encouraged | Restricted | ? | Restricted | 2020-03-10 |
 | VSCO | Required | Restricted | ? | ? | 2020-03-06 |
 | Wikimedia Foundation[[1]](https://wikimediafoundation.org/news/2020/03/06/wikimedia-foundation-will-close-san-francisco-office-and-encourage-remote-work-for-march-2020-amidst-covid-19-concerns/) | Encouraged, required for San Francisco office | Restricted | Restricted | Restricted | 2020-03-06 |
@@ -158,9 +164,10 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zeus Living | Required | Restricted | Restricted | Restricted | 2020-03-10 |
 | Zillow | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
+| HASH | Encouraged | Restricted | Restricted | ? | 2020-03-11 |
 
 <a name="events"></a>
-## Events - 123
+## Events - 129
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
 - [Apache Roadshow/Chicago](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
@@ -199,6 +206,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Dreamforce World Tour (Sydney)](https://www.arnnet.com.au/article/671175/salesforce-world-tour-sydney-goes-digital-amid-coronavirus-fears/): cancelled
 - [E3 2020](https://arstechnica.com/gaming/2020/03/e3-2020-has-been-canceled/): canceled
 - [Ellucian Live 2020](https://www.ellucian.com/ellucianlive): moving to virtual event
+- [Elm Japan 2020](https://elmjapan.org/): postponed, no date given
 - [Emerald City Comic Con (ECCC)](https://www.emeraldcitycomiccon.com/About/A-Statement-From-Reedpop/): postponed until summer
 - [EmTech Asia](https://emtechasia.com/): postponed until August
 - [Experimental Biology 2020](https://experimentalbiology.org/2020/home.aspx): cancelled
@@ -218,6 +226,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [HYPERGROWTH London](https://www.drift.com/blog/hypergrowth-london-update/): Postponed until September 14th
 - [IBM Think 2020](https://www.ibm.com/events/think/): online-only
 - [ICANN 67](https://www.icann.org/news/announcement-2020-02-19-en): online-only
+- [IETF 107](https://www.ietf.org/blog/ietf107-in-person-cancelled/): in-person meeting cancelled
 - [Ingram Micro Cloud Summit 2020](https://www.ingrammicrocloud.com/press-releases/ingram-micro-cloud-postpones-cloud-summit-2020-early-2021/): postponed until early 2021
 - [International Conference on Software Engineering (ICSE)](https://conf.researchr.org/home/icse-2020): postponed to October
 - [Internet Freedom Festival](https://internetfreedomfestival.org/wiki/index.php/Cancellation_of_the_2020_Internet_Freedom_Festival): cancelled
