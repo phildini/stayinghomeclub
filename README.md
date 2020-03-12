@@ -18,6 +18,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | AppsFlyer [1](https://twitter.com/ariapplbaum/status/1237293574498238465?s=20) | Required | Restricted | Restricted | Restricted | 2020-03-10 |
 | Asana | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
 | Atlassian | Encouraged | Restricted | ? | ? | 2020-03-06 |
+| Aurora Solar | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | Autodesk | Encouraged | Restricted | ? | Restricted | 2020-03-09 |
 | Blink Health | Allowed | ? | ? | ? | 2020-03-09 |
 | Bluecore | Required | Restricted | Restricted | Restricted | 2020-03-11 |
