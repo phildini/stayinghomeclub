@@ -998,6 +998,13 @@
   visitors: "?" 
   events: "?" 
   last_update: 2020-03-04 
+
+- name: Tobii 
+  wfh: Encouraged 
+  travel: Restricted 
+  visitors: Restricted 
+  events: Restricted 
+  last_update: 2020-03-12 
  
 - name: Tubi 
   wfh: Encouraged 
