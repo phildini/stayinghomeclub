@@ -844,6 +844,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
+  
+- name: Medium
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Microsoft[[1]](https://www.theverge.com/2020/3/4/21164522/microsoft-coronavirus-response-comment-employees-memo-work-from-home)
   wfh: Limited / Geo-specific
