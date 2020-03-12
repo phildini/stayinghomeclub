@@ -161,7 +161,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
-## Events - 127
+## Events - 128
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
 - [Apache Roadshow/Chicago](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
@@ -200,6 +200,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Dreamforce World Tour (Sydney)](https://www.arnnet.com.au/article/671175/salesforce-world-tour-sydney-goes-digital-amid-coronavirus-fears/): cancelled
 - [E3 2020](https://arstechnica.com/gaming/2020/03/e3-2020-has-been-canceled/): canceled
 - [Ellucian Live 2020](https://www.ellucian.com/ellucianlive): moving to virtual event
+- [Elm Japan 2020](https://elmjapan.org/): postponed, no date given
 - [Emerald City Comic Con (ECCC)](https://www.emeraldcitycomiccon.com/About/A-Statement-From-Reedpop/): postponed until summer
 - [EmTech Asia](https://emtechasia.com/): postponed until August
 - [Experimental Biology 2020](https://experimentalbiology.org/2020/home.aspx): cancelled
