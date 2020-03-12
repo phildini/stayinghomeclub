@@ -8,9 +8,9 @@ Skip to: <a href="#companies">Companies</a>. Skip to: <a href="#events">Events</
 
 <a name="companies"></a>
 ## Companies - {{ site.data.companies | size }}
-{% assign sorted = (site.data.companies | sort: 'name') %}
-{% assign wfh_required = (site.data.companies | where_exp:"item", "item.wfh contains 'Required'" | size ) %}
-{% assign wfh_encouraged = (site.data.companies | where_exp:"item", "item.wfh contains 'Encouraged'" | size ) %}
+{% assign sorted = site.data.companies | sort: 'name' %}
+{% assign wfh_required = site.data.companies | where_exp:"item", "item.wfh contains 'Required'" | size %}
+{% assign wfh_encouraged = site.data.companies | where_exp:"item", "item.wfh contains 'Encouraged'" | size %}
 
 *Work from home required: **{{ wfh_required}}**, Work from home encouraged: **{{ wfh_encouraged }}***
 
@@ -22,7 +22,7 @@ Skip to: <a href="#companies">Companies</a>. Skip to: <a href="#events">Events</
 Back to top: <a href="#companies">Companies</a>
 
 <a name="events"></a>
-{% assign cancelled = (site.data.events | where_exp:"item", "item.status contains 'cancelled'"  | size)%}
+{% assign cancelled = site.data.events | where_exp:"item", "item.status contains 'cancelled'" | size %}
 
 ## Events - {{ site.data.events | size }}
 
