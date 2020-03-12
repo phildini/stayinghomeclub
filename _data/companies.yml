@@ -152,6 +152,13 @@
   events: Restricted 
   last_update: 2020-03-11 
  
+- name: Censys 
+  wfh: Required
+  travel: Restricted 
+  visitors: Restricted 
+  events: Restricted 
+  last_update: 2020-03-12 
+ 
 - name: "charity: water"
   wfh: Required 
   travel: Restricted 
