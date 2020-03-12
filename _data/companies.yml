@@ -929,6 +929,13 @@
   events: Restricted
   last_update: 2020-03-06
 
+- name: Remote
+  wfh: Always
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-09
+
 - name: RoboTerra
   wfh: Required
   travel: Restricted
