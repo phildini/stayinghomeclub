@@ -1881,6 +1881,13 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: Upwork Inc
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: UserTesting
   wfh: Encouraged
   travel: Restricted
@@ -1985,13 +1992,6 @@
   visitors: "?"
   events: "?"
   last_update: 2020-03-06
-  
-- name: Zipari
-  wfh: Required
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-12
 
 - name: Zulily
   wfh: Encouraged
@@ -2212,13 +2212,6 @@
 
 - name: Thanx
   wfh: Required
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-12
-
-- name: Vicert Inc
-  wfh: Encouraged
   travel: Restricted
   visitors: Restricted
   events: Restricted
