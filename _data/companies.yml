@@ -194,6 +194,13 @@
   events: Restricted
   last_update: 2020-03-09
 
+- name: CB Insights
+  wfh: Required
+  travel: Restricted
+  visitors: ?
+  events: ?
+  last_update: 2020-03-12
+
 - name: Cengage
   wfh: Strongly Encouraged for Boston and Raleigh
   travel: Restricted
@@ -410,7 +417,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
-  
+
 - name: Equinix
   wfh: Encouraged for Seattle and Bay Area until 4/3
   travel: Restricted
@@ -565,11 +572,11 @@
   events: Restricted
   last_update: 2020-03-05
 
-- name: Hostinger 
-  wfh: Required 
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
+- name: Hostinger
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
   last_update: 2020-03-12
 
 - name: Houzz
@@ -1054,7 +1061,7 @@
   visitors: Discouraged
   events: Discouraged
   last_update: 2020-03-12
- 
+
 - name: Servers.com
   wfh: Required
   travel: Restricted
@@ -1454,11 +1461,11 @@
   events: Restricted
   last_update: 2020-03-11
 
-- name: Zyro 
-  wfh: Required 
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
+- name: Zyro
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
   last_update: 2020-03-12
 
 - name: homeis
@@ -1467,12 +1474,12 @@
   visitors: "?"
   events: Restricted
   last_update: 2020-03-11
-  
-- name: Lovoo 
-  wfh: Required 
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
+
+- name: Lovoo
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
   last_update: 2020-03-12
 
 - name: eneba.com
