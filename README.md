@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 158
+## Companies - 159
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -114,6 +114,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Orbital Insight | Recommended | Restricted | Restricted | Restricted | 2020-03-11 |
 | Pandora | Optional | Restricted | Restricted | ? | 2020-03-09 |
 | Parler | Required | Restricted | Restricted | Restricted | 2020-03-06 |
+| Patreon | Required | Restricted | Restricted | ? | 2020-03-11 |
 | Philo | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | PingCap | Required for Bay Area | Restricted | Restricted | Restricted | 2020-03-07 |
 | Pinterest | Encouraged | Restricted | Restricted | Partially Restricted | 2020-03-08 |
