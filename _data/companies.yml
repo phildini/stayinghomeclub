@@ -1910,7 +1910,7 @@
   last_update: 2020-03-12
 
 - name: Ataccama
-  wfh: Strongly encouraged
+  wfh: Required
   travel: Banned
   visitors: Restricted
   events: Banned
