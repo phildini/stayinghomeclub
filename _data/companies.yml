@@ -1434,11 +1434,11 @@
   last_update: 2020-03-04
 
 - name: Slido
-  wfh: Encouraged
+  wfh: Restricted
   travel: Restricted
-  visitors: "?"
-  events: "?"
-  last_update: 2020-03-11
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: SoftServe
   wfh: Encouraged
