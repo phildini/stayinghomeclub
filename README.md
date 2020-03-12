@@ -60,7 +60,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Facebook[[1]](https://www.geekwire.com/2020/facebook-contractor-seattle-tests-positive-coronavirus-company-closes-office/) | Encouraged | Restricted | Restricted | Restricted | 2020-03-04 |
 | Fastly[[1]](https://www.fastly.com/blog/exercising-caution-as-covid-19-evolves) | Required | Restricted | Restricted | Restricted | 2020-03-01 |
 | Freshworks | Optional | Restricted | ? | ? | 2020-03-06 |
-| FullStory | Restricted | Restricted | ? | Restricted | 2020-03-11 |
+| FullStory | Encouraged | Restricted | ? | Restricted | 2020-03-11 |
 | Fundbox | Required | Restricted | ? | ? | 2020-03-11 |
 | General Dynamics | Optional | Restricted | ? | ? | 2020-03-11 |
 | GetYourGuide[[1]](https://twitter.com/JohannesReck/status/1237361981008592896) | Required | Restricted | Restricted | Restricted | 2020-03-11 |
