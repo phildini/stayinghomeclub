@@ -75,6 +75,9 @@
 
 - name: "[Coachella](https://www.cnn.com/2020/03/10/entertainment/coachella-postponed-coronavirus/index.html)"
   status: reportedly postponed to October
+  
+- name: "[Code for America Summit](https://www.codeforamerica.org/news/important-announcement-regarding-code-for-america-summit-2020)"
+  status: cancelled
 
 - name: "[Collision](https://collisionconf.com/)"
   status: moving to virtual event
@@ -276,6 +279,9 @@
 
 - name: "[Oktane](https://www.oktane20.com/)"
   status: changed to a virtual event
+  
+- name: "[Onspring Connect](https://onspring.com/connect/updatefaq/)"
+  status: postponed until Aug. 10-12
 
 - name: "[Open Compute Project Global Summit](https://www.opencompute.org/blog/we-are-moving-the-2020-ocp-global-summit-to-an-interactive-virtual-global-summit)"
   status: changed to a virtual event
