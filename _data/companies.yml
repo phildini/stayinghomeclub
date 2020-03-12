@@ -1369,3 +1369,10 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
+
+- name: Playson
+  wfh: Recommended
+  travel: Discouraged
+  visitors: Discouraged
+  events: Discouraged
+  last_update: 2020-03-12
