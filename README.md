@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 152
+## Companies - 153
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -75,6 +75,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | IBM[[1]](https://www.theverge.com/2020/3/4/21165449/ibm-coronavirus-suspending-domestic-international-travel) | Encouraged / Geo-specific | Restricted | Restricted / Geo-specific | Restricted > 100 people | 2020-03-11 |
 | IceWarp | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Indeed[[1]](https://www.kvue.com/article/news/health/indeed-coronavirus-work-from-home/269-79c7797f-4d60-41df-bd9b-8b6bc25d9f3f) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
+| Indigo Agriculture | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Intel | Encouraged | Restricted | Screened | Restricted | 2020-03-09 |
 | Internet Archive [[1]](https://twitter.com/brewster_kahle/status/1237194160949489670) | Required | ? | ? | ? | 2020-03-10 |
 | Intuit | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
