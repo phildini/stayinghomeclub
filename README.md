@@ -3,7 +3,6 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 162
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -85,6 +84,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Indeed[[1]](https://www.kvue.com/article/news/health/indeed-coronavirus-work-from-home/269-79c7797f-4d60-41df-bd9b-8b6bc25d9f3f) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
 | Indigo Agriculture | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Intel | Encouraged | Restricted | Screened | Restricted | 2020-03-09 |
+| Intercom [[1]](https://twitter.com/fergal_reid/status/1237878256054886411) | Recommended | ? | ? | ? | 2020-03-04 |
 | Internet Archive [[1]](https://twitter.com/brewster_kahle/status/1237194160949489670) | Required | ? | ? | ? | 2020-03-10 |
 | Intuit | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Joy | Encouraged | ? | ? | ? | 2020-03-06 |
@@ -165,6 +165,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Wish | Encouraged, required for some locations | Restricted | Restricted | Restricted | 2020-03-05 |
 | Workday | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Yelp | Encouraged | Restricted | ? | ? | 2020-03-03 |
+| Zappos | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Zenefits | Required | Restricted | ? | ? | 2020-03-10 |
 | Zeus Living | Required | Restricted | Restricted | Restricted | 2020-03-10 |
 | Zillow | Encouraged | Restricted | ? | ? | 2020-03-06 |
@@ -172,9 +173,10 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | HASH | Encouraged | Restricted | Restricted | ? | 2020-03-11 |
 
 <a name="events"></a>
-## Events - 130
+## Events - 131
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
+- [American Quarter Horse Association Convention 2020](https://www.aqha.com/-/2020-aqha-convention?redirect=/): cancelled
 - [Apache Roadshow/Chicago](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
 - [Apache Roadshow/DC](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
 - [Apache Roadshow/Seattle](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): postponed to autumn 2020
