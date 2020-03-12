@@ -166,6 +166,13 @@
   events: Restricted
   last_update: 2020-03-12
 
+- name: Bookbub
+  wfh: Strongly Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Brex
   wfh: Encouraged, Recommended for San Francisco, Vancouver, New York
   travel: Restricted
@@ -495,6 +502,13 @@
   events: Restricted
   last_update: 2020-03-12
 
+- name: Even
+  wfh: Encouraged
+  travel: Discouraged
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Expedia
   wfh: Encouraged, some Required
   travel: Restricted
@@ -586,6 +600,13 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: Ghostery
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: GitHub[[1]](https://github.blog/2020-03-03-covid-19-update-supporting-our-employees-and-community/)
   wfh: Encouraged
   travel: Restricted
@@ -663,11 +684,11 @@
   events: Restricted
   last_update: 2020-03-12
 
-- name: Hostinger 
-  wfh: Required 
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
+- name: Hostinger
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
   last_update: 2020-03-12
 
 - name: Houzz
@@ -837,7 +858,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
-  
+
 - name: Mattermost
   wfh: Required
   travel: Non-critical restricted
@@ -1181,6 +1202,13 @@
   events: Restricted
   last_update: 2020-03-03
 
+- name: Salsify
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
 - name: SAP
   wfh: Encouraged
   travel: Restricted
@@ -1313,14 +1341,14 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-09
-  
+
 - name: Strava
   wfh: Encouraged, some required
   travel: Suspended
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
-  
+
 - name: Stripe[[1]](https://stripe.com/newsroom/news/covid-19)
   wfh: Encouraged, some Required
   travel: Restricted
@@ -1705,7 +1733,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
-  
+
 - name: upGrad
   wfh: Encouraged
   travel: Discouraged
