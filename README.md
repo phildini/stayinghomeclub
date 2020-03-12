@@ -54,7 +54,8 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Drift | Required | Restricted | Restricted | Restricted | 2020-03-10 |
 | Drop | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Dropbox | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
-| eBay | ? | Restricted | ? | Restricted | 2020-03-04 |
+| Dstillery | Encouraged | Discouraged | Restricted | Restricted | 2020-03-10 |
+| eBay | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | Equinix | Encouraged for Seattle and Bay Area until 4/3 | Restricted| Restricted | Restricted | 2020-03-10 |
 | Expedia | Encouraged, some Required | Restricted | ? | ? | 2020-03-06 |
 | f5 Networks | Encouraged for Seattle and Bay Area until 3/23 | Restricted | Restricted | Restricted | 2020-03-05 |
@@ -153,7 +154,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Twitter[[1]](https://blog.twitter.com/en_us/topics/company/2020/keeping-our-employees-and-partners-safe-during-coronavirus.html) | Required | Restricted | Restricted | Restricted | 2020-03-03 |
 | Typless[[1]](https://typless.com/2020/03/05/switching-to-fully-remote-work/) | Required | Restricted | Restricted | Restricted | 2020-03-04 |
 | u2i | Encouraged | Restricted | Discouraged | Restricted | 2020-03-11 |
-| Uber | Allowed | Restricted | Discouraged | Restricted | 2020-03-10 |
+| Uber | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | UserTesting | Encouraged | Restricted | ? | ? | 2020-03-10 |
 | Vanilla Forums | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | Vectra AI | Encouraged | Restricted | ? | ? | 2020-03-09 |
