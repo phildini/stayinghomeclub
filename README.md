@@ -244,6 +244,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Kafka Summit London 2020](https://www.confluent.io/blog/kafka-summit-london-2020-update/): cancelled
 - [Kaspersky's Security Analyst Summit](https://thesascon.com/): postponed until September, exact date TBD
 - [KubeCon EU 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/): postponed until July/August, 2020, dates pending
+- [Lead Dev NYC](https://newyork2020.theleaddeveloper.com/covid-19-update): postponed until August 11-12, 2020
 - [Lesbians Who Tech](https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20): postponed until August 6-8, 2020 pending developments
 - [LibrePlanet 2020](https://www.fsf.org/blogs/community/libreplanet-2020-in-person-component-canceled-but-well-see-you-online): online-only
 - [Linaro Connect Budapest 2020](https://www.linaro.org/blog/linaro-connect-budapest-2020-cancelled/): cancelled
