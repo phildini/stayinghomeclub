@@ -292,6 +292,13 @@
   events: Restricted
   last_update: 2020-03-09
 
+- name: CAE [[1]](http://infocae.goclenche.com/)
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Cargonexx
   wfh: Encouraged
   travel: Restricted
