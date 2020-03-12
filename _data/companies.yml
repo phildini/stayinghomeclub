@@ -1050,9 +1050,9 @@
 
 - name: Satoshilabs 
   wfh: Required 
-  travel: ? 
-  visitors: ? 
-  events: ? 
+  travel: "?" 
+  visitors: "?" 
+  events: "?" 
   last_update: 2020-03-12 
 
 - name: Sensotrend
