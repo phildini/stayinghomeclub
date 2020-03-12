@@ -880,6 +880,13 @@
   events: Restricted
   last_update: 2020-03-05
 
+- name: Linode
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Lime
   wfh: Optional
   travel: Restricted
