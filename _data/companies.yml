@@ -12,6 +12,13 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: Academia.edu
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: ActionIQ
   wfh: Encouraged
   travel: Restricted
@@ -56,6 +63,13 @@
 
 - name: Alan
   wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+  
+- name: Alasco
+  wfh: Encouraged
   travel: Restricted
   visitors: Restricted
   events: Restricted
@@ -306,6 +320,13 @@
   events: Restricted
   last_update: 2020-03-12
 
+- name: CERN [[1]](https://hse.cern/news-article/coronavirus-information-measures-and-recommendations)
+  wfh: Planned
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-10
+
 - name: ChargedUp
   wfh: Encouraged
   travel: Restricted
@@ -361,6 +382,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-05
+  
+- name: Clockwork Labs
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Cockroach Labs
   wfh: Required
@@ -453,6 +481,13 @@
   events: Restricted
   last_update: 2020-03-12
 
+- name: Degoo
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Dell-EMC
   wfh: Allowed
   travel: Restricted
@@ -478,6 +513,13 @@
   wfh: Encouraged
   travel: Restricted
   visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: DivvyHomes
+  wfh: Allowed
+  travel: Allowed
+  visitors: Allowed
   events: Restricted
   last_update: 2020-03-12
 
@@ -1026,6 +1068,13 @@
   visitors: "?"
   events: "?"
   last_update: 2020-03-06
+  
+- name: N26[[1]](https://twitter.com/mobilegeekgirl/status/1238165955576049666)
+  wfh: Required
+  travel: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-12
 
 - name: NASA Ames[[1]](https://twitter.com/scottbudman/status/1237054027201794049)
   wfh: Required
@@ -1173,6 +1222,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
+  
+- name: Onspring Technologies
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Screened
+  events: Discouraged
+  last_update: 2020-03-12
 
 - name: OpenCorporates
   wfh: Optional
@@ -1222,6 +1278,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
+
+- name: Palo Alto Software
+  wfh: Recommended
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Pandora
   wfh: Optional
@@ -1483,11 +1546,11 @@
   last_update: 2020-03-04
 
 - name: Slido
-  wfh: Encouraged
+  wfh: Required
   travel: Restricted
-  visitors: "?"
-  events: "?"
-  last_update: 2020-03-11
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: sofatutor
   wfh: Required
@@ -1621,6 +1684,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
+  
+- name: System1, LLC
+  wfh: Required or Encouraged (by Geo)
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Tapjoy
   wfh: Required or Encouraged (by Geo)
@@ -2020,10 +2090,31 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
-  
+
+- name: Njiuko
+  wfh: Required
+  travel: Discouraged
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Droids On Roids
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Zalando [[1]](https://corporate.zalando.com/en/newsroom/en/news-stories/update-coronavirus)
   wfh: Encouraged
   travel: Restricted
   visitors: Restricted
   events: Restricted
+  last_update: 2020-03-12
+
+- name: Lemon.io
+  wfh: Required
+  travel: Discouraged
+  visitors: Discouraged
+  events: Discouraged
   last_update: 2020-03-12

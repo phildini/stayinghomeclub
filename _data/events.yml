@@ -75,6 +75,9 @@
 
 - name: "[Coachella](https://www.cnn.com/2020/03/10/entertainment/coachella-postponed-coronavirus/index.html)"
   status: reportedly postponed to October
+  
+- name: "[Code for America Summit](https://www.codeforamerica.org/news/important-announcement-regarding-code-for-america-summit-2020)"
+  status: cancelled
 
 - name: "[Collision](https://collisionconf.com/)"
   status: moving to virtual event
@@ -268,6 +271,9 @@
 - name: "[NG-CONF](https://www.ng-conf.org/)"
   status: changed to a virtual event
 
+- name: "[Nike LA 13.1 Half Marathon](https://www.nike.com/us/en_us/e/cities/losangeles/la-131)"
+  status: cancelled
+
 - name: "[Nvidia GPU Technology Conference (GTC) 2020](https://www.theverge.com/2020/3/2/21161635/nvidias-gpu-technology-conference-gtc-online-only-coronavirus)"
   status: online-only
 
@@ -276,6 +282,9 @@
 
 - name: "[Oktane](https://www.oktane20.com/)"
   status: changed to a virtual event
+  
+- name: "[Onspring Connect](https://onspring.com/connect/updatefaq/)"
+  status: postponed until Aug. 10-12
 
 - name: "[Open Compute Project Global Summit](https://www.opencompute.org/blog/we-are-moving-the-2020-ocp-global-summit-to-an-interactive-virtual-global-summit)"
   status: changed to a virtual event
