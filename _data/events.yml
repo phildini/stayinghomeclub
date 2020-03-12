@@ -172,6 +172,9 @@
 - name: "[Google Tensorflow Dev Summit](https://www.tensorflow.org/dev-summit/)"
   status: online-only
 
+- name: "[HIMSS Global Health Conference & Exhibition](https://www.himssconference.org/updates/himss-update-coronavirus)"
+  status: online-only
+
 - name: "[HYPERGROWTH London](https://www.drift.com/blog/hypergrowth-london-update/)"
   status: Postponed until September 14th
 
