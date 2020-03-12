@@ -832,11 +832,11 @@
   last_update: 2020-03-11
 
 - name: Ocado
-  wfh: Allowed
+  wfh: Encouraged
   travel: Restricted
-  visitors: "?"
-  events: "?"
-  last_update: 2020-03-11
+  visitors: "Encouraged"
+  events: "Encouraged"
+  last_update: 2020-03-12
 
 - name: Octopart
   wfh: Encouraged
