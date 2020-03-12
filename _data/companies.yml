@@ -1797,7 +1797,7 @@
   events: "?"
   last_update: 2020-03-06
   
-  - name: Wandera
+- name: Wandera
   wfh: Encouraged for San Francisco office
   travel: Restricted
   visitors: Restricted
