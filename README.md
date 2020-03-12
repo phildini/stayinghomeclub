@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 165
+## Companies - 166
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -44,6 +44,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Crunchbase | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Crunchyroll | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Culture Amp | Encouraged | Restricted | Restricted | Restricted | 2020-03-10 |
+| Databricks | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | Dell-EMC | Allowed | Restricted | Restricted | Restricted | 2020-03-02 |
 | Determined AI | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Digit | Required | Restricted | Restricted | Restricted | 2020-03-05 |
