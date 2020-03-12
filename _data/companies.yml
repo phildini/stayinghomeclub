@@ -18,6 +18,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
+  
+- name: Adaptiiv Medical Technologies
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Academia.edu
   wfh: Encouraged
