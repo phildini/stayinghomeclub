@@ -1,3 +1,36 @@
 # Who's staying home because of COVID-19?
 
-This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness. If you are a journalist and would like to speak to someone about the list, email phildini@phildini.net.
+This is a running list of companies that are taking steps to address
+the spread of COVID-19. Pull requests gratefully accepted, especially
+around design or data formatting or correctness. If you are a
+journalist and would like to speak to someone about the list, email
+phildini@phildini.net.  View the live website here:
+[stayinghome.club](https://stayinghome.club).
+
+
+## How do I add my company?
+
+The short version is: the website is generated from the
+[`companies.yml`](_data/companies.yml) file.  Add the details of your
+company by mimicking what others have done, and create a PR.  If
+you're not familiar with Git or Pull Requests, here are the steps.
+You will need a Github account.
+
+1. Make sure you're editing the main repository which hosts the
+    website.  It is here on Github:
+    [`https://github.com/phildini/stayinghomeclub`](https://github.com/phildini/stayinghomeclub).
+
+1. Find the `companies.yml` file, and click the "Edit" button.  Here's
+   a [direct link to the Edit
+   page](https://github.com/phildini/stayinghomeclub/edit/master/_data/companies.yml).
+
+1. Add your company, or update its details if something has changed.
+
+1. Click "Propose File Change", the big green button at the bottom of
+   the page.
+
+1. This will take you to a page where you can click "Create pull
+   request".  Once you do that, one of the maintainers of the website
+   will attend to your update ASAP.
+
+1. Thank you for helping us keep this site up-to-date! 🙏
