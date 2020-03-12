@@ -1117,6 +1117,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
+  
+- name: Onspring Technologies
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Screened
+  events: Discourages
+  last_update: 2020-03-12
 
 - name: OpenCorporates
   wfh: Optional
