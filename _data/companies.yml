@@ -1139,6 +1139,13 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: Sittercity
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Slack
   wfh: Encouraged, Required in JP
   travel: Restricted
