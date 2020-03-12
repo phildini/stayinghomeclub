@@ -1,6 +1,9 @@
 - name: "[Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html)"
   status: online-only
 
+- name: "[Adobe ColdFusion Summit East 2020](https://carahevents.carahsoft.com/CFSummit2020/)"
+  status: cancelled
+  
 - name: "[American Quarter Horse Association Convention 2020](https://www.aqha.com/-/2020-aqha-convention?redirect=/)"
   status: cancelled
 
@@ -217,6 +220,9 @@
 - name: "[Kentico Partner Summit Q2 2020](https://www.eventbrite.com/e/q2-2020-kentico-partner-summit-tickets-91103997509)"
   status: postponed until later this year
 
+- name: "[Lead Dev New York 2020](https://newyork2020.theleaddeveloper.com/covid-19-update)"
+  status: postponed until August 11 & 12, 2020
+
 - name: "[Lesbians Who Tech](https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20)"
   status: postponed until August 6-8, 2020 pending developments
 
@@ -253,6 +259,9 @@
 - name: "[National Association of Broadcasters (NAB)](https://nabshow.com/2020/attend/onsite-services/coronavirus-update-and-resources/)"
   status: cancelled
 
+- name: "[Neo4j GraphConnect](https://graphconnect.com/#health)"
+  status: cancelled, considering a virtual event
+
 - name: "[NetApp INSIGHT](https://blog.netapp.com/postponing-netapp-insight-paris-and-berlin-events/)"
   status: postponed
 
@@ -288,6 +297,9 @@
 
 - name: "[Paris Blockchain Week Summit](https://www.pbwsummit.com/)"
   status: postponed until Dec. 9-10
+
+- name: "[Percona Live Austin](https://www.perconalive.com/event/912fe685-e6c9-44f4-9ee0-c700fda1f409/websitePage:89cb3189-2ac4-4f4a-b511-97e5c8dc959f?5S%2CM3%2C912fe685-e6c9-44f4-9ee0-c700fda1f409=)"
+  status: postponed
 
 - name: "[Pixels Camp](https://blog.pixels.camp/pixels-camp-postponed-fddece7ccc4c)"
   status: postponed to Nov. 26
@@ -417,3 +429,6 @@
 
 - name: "[WordCamp Jacksonville 2020](https://2020.jacksonville.wordcamp.org/)"
   status: cancelled
+
+- name: "[WordCamp Europe 2020](https://2020.europe.wordcamp.org/2020/03/12/important-notice-wordcamp-europe-postponed/)"
+  status: postponed to 2021
