@@ -481,6 +481,13 @@
   events: Restricted
   last_update: 2020-03-12
 
+- name: DivvyHomes
+  wfh: Allowed
+  travel: Allowed
+  visitors: Allowed
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Dockwa
   wfh: Required
   travel: Restricted
