@@ -223,6 +223,9 @@
 - name: "[Kentico Partner Summit Q2 2020](https://www.eventbrite.com/e/q2-2020-kentico-partner-summit-tickets-91103997509)"
   status: postponed until later this year
 
+- name: "[KernelCon 2020](https://kernelcon.org/virtual)"
+  status: online-only
+
 - name: "[Lead Dev New York 2020](https://newyork2020.theleaddeveloper.com/covid-19-update)"
   status: postponed until August 11 & 12, 2020
 
