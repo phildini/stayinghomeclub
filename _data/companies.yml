@@ -32,7 +32,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
-  
+
 - name: Adobe[[1]](https://www.npr.org/2020/03/03/811728989/coronavirus-cancellations-and-travel-bans-google-is-latest)[[2]](https://twitter.com/AdobeNews/status/1236758404330389504)
   wfh: Encouraged / Directed for Seattle and Bay Area till 03/23/20
   travel: Restricted
@@ -67,7 +67,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
-  
+
 - name: Alasco
   wfh: Encouraged
   travel: Restricted
@@ -382,7 +382,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-05
-  
+
 - name: Clockwork Labs
   wfh: Encouraged
   travel: Restricted
@@ -669,7 +669,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
-  
+
 - name: FreshBooks
   wfh: Required
   travel: Restricted
@@ -1068,7 +1068,7 @@
   visitors: "?"
   events: "?"
   last_update: 2020-03-06
-  
+
 - name: N26[[1]](https://twitter.com/mobilegeekgirl/status/1238165955576049666)
   wfh: Required
   travel: "?"
@@ -1222,7 +1222,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
-  
+
 - name: Onspring Technologies
   wfh: Encouraged
   travel: Restricted
@@ -1684,7 +1684,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
-  
+
 - name: System1, LLC
   wfh: Required or Encouraged (by Geo)
   travel: Restricted
@@ -2117,4 +2117,11 @@
   travel: Discouraged
   visitors: Discouraged
   events: Discouraged
+  last_update: 2020-03-12
+
+- name: Thanx
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
   last_update: 2020-03-12
