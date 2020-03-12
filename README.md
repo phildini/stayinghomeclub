@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 157
+## Companies - 158
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -63,6 +63,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Freshworks | Optional | Restricted | ? | ? | 2020-03-06 |
 | FullStory | Encouraged | Restricted | ? | Restricted | 2020-03-11 |
 | Fundbox | Required | Restricted | ? | ? | 2020-03-11 |
+| Gem | Optional | Restricted | Restricted | Restricted | 2020-03-11 |
 | General Dynamics | Optional | Restricted | ? | ? | 2020-03-11 |
 | GetYourGuide[[1]](https://twitter.com/JohannesReck/status/1237361981008592896) | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | GitHub[[1]](https://github.blog/2020-03-03-covid-19-update-supporting-our-employees-and-community/) | Encouraged | Restricted | ? | ? | 2020-03-04 |
