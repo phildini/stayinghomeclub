@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 138
+## Companies - 151
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -31,6 +31,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Cengage | Strongly Encouraged for Boston and Raleigh | Restricted | Restricted | Restricted | 2020-03-11 |
 | charity: water | Required | Restricted | Restricted | Restricted | 2020-3-06 |
 | Chattermill | Encouraged | Discouraged | Discouraged | Restricted | 2020-03-11 |
+| Cimpress | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Cisco | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Cloudflare | ? | Restricted | Restricted | Restricted | 2020-03-04 |
 | CloudLinux |Required | Restricted | Restricted | Restricted | 2020-03-09 |
@@ -157,7 +158,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
-## Events - 122
+## Events - 126
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
 - [Apache Roadshow/Chicago](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
