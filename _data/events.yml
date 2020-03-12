@@ -90,7 +90,10 @@
 
 - name: "[DevRelCon Tokyo](https://tokyo-2020.devrel.net/information/2020/02/13/devrelcon-tokyo-has-canceled_en.html)"
   status: cancelled
-
+ 
+- name: "[Digital Animal Summit 2020](https://www.digitalanimalsummit.com/)"
+  status: postponed
+  
 - name: "[DocuSign Momentum - San Francisco](https://momentum.docusign.com/faq)"
   status: online-only
 
