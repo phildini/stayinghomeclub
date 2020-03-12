@@ -172,9 +172,10 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
 
 <a name="events"></a>
-## Events - 130
+## Events - 131
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
+- [American Quarter Horse Association Convention 2020](https://www.aqha.com/-/2020-aqha-convention?redirect=/): cancelled
 - [Apache Roadshow/Chicago](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
 - [Apache Roadshow/DC](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
 - [Apache Roadshow/Seattle](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): postponed to autumn 2020
