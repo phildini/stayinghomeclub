@@ -53,6 +53,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | DrChrono | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Drift | Required | Restricted | Restricted | Restricted | 2020-03-10 |
 | Drop | Required | Restricted | Restricted | Restricted | 2020-03-09 |
+| DroneSec | Encouraged | Discouraged | Restricted | Restricted | 2020-03-12 |
 | Dropbox | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Dstillery | Encouraged | Discouraged | Restricted | Restricted | 2020-03-10 |
 | eBay | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
@@ -126,6 +127,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Pinterest | Encouraged | Restricted | Restricted | Partially Restricted | 2020-03-08 |
 | Polidea | Encouraged | Restricted | Restricted | Restricted | 2020-03-10 |
 | PressCentric | Encouraged | Restricted | ? | ? | 2020-03-06 |
+| Privasec | Encouraged | Discouraged | Restricted | Restricted | 2020-03-12 | 
 | ProdPerfect | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Redfin[[1]](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/) | Encouraged | ? | ? | ? | 2020-03-04 |
 | RingCentral | Encouraged, Recommended for Bay Area | Restricted | ? | ? | 2020-03-08 |
