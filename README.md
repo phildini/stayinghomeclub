@@ -7,6 +7,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
+| 4C Insights | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Aaptiv | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | ActionIQ | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
 | Adobe[[1]](https://www.npr.org/2020/03/03/811728989/coronavirus-cancellations-and-travel-bans-google-is-latest)[[2]](https://twitter.com/AdobeNews/status/1236758404330389504) | Encouraged / Directed for Seattle and Bay Area till 03/23/20 | Restricted | ? | ? | 2020-03-09 |
