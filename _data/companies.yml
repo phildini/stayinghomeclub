@@ -26,6 +26,13 @@
   events: "?"
   last_update: 2020-03-09
 
+- name: Adzerk
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Airbnb [[1]](https://www.businessinsider.com/airbnb-tells-bay-area-employees-work-remote-covid-19-coronavirus-2020-3)
   wfh: Required
   travel: Restricted
@@ -88,13 +95,6 @@
   visitors: "?"
   events: Restricted
   last_update: 2020-03-09
-
-- name: Avid 
-  wfh: Encouraged 
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
-  last_update: 2020-03-12  
 
 - name: Blink Health
   wfh: Allowed
@@ -803,13 +803,6 @@
   events: "?"
   last_update: 2020-03-11
 
-- name: Octopart
-  wfh: Encouraged
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-12
-
 - name: Oden Technologies
   wfh: Encouraged
   travel: Restricted
@@ -1026,13 +1019,6 @@
   visitors: "?"
   events: Restricted
   last_update: 2020-03-11
-
-- name: Solidstudio
-  wfh: Encouraged
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-12
 
 - name: Soundtrack Your Brand
   wfh: Encouraged
