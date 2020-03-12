@@ -1923,6 +1923,13 @@
   events: Discouraged
   last_update: 2020-03-12
 
+- name: Virtuagym
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: VideoAmp
   wfh: Required
   travel: Restricted
