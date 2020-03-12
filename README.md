@@ -5,7 +5,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 <a name="companies"></a>
 ## Companies - 165
 
-| Company | WFH | Travel | Visitors | Events | Last Update |
+| Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
 | Aaptiv | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | ActionIQ | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
