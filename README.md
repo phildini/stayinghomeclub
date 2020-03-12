@@ -150,6 +150,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Spotify[[1]](https://twitter.com/eldsjal/status/1237487784996343813) | Encouraged | Restricted | Restricted | Restricted | 2020-03-10 |
 | Square[[1]](https://twitter.com/zamosta/status/1234658276781912064) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
 | Squarespace | Allowed | Restricted | Restricted | Restricted | 2020-03-09 |
+| Stitch Fix | Encouraged, Recommended for San Francisco | Restricted | Restricted | Restricted | 2020-03-11 |
 | Stripe[[1]](https://stripe.com/newsroom/news/covid-19) | Encouraged, some Required | Restricted | Restricted | ? |2020-02-29 |
 | SurveyMonkey | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | SUSE[[1]](https://www.suse.com/c/reimagining-susecon-2020/) | Required in serious outbreak areas | Restricted | ? | Restricted | 2020-03-06 |
