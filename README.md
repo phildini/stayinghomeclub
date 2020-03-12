@@ -215,6 +215,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [HYPERGROWTH London](https://www.drift.com/blog/hypergrowth-london-update/): Postponed until September 14th
 - [IBM Think 2020](https://www.ibm.com/events/think/): online-only
 - [ICANN 67](https://www.icann.org/news/announcement-2020-02-19-en): online-only
+- [IETF 107](https://www.ietf.org/blog/ietf107-in-person-cancelled/): in-person meeting cancelled
 - [Ingram Micro Cloud Summit 2020](https://www.ingrammicrocloud.com/press-releases/ingram-micro-cloud-postpones-cloud-summit-2020-early-2021/): postponed until early 2021
 - [International Conference on Software Engineering (ICSE)](https://conf.researchr.org/home/icse-2020): postponed to October
 - [Internet Freedom Festival](https://internetfreedomfestival.org/wiki/index.php/Cancellation_of_the_2020_Internet_Freedom_Festival): cancelled
