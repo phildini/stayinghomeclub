@@ -277,7 +277,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
-  
+
 - name: CERN [[1]](https://hse.cern/news-article/coronavirus-information-measures-and-recommendations)
   wfh: Planned
   travel: Restricted
