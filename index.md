@@ -2,7 +2,6 @@
 
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness. If you are a journalist and would like to speak to someone about the list, email phildini@phildini.net.
 
-
 Skip to: <a href="#companies">Companies</a>. Skip to: <a href="#events">Events</a>. Skip to: <a href="#universities">Universities</a>.
 
 <a name="companies"></a>
@@ -33,6 +32,7 @@ Back to top: <a href="#companies">Companies</a>
 Back to top: <a href="#companies">Companies</a>, <a href="#events">Events</a>
 
 <a name="universities"></a>
+
 ## Universities -- {{ site.data.universities | size }}
 
 {% assign statuses = "" | split: "" %}
