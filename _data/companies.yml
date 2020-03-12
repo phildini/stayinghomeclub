@@ -2034,7 +2034,14 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
-  
+
+- name: Droids On Roids
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Zalando [[1]](https://corporate.zalando.com/en/newsroom/en/news-stories/update-coronavirus)
   wfh: Encouraged
   travel: Restricted
