@@ -1153,3 +1153,65 @@
   events: "?" 
   last_update: 2020-03-07 
 
+- name: Aurora Solar
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Capital One[[1]](https://www.richmond.com/business/capital-one-tells-employees-to-work-remotely-from-home-if/article_8878cb2b-ee98-57d8-938a-7c58215cbcac.html)
+  wfh: Encouraged
+  travel: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Element Analytics
+  wfh: Required 
+  travel: Restricted 
+  visitors: Restricted 
+  events: Restricted 
+  last_update: 2020-03-11
+
+- name: Genworth [[1]](https://www.richmond.com/business/capital-one-tells-employees-to-work-remotely-from-home-if/article_8878cb2b-ee98-57d8-938a-7c58215cbcac.html) 
+  wfh: Encouraged 
+  travel: Restricted 
+  visitors: "?" 
+  events: Restricted 
+  last_update: 2020-03-11
+
+- name: Quality Unit 
+  wfh: Encouraged 
+  travel: Restricted 
+  visitors: Restricted 
+  events: Restricted 
+  last_update: 2020-03-03
+
+- name: Rippling 
+  wfh: Required 
+  travel: Restricted 
+  visitors: Restricted 
+  events: Restricted 
+  last_update: 2020-03-11
+
+- name: SheerID 
+  wfh: Encouraged 
+  travel: Restricted 
+  visitors: "?" 
+  events: Restricted 
+  last_update: 2020-03-11
+
+- name: Stitch Fix 
+  wfh: Encouraged, Recommended for San Francisco 
+  travel: Restricted 
+  visitors: Restricted 
+  events: Restricted 
+  last_update: 2020-03-11
+
+- name: Zendesk 
+  wfh: Required 
+  travel: Restricted 
+  visitors: Restricted 
+  events: Restricted 
+  last_update: 2020-03-11
