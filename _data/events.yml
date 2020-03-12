@@ -1,6 +1,9 @@
 - name: "[Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html)"
   status: online-only
 
+- name: "[Adobe ColdFusion Summit East 2020](https://carahevents.carahsoft.com/CFSummit2020/)"
+  status: cancelled
+  
 - name: "[American Quarter Horse Association Convention 2020](https://www.aqha.com/-/2020-aqha-convention?redirect=/)"
   status: cancelled
 
@@ -253,6 +256,9 @@
 - name: "[National Association of Broadcasters (NAB)](https://nabshow.com/2020/attend/onsite-services/coronavirus-update-and-resources/)"
   status: cancelled
 
+- name: "[Neo4j GraphConnect](https://graphconnect.com/#health)"
+  status: cancelled, considering a virtual event
+
 - name: "[NetApp INSIGHT](https://blog.netapp.com/postponing-netapp-insight-paris-and-berlin-events/)"
   status: postponed
 
@@ -417,3 +423,6 @@
 
 - name: "[WordCamp Jacksonville 2020](https://2020.jacksonville.wordcamp.org/)"
   status: cancelled
+
+- name: "[WordCamp Europe 2020](https://2020.europe.wordcamp.org/2020/03/12/important-notice-wordcamp-europe-postponed/)"
+  status: postponed to 2021
