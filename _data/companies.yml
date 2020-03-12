@@ -306,6 +306,13 @@
   events: "?"
   last_update: 2020-03-06
 
+- name: Cricket Health
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Cruise[[1]](https://twitter.com/Cruise/status/1237091656588881920)
   wfh: Encouraged
   travel: Restricted
@@ -340,6 +347,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-10
+
+- name: Data Respons R&D Services AS
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Dell-EMC
   wfh: Allowed
@@ -453,6 +467,13 @@
   events: Restricted
   last_update: 2020-03-10
 
+- name: eTeam
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Expedia
   wfh: Encouraged, some Required
   travel: Restricted
@@ -494,6 +515,13 @@
   visitors: "?"
   events: "?"
   last_update: 2020-03-06
+
+- name: FullContact
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: FullStory
   wfh: Encouraged
@@ -579,6 +607,13 @@
   events: Restricted
   last_update: 2020-03-06
 
+- name: Guidewire
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: HASH
   wfh: Encouraged
   travel: Restricted
@@ -600,11 +635,18 @@
   events: Restricted
   last_update: 2020-03-05
 
-- name: Hostinger
+- name: HashedIn
   wfh: Required
   travel: Restricted
   visitors: Restricted
   events: Restricted
+  last_update: 2020-03-12
+
+- name: Hostinger 
+  wfh: Required 
+  travel: Restricted 
+  visitors: Restricted 
+  events: Restricted 
   last_update: 2020-03-12
 
 - name: Houzz
@@ -768,6 +810,13 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: mabl
+  wfh: Strongly Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+  
 - name: Mattermost
   wfh: Required
   travel: Non-critical restricted
@@ -901,6 +950,13 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: OneFit
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: OfferUp
   wfh: Encouraged
   travel: Restricted
@@ -914,6 +970,13 @@
   visitors: "?"
   events: "?"
   last_update: 2020-03-05
+
+- name: OneChronos
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Opendoor
   wfh: Encouraged
@@ -1012,6 +1075,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-10
+
+- name: Positronic AI
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
 
 - name: PressCentric
   wfh: Encouraged
@@ -1125,12 +1195,26 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: Sittercity
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Slack
   wfh: Encouraged, Required in JP
   travel: Restricted
   visitors: "?"
   events: Restricted
   last_update: 2020-03-04
+
+- name: Slido
+  wfh: Encouraged
+  travel: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-11
 
 - name: SoftServe
   wfh: Encouraged
@@ -1187,7 +1271,14 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-09
-
+  
+- name: Strava
+  wfh: Encouraged, some required
+  travel: Suspended
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+  
 - name: Stripe[[1]](https://stripe.com/newsroom/news/covid-19)
   wfh: Encouraged, some Required
   travel: Restricted
@@ -1257,6 +1348,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
+
+- name: Tripadvisor
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Tubi
   wfh: Encouraged
