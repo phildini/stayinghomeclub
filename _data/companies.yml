@@ -628,6 +628,13 @@
   events: Restricted 
   last_update: 2020-03-08 
  
+- name: Likvido
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted 
+  events: Restricted
+  last_update: 2020-03-12
+ 
 - name: LinkedIn[[1]](https://www.businessinsider.com/linkedin-tells-employees-to-work-from-home-over-coronavirus-concerns-2020-3) 
   wfh: Encouraged 
   travel: Restricted 
