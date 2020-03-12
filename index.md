@@ -42,7 +42,7 @@ Back to top: <a href="#companies">Companies</a>, <a href="#events">Events</a>
     {% assign status = university[1].status | downcase %}
     {% assign statuses = statuses | push: status %}
 {% endfor %}
-{% assign remote_count = (statuses | where_exp:"status", "status contains 'remote'" | size)%}
+{% assign remote_count = statuses | where_exp:"status", "status contains 'remote'" | size %}
 *Universities moving to remote teaching: **{{remote_count}}***
 
 {% for university_hash in site.data.universities -%}
