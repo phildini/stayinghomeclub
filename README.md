@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 155
+## Companies - 156
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -162,6 +162,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Zeus Living | Required | Restricted | Restricted | Restricted | 2020-03-10 |
 | Zillow | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | Zulily | Encouraged | Restricted | Restricted | ? | 2020-03-07 |
+| HASH | Encouraged | Restricted | Restricted | ? | 2020-03-11 |
 
 <a name="events"></a>
 ## Events - 129
