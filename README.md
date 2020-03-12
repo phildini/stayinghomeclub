@@ -28,12 +28,12 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Bungie[[1]](https://www.bungie.net/en/Explore/Detail/News/48839) | Required | ? | ? | ? | 2020-03-05 |
 | Buzzfeed | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
 | Bugcrowd | Required | Restricted | Restricted | Restricted | 2020-03-09 |
+| Cengage | Strongly Encouraged for Boston and Raleigh | Restricted | Restricted | Restricted | 2020-03-11 |
 | charity: water | Required | Restricted | Restricted | Restricted | 2020-3-06 |
 | Chattermill | Encouraged | Discouraged | Discouraged | Restricted | 2020-03-11 |
-| Cengage | Strongly Encouraged for Boston and Raleigh | Restricted | Restricted | Restricted | 2020-03-11 |
-| CloudLinux |Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Cisco | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Cloudflare | ? | Restricted | Restricted | Restricted | 2020-03-04 |
+| CloudLinux |Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Clover | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
 | Coinbase[[1]](https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/edit) | Encouraged | ? | ? | ? | 2020-03-03 |
 | Contentful | Encouraged | Restricted | ? | Restricted | 2020-03-03 |
