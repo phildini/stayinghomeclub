@@ -116,6 +116,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | ProdPerfect | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Redfin[[1]](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/) | Encouraged | ? | ? | ? | 2020-03-04 |
 | RingCentral | Encouraged, Recommended for Bay Area | Restricted | ? | ? | 2020-03-08 |
+| Rippling | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Roblox | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | RoboTerra| Required | Restricted | Restricted | Restricted | 2020-03-08 |
 | Salesforce[[1]](https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
