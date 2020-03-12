@@ -1825,6 +1825,13 @@
   events: "?"
   last_update: 2020-03-05
 
+- name: Turnitin
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Twilio[[1]](https://www.twilio.com/blog/twilio-safety-response-covid-19)
   wfh: Required
   travel: Restricted
