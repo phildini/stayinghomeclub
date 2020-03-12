@@ -145,6 +145,13 @@
   events: "?"
   last_update: 2020-03-09
 
+- name: Block Zero
+  wfh: Strongly Encouraged
+  travel: Discouraged
+  visitors: Discouraged
+  events: Discouraged
+  last_update: 2020-03-12
+
 - name: Bluecore
   wfh: Required
   travel: Restricted
@@ -579,8 +586,15 @@
   events: Restricted
   last_update: 2020-03-01
 
+- name: FREE NOW
+  wfh: Recommended, Required for some areas
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: FreshBooks
-  wfh: Encouraged
+  wfh: Required
   travel: Restricted
   visitors: Restricted
   events: Restricted
@@ -772,7 +786,7 @@
   wfh: Encouraged / Geo-specific
   travel: Restricted
   visitors: Restricted / Geo-specific
-  events: Restricted > 100 people
+  events: Restricted > 100 persons
   last_update: 2020-03-11
 
 - name: IceWarp
@@ -781,6 +795,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
+
+- name: imgix
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Indeed[[1]](https://www.kvue.com/article/news/health/indeed-coronavirus-work-from-home/269-79c7797f-4d60-41df-bd9b-8b6bc25d9f3f)
   wfh: Required
@@ -879,6 +900,13 @@
   visitors: "?"
   events: Restricted
   last_update: 2020-03-05
+
+- name: Linode
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Lime
   wfh: Optional
@@ -1013,12 +1041,12 @@
   events: "?"
   last_update: 2020-03-09
 
-- name: Nextroll
+- name: NextRoll
   wfh: Required
   travel: Restricted
   visitors: Restricted
   events: Restricted
-  last_update: 2020-03-12
+  last_update: 2020-03-09
 
 - name: Niteo[[1]](https://blog.niteo.co/niteo-covid-19-response/)
   wfh: Required
@@ -1216,6 +1244,13 @@
   events: Restricted
   last_update: 2020-03-12
 
+- name: Pipedrive[[1]](https://twitter.com/pipedrive/status/1238152383475179520)
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Polidea
   wfh: Encouraged
   travel: Restricted
@@ -1243,6 +1278,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-06
+
+- name: Public Interest Registry (PIR)
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Red Canary
   wfh: Required
@@ -1448,7 +1490,7 @@
   last_update: 2020-03-09
 
 - name: Spotify[[1]](https://twitter.com/eldsjal/status/1237487784996343813)
-  wfh: Encouraged
+  wfh: Required
   travel: Restricted
   visitors: Restricted
   events: Restricted
@@ -1503,12 +1545,19 @@
   events: Required
   last_update: 2020-03-12
 
-- name: SUSE[[1]](https://www.suse.com/c/reimagining-susecon-2020/)
+- name: SUSE [[1]](https://www.suse.com/c/reimagining-susecon-2020/)
   wfh: Required in serious outbreak areas
   travel: Restricted
   visitors: "?"
   events: Restricted
   last_update: 2020-03-06
+
+- name: Swisscom [[1]](https://luware.com/en/news/corona-crisis-opens-gates-to-customer-service-from-home/)[[2]](https://www.srf.ch/play/tv/10vor10/video/coronavirus-grossraumbueros-sind-verwaist?id=7ea42bd1-f1c0-4576-8207-417ce5061dd0)
+  wfh: Encouraged
+  travel: Restricted
+  visitors: "?"
+  events: Restricted > 25 persons
+  last_update: 2020-03-12
 
 - name: Syncbnb
   wfh: Encouraged
@@ -1526,6 +1575,13 @@
 
 - name: Teamleader CRM
   wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Teachable
+  wfh: Encouraged
   travel: Restricted
   visitors: Restricted
   events: Restricted
@@ -1900,4 +1956,11 @@
   travel: Discouraged
   visitors: Discouraged
   events: Discouraged
+  last_update: 2020-03-12
+
+- name: VideoAmp
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
   last_update: 2020-03-12
