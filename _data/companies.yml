@@ -445,7 +445,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-10
-  
+
 - name: eTeam
   wfh: Encouraged
   travel: Restricted
@@ -1579,3 +1579,10 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
+
+- name: Zipline
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-08
