@@ -97,10 +97,10 @@
   last_update: 2020-03-11 
 
 - name: BlueStacks - India
-  wfh: Encouraged
-  travel: "?"
-  visitors: "?"
-  events: "?"
+  wfh: Strongly encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
   last_update: 2020-03-12
  
 - name: Brex 
