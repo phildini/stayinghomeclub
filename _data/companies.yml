@@ -1,3 +1,10 @@
+- name: 4C Insights
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
 - name: Aaptiv
   wfh: Encouraged
   travel: Restricted
@@ -152,6 +159,13 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: Censys
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: "charity: water"
   wfh: Required
   travel: Restricted
@@ -200,6 +214,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-05
+
+- name: Cockroach Labs
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Coinbase[[1]](https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/edit)
   wfh: Encouraged
@@ -376,6 +397,13 @@
   events: Restricted
   last_update: 2020-03-01
 
+- name: FreshBooks
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Freshworks
   wfh: Optional
   travel: Restricted
@@ -396,6 +424,13 @@
   visitors: "?"
   events: "?"
   last_update: 2020-03-11
+
+- name: Gameforge
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Gem
   wfh: Optional
@@ -480,6 +515,13 @@
   visitors: "?"
   events: Restricted
   last_update: 2020-03-05
+
+- name: Hostinger 
+  wfh: Required 
+  travel: Restricted 
+  visitors: Restricted 
+  events: Restricted 
+  last_update: 2020-03-12
 
 - name: Houzz
   wfh: Optional
@@ -586,12 +628,26 @@
   events: "?"
   last_update: 2020-03-11
 
+- name: LaunchPad Lab
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Lightstep
   wfh: Encouraged
   travel: Restricted
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-08
+
+- name: Likvido
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: LinkedIn[[1]](https://www.businessinsider.com/linkedin-tells-employees-to-work-from-home-over-coronavirus-concerns-2020-3)
   wfh: Encouraged
@@ -768,6 +824,13 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: Pagerduty[[1]](https://www.pagerduty.com/blog/announcements-covid-19-measures/)
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
 - name: Pandora
   wfh: Optional
   travel: Restricted
@@ -880,6 +943,13 @@
   events: Restricted
   last_update: 2020-03-05
 
+- name: Sensotrend
+  wfh: Recommended
+  travel: Discouraged
+  visitors: Discouraged
+  events: Discouraged
+  last_update: 2020-03-12
+
 - name: Shopify[[1]](https://twitter.com/Shopify/status/1237741373417193476)
   wfh: Required
   travel: Restricted
@@ -985,6 +1055,13 @@
   events: Restricted
   last_update: 2020-03-07
 
+- name: Teamleader CRM
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Telenav[[1]](https://twitter.com/Telenav/status/1233227569249390592)
   wfh: Encouraged
   travel: Restricted
@@ -998,7 +1075,6 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
-
 
 - name: Textio[[1]](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/)
   wfh: Encouraged
@@ -1224,9 +1300,37 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: Zoocha Ltd
+  wfh: Strongly Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Zyro 
+  wfh: Required 
+  travel: Restricted 
+  visitors: Restricted 
+  events: Restricted 
+  last_update: 2020-03-12
+
 - name: homeis
   wfh: Encouraged, some Required
   travel: Restricted
   visitors: "?"
   events: Restricted
   last_update: 2020-03-11
+
+- name: eneba.com
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: MontyCloud
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
