@@ -5,6 +5,13 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: 98point6
+  wfh: Encouraged
+  travel: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-12
+
 - name: Aaptiv
   wfh: Encouraged
   travel: Restricted
@@ -739,7 +746,7 @@
   visitors: "?"
   events: "?"
   last_update: 2020-03-11
-  
+
 - name: Genians
   wfh: Optional
   travel: Restricted
@@ -1614,7 +1621,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
-  
+
 - name: Sonos
   wfh: Required
   travel: Restricted
@@ -2125,7 +2132,7 @@
   visitors: Restricted
   events: Banned
   last_update: 2020-03-12
-  
+
 - name: Motorola Solutions
   wfh: Strongly encouraged where possible, until at least 2020-04-06
   travel: Restricted
