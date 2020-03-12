@@ -1321,6 +1321,13 @@
   events: Restricted
   last_update: 2020-03-06
 
+- name: Spreedly
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Springboard (aka SlideRule Labs Inc.)
   wfh: Encouraged, Recommended for Bangalore
   travel: Restricted
