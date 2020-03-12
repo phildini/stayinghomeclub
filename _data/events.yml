@@ -201,6 +201,9 @@
 
 - name: "[KubeCon EU 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/)"
   status: postponed until July/August, 2020, dates pending
+  
+- name: "[Kentico Partner Summit Q2 2020](https://www.eventbrite.com/e/q2-2020-kentico-partner-summit-tickets-91103997509)"
+  status: postponed until later this year
 
 - name: "[Lesbians Who Tech](https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20)"
   status: postponed until August 6-8, 2020 pending developments
