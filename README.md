@@ -133,7 +133,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Squarespace | Allowed | Restricted | Restricted | Restricted | 2020-03-09 |
 | Stripe[[1]](https://stripe.com/newsroom/news/covid-19) | Encouraged, some Required | Restricted | Restricted | ? |2020-02-29 |
 | Sulzer US LLC | Required | Restricted | Restricted |Restricted | 2020-03-11|
-| [SUSE](https://www.suse.com/c/reimagining-susecon-2020/) | Required in serious outbreak areas | Restricted | ? | Restricted | 2020-03-06 |
+| SUSE[[1]](https://www.suse.com/c/reimagining-susecon-2020/) | Required in serious outbreak areas | Restricted | ? | Restricted | 2020-03-06 |
 | Syncbnb | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | Tapjoy | Required or Encouraged (by Geo) | Restricted | Restricted | Restricted | 2020-03-07 |
 | Telenav[[1]](https://twitter.com/Telenav/status/1233227569249390592) | Encouraged | Restricted | ? | ? | 2020-03-05 |
