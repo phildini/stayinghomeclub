@@ -786,7 +786,7 @@
   wfh: Encouraged / Geo-specific
   travel: Restricted
   visitors: Restricted / Geo-specific
-  events: Restricted > 100 people
+  events: Restricted > 100 persons
   last_update: 2020-03-11
 
 - name: IceWarp
@@ -1531,12 +1531,19 @@
   events: Restricted
   last_update: 2020-03-11
 
-- name: SUSE[[1]](https://www.suse.com/c/reimagining-susecon-2020/)
+- name: SUSE [[1]](https://www.suse.com/c/reimagining-susecon-2020/)
   wfh: Required in serious outbreak areas
   travel: Restricted
   visitors: "?"
   events: Restricted
   last_update: 2020-03-06
+
+- name: Swisscom [[1]](https://luware.com/en/news/corona-crisis-opens-gates-to-customer-service-from-home/)[[2]](https://www.srf.ch/play/tv/10vor10/video/coronavirus-grossraumbueros-sind-verwaist?id=7ea42bd1-f1c0-4576-8207-417ce5061dd0)
+  wfh: Encouraged
+  travel: Restricted
+  visitors: "?"
+  events: Restricted > 25 persons
+  last_update: 2020-03-12
 
 - name: Syncbnb
   wfh: Encouraged
