@@ -229,7 +229,7 @@
   events: Restricted
   last_update: 2020-03-12
 
-- name: "ChargedUp"
+- name: ChargedUp
   wfh: Encouraged
   travel: Restricted
   visitors: Restricted
