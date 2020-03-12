@@ -259,6 +259,9 @@
 - name: "[Open Compute Project Global Summit](https://www.opencompute.org/blog/we-are-moving-the-2020-ocp-global-summit-to-an-interactive-virtual-global-summit)"
   status: changed to a virtual event
 
+- name: "[Open edX Conference](https://open.edx.org/blog/cancelling-the-in-person-2020-open-edx-conference/)"
+  status: changed to a virtual event
+
 - name: "[Open Hardware Summit](https://2020.oshwa.org/2020/03/08/the-2020-open-hardware-summit-is-going-virtual/)"
   status: changed to a virtual event
 
@@ -339,6 +342,9 @@
 
 - name: "[SNUG Silicon Valley](https://www.synopsys.com/community/snug/snug-silicon-valley.html)"
   status: cancelled
+
+- name: "[SQLBits](https://sqlbits.com/)"
+  status: Postponed until September
 
 - name: "[SRECon Americas West](https://www.usenix.org/conferences/coronavirus)"
   status: postponed until June
