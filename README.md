@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 160
+## Companies - 161
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -72,6 +72,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Google[[1]](https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent) [[2]](https://www.reuters.com/article/us-health-coronavirus-alphabet/google-recommends-all-north-america-employees-to-work-from-home-idUSKBN20X38J?feedType=RSS&feedName=technologyNews) | Encouraged / Geo-specific | Restricted | Restricted | ? | 2020-03-11 |
 | Granular.ag | Required for SF / All others allowed | Restricted | Restricted for SF | Restricted | 2020-03-05 |
 | Groupon | Encouraged | Restricted | ? | Restricted | 2020-03-06 |
+| [Heap](https://github.com/phildini/stayinghomeclub/pull/345) | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | HERE | Encouraged | Restricted | ? | Restricted | 2020-03-05 |
 | Houzz | Optional | Restricted | Restricted | Restricted | 2020-03-09 |
 | HPE | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
