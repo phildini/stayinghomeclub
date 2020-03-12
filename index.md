@@ -2,6 +2,8 @@
 
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness. If you are a journalist and would like to speak to someone about the list, email phildini@phildini.net.
 
+<a href="https://github.com/phildini/stayinghomeclub/blob/master/README.md">Instructions for contributing are here</a>.
+
 Skip to: <a href="#companies">Companies</a>. Skip to: <a href="#events">Events</a>. Skip to: <a href="#universities">Universities</a>.
 
 <a name="companies"></a>
