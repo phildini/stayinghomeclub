@@ -34,3 +34,33 @@ You will need a Github account.
    will attend to your update ASAP.
 
 1. Thank you for helping us keep this site up-to-date! 🙏
+
+
+## For developers
+
+You may want to run the site locally, to see what it looks like while
+you're making changes.  A full tutorial is out of scope here, but
+these are the basic steps.  We assume you know a little bit of Ruby.
+
+First, you'll need Ruby Bundler, which manages this project's
+dependencies.
+
+```
+gem install bundler -v 2.1.4
+```
+
+Now, install the required Gems.
+
+```
+bundle install
+```
+
+When that's done, run the development server.
+
+```
+bundle exec jekyll serve
+```
+
+Jekyll will print a URL where you can see your local version running,
+as it would on the web.  Usually that's
+[`http://127.0.0.1:4000/`](http://127.0.0.1:4000/).
