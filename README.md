@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 166
+## Companies - 172
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -18,6 +18,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | AppsFlyer [1](https://twitter.com/ariapplbaum/status/1237293574498238465?s=20) | Required | Restricted | Restricted | Restricted | 2020-03-10 |
 | Asana | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
 | Atlassian | Encouraged | Restricted | ? | ? | 2020-03-06 |
+| Aurora Solar | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | Autodesk | Encouraged | Restricted | ? | Restricted | 2020-03-09 |
 | Blink Health | Allowed | ? | ? | ? | 2020-03-09 |
 | Bluecore | Required | Restricted | Restricted | Restricted | 2020-03-11 |
@@ -28,6 +29,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Bungie[[1]](https://www.bungie.net/en/Explore/Detail/News/48839) | Required | ? | ? | ? | 2020-03-05 |
 | Buzzfeed | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
 | Bugcrowd | Required | Restricted | Restricted | Restricted | 2020-03-09 |
+| Capital One[[1]](https://www.richmond.com/business/capital-one-tells-employees-to-work-remotely-from-home-if/article_8878cb2b-ee98-57d8-938a-7c58215cbcac.html) | Encouraged | Restricted | ? | Restricted | 2020-03-11
 | Cengage | Strongly Encouraged for Boston and Raleigh | Restricted | Restricted | Restricted | 2020-03-11 |
 | charity: water | Required | Restricted | Restricted | Restricted | 2020-3-06 |
 | Chattermill | Encouraged | Discouraged | Discouraged | Restricted | 2020-03-11 |
@@ -55,6 +57,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Drop | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Dropbox | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
 | Dstillery | Encouraged | Discouraged | Restricted | Restricted | 2020-03-10 |
+| Element Analytics| Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | eBay | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | Equinix | Encouraged for Seattle and Bay Area until 4/3 | Restricted| Restricted | Restricted | 2020-03-10 |
 | Expedia | Encouraged, some Required | Restricted | ? | ? | 2020-03-06 |
@@ -66,6 +69,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Fundbox | Required | Restricted | ? | ? | 2020-03-11 |
 | Gem | Optional | Restricted | Restricted | Restricted | 2020-03-11 |
 | General Dynamics | Optional | Restricted | ? | ? | 2020-03-11 |
+| Genworth [[1]](https://www.richmond.com/business/capital-one-tells-employees-to-work-remotely-from-home-if/article_8878cb2b-ee98-57d8-938a-7c58215cbcac.html) | Encouraged | Restricted | ? | Restricted | 2020-03-11
 | GetYourGuide[[1]](https://twitter.com/JohannesReck/status/1237361981008592896) | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | GitHub[[1]](https://github.blog/2020-03-03-covid-19-update-supporting-our-employees-and-community/) | Encouraged | Restricted | ? | ? | 2020-03-04 |
 | Glassdoor[[1]](https://www.glassdoor.com/blog/glassdoor-coronavirus/) | Required | Restricted | Restricted | ? | 2020-03-05 |
@@ -128,12 +132,15 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Polidea | Encouraged | Restricted | Restricted | Restricted | 2020-03-10 |
 | PressCentric | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | ProdPerfect | Encouraged | Restricted | Restricted | Restricted | 2020-03-06 |
+| Quality Unit | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
 | Redfin[[1]](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/) | Encouraged | ? | ? | ? | 2020-03-04 |
 | RingCentral | Encouraged, Recommended for Bay Area | Restricted | ? | ? | 2020-03-08 |
+| Rippling | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Roblox | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | RoboTerra| Required | Restricted | Restricted | Restricted | 2020-03-08 |
 | Salesforce[[1]](https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
 | SAP | Encouraged | Restricted | Restricted | Restricted | 2020-03-05 |
+| SheerID | Encouraged | Restricted | ? | Restricted | 2020-03-11 |
 | Shopify[[1]](https://twitter.com/Shopify/status/1237741373417193476) | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Simpleway | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | Slack | Encouraged, Required in JP | Restricted | ? | Restricted | 2020-03-04 |
@@ -144,6 +151,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Spotify[[1]](https://twitter.com/eldsjal/status/1237487784996343813) | Encouraged | Restricted | Restricted | Restricted | 2020-03-10 |
 | Square[[1]](https://twitter.com/zamosta/status/1234658276781912064) | Encouraged | Restricted | Restricted | Restricted | 2020-03-03 |
 | Squarespace | Allowed | Restricted | Restricted | Restricted | 2020-03-09 |
+| Stitch Fix | Encouraged, Recommended for San Francisco | Restricted | Restricted | Restricted | 2020-03-11 |
 | Stripe[[1]](https://stripe.com/newsroom/news/covid-19) | Encouraged, some Required | Restricted | Restricted | ? |2020-02-29 |
 | SurveyMonkey | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | SUSE[[1]](https://www.suse.com/c/reimagining-susecon-2020/) | Required in serious outbreak areas | Restricted | ? | Restricted | 2020-03-06 |
@@ -169,6 +177,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Workday | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Yelp | Encouraged | Restricted | ? | ? | 2020-03-03 |
 | Zappos | Required | Restricted | Restricted | Restricted | 2020-03-11 |
+| Zendesk | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Zenefits | Required | Restricted | ? | ? | 2020-03-10 |
 | Zeus Living | Required | Restricted | Restricted | Restricted | 2020-03-10 |
 | Zillow | Encouraged | Restricted | ? | ? | 2020-03-06 |
