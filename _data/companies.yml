@@ -145,7 +145,7 @@
   events: Restricted
   last_update: 2020-03-12
 
-- name: Boldare[[1]](https://www.linkedin.com/posts/boldarecom_covid19-activity-6643785340945473537-8XA0)
+- name: Boldare[[1]](https://www.linkedin.com/posts/boldarecom_covid19-activity-6643785340945473537-8XA0) [[2]](https://www.boldare.com/blog/action-plan-regarding-covid-19-virus-outbreak/)
   wfh: Required
   travel: Restricted
   visitors: Restricted
@@ -452,7 +452,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-10
-
+  
 - name: eTeam
   wfh: Encouraged
   travel: Restricted
@@ -1320,13 +1320,6 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
-
-- name: Tripadvisor
-  wfh: Encouraged
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-12
 
 - name: Tubi
   wfh: Encouraged
