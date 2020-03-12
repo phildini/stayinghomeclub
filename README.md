@@ -156,6 +156,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | SUSE[[1]](https://www.suse.com/c/reimagining-susecon-2020/) | Required in serious outbreak areas | Restricted | ? | Restricted | 2020-03-06 |
 | Syncbnb | Encouraged | Restricted | Restricted | Restricted | 2020-03-11 |
 | Tapjoy | Required or Encouraged (by Geo) | Restricted | Restricted | Restricted | 2020-03-07 |
+| Theorem, LLC[[1]](https://twitter.com/theoremco/status/1237987076114530304) | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Telenav[[1]](https://twitter.com/Telenav/status/1233227569249390592) | Encouraged | Restricted | ? | ? | 2020-03-05 |
 | Textio[[1]](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/) | Encouraged | ? | ? | ? | 2020-03-04 |
 | Tubi | Encouraged | ? | ? | ? | 2020-03-05 |
