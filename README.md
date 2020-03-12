@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 159
+## Companies - 161
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -70,6 +70,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Glassdoor[[1]](https://www.glassdoor.com/blog/glassdoor-coronavirus/) | Required | Restricted | Restricted | ? | 2020-03-05 |
 | Glitch | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Google[[1]](https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent) [[2]](https://www.reuters.com/article/us-health-coronavirus-alphabet/google-recommends-all-north-america-employees-to-work-from-home-idUSKBN20X38J?feedType=RSS&feedName=technologyNews) | Encouraged / Geo-specific | Restricted | Restricted | ? | 2020-03-11 |
+| Granular.ag | Required for SF / All others allowed | Restricted | Restricted for SF | Restricted | 2020-03-05 |
 | Groupon | Encouraged | Restricted | ? | Restricted | 2020-03-06 |
 | [Heap](https://github.com/phildini/stayinghomeclub/pull/345) | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | HERE | Encouraged | Restricted | ? | Restricted | 2020-03-05 |
@@ -98,7 +99,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Mozilla | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | NASA Ames[[1]](https://twitter.com/scottbudman/status/1237054027201794049) | Required | ? | ? | ? | 2020-03-09 |
 | NCR Corporation | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
-| NetApp | ? | Restricted | ? | ? | 2020-03-09 |
+| NetApp | Allowed | Restricted | Restricted | Restricted | 2020-03-11 |
 | Netguru[[1]](https://www.linkedin.com/posts/netguru_coronavirus-activity-6643166410015035392-V5E8) | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | Netflix | Encouraged, Geo-specific | Restricted | Restricted | Restricted | 2020-03-11 |
 | Nextdoor | Encouraged | ? | ? | ? | 2020-03-09 |
@@ -115,6 +116,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Orbital Insight | Recommended | Restricted | Restricted | Restricted | 2020-03-11 |
 | Pandora | Optional | Restricted | Restricted | ? | 2020-03-09 |
 | Parler | Required | Restricted | Restricted | Restricted | 2020-03-06 |
+| Patreon | Required | Restricted | Restricted | ? | 2020-03-11 |
 | Philo | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | PingCap | Required for Bay Area | Restricted | Restricted | Restricted | 2020-03-07 |
 | Pinterest | Encouraged | Restricted | Restricted | Partially Restricted | 2020-03-08 |
@@ -168,7 +170,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | HASH | Encouraged | Restricted | Restricted | ? | 2020-03-11 |
 
 <a name="events"></a>
-## Events - 129
+## Events - 130
 
 - [Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html): online-only
 - [Apache Roadshow/Chicago](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences): cancelled
@@ -260,6 +262,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Oracle User Group Irelend (OUG Ireland)](https://twitter.com/MDWidlake/status/1234864869377216515): cancelled
 - [Outreach Unleash 2020](https://www.outreach.io/blog/unleash-20-update): cancelled
 - [Paris Blockchain Week Summit](https://www.pbwsummit.com/): postponed until Dec. 9-10
+- [Pixels Camp](https://blog.pixels.camp/pixels-camp-postponed-fddece7ccc4c): postponed to Nov. 26
 - [Pwn2Own CansSecWest](https://www.thezdi.com/blog/2020/3/3/announcing-remote-participation-in-pwn2own-vancouver): optional remote participation (can attend, or have people on site execute commands/actions ie. on-site not required to participate)
 - [PyCon Italia](https://pycon.it/en/blog/pycon-11-postponed-to-november): moved to November
 - [PyCon SK](https://2020.pycon.sk/en/news.html): moved to September
