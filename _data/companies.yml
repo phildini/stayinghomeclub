@@ -166,6 +166,13 @@
   events: Restricted
   last_update: 2020-03-12
 
+- name: Bookbub
+  wfh: Strongly Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Brex
   wfh: Encouraged, Recommended for San Francisco, Vancouver, New York
   travel: Restricted
@@ -216,6 +223,13 @@
   last_update: 2020-03-09
 
 - name: Cargonexx
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Castle
   wfh: Encouraged
   travel: Restricted
   visitors: Restricted
@@ -466,6 +480,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
+ 
+- name: Elastic[[1]](https://www.elastic.co/blog/elastic-covid-19-update)
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-06
 
 - name: Equinix
   wfh: Encouraged for Seattle and Bay Area until 4/3
@@ -579,6 +600,13 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: Ghostery
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: GitHub[[1]](https://github.blog/2020-03-03-covid-19-update-supporting-our-employees-and-community/)
   wfh: Encouraged
   travel: Restricted
@@ -656,11 +684,11 @@
   events: Restricted
   last_update: 2020-03-12
 
-- name: Hostinger 
-  wfh: Required 
-  travel: Restricted 
-  visitors: Restricted 
-  events: Restricted 
+- name: Hostinger
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
   last_update: 2020-03-12
 
 - name: Houzz
@@ -830,7 +858,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
-  
+
 - name: Mattermost
   wfh: Required
   travel: Non-critical restricted
@@ -844,6 +872,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
+  
+- name: Medium
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Microsoft[[1]](https://www.theverge.com/2020/3/4/21164522/microsoft-coronavirus-response-comment-employees-memo-work-from-home)
   wfh: Limited / Geo-specific
@@ -851,6 +886,20 @@
   visitors: "?"
   events: "?"
   last_update: 2020-03-03
+
+- name: MindDoc Health
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Moz[[1]](https://www.geekwire.com/2020/coronavirus-live-updates-seattle-tech-community-grappling-covid-19/2/)
+  wfh: Required
+  travel: Restricted
+  visitors: "Restricted"
+  events: "Restricted"
+  last_update: 2020-03-12
 
 - name: Mozilla
   wfh: Encouraged
@@ -1160,6 +1209,13 @@
   events: Restricted
   last_update: 2020-03-03
 
+- name: Salsify
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
 - name: SAP
   wfh: Encouraged
   travel: Restricted
@@ -1292,14 +1348,14 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-09
-  
+
 - name: Strava
   wfh: Encouraged, some required
   travel: Suspended
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
-  
+
 - name: Stripe[[1]](https://stripe.com/newsroom/news/covid-19)
   wfh: Encouraged, some Required
   travel: Restricted
@@ -1342,12 +1398,26 @@
   events: Restricted
   last_update: 2020-03-12
 
+- name: Tech9
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Telenav[[1]](https://twitter.com/Telenav/status/1233227569249390592)
   wfh: Encouraged
   travel: Restricted
   visitors: "?"
   events: "?"
   last_update: 2020-03-05
+
+- name: Temper
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: test IO
   wfh: Recommended
@@ -1690,4 +1760,11 @@
   travel: Restricted
   visitors: Restricted
   events: Restricted
+  last_update: 2020-03-12
+
+- name: upGrad
+  wfh: Encouraged
+  travel: Discouraged
+  visitors: Discouraged
+  events: Discouraged
   last_update: 2020-03-12
