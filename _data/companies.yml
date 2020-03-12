@@ -1418,6 +1418,13 @@
   visitors: "?"
   events: "?"
   last_update: 2020-03-11
+  
+- name: Smile.io
+  wfh: Required
+  travel: Suspended
+  visitors: Suspended
+  events: Suspended
+  last_update: 2020-03-12
 
 - name: SoftServe
   wfh: Encouraged
