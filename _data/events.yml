@@ -420,3 +420,6 @@
 
 - name: "[WordCamp Jacksonville 2020](https://2020.jacksonville.wordcamp.org/)"
   status: cancelled
+
+- name: "[WordCamp Europe 2020](https://2020.europe.wordcamp.org/2020/03/12/important-notice-wordcamp-europe-postponed/)"
+  status: postponed to 2021
