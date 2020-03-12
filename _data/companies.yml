@@ -1461,6 +1461,13 @@
   events: "?"
   last_update: 2020-03-11
 
+- name: sofatutor
+  wfh: Required
+  travel: "?"
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: SoftServe
   wfh: Encouraged
   travel: Restricted
