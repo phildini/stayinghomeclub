@@ -121,7 +121,7 @@
   wfh: Required
   travel: Restricted
   visitors: Restricted
-  events: ?
+  events: "?"
   last_update: 2020-03-12
 
 - name: Bitwala
