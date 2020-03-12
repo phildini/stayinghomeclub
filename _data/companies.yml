@@ -1222,3 +1222,10 @@
   visitors: "?"
   events: Restricted
   last_update: 2020-03-11
+  
+- name: Lovoo 
+  wfh: Required 
+  travel: "?" 
+  visitors: Restricted 
+  events: "?" 
+  last_update: 2020-03-13 
