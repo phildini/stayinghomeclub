@@ -3,7 +3,7 @@
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness.
 
 <a name="companies"></a>
-## Companies - 169
+## Companies - 170
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
@@ -28,6 +28,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Bungie[[1]](https://www.bungie.net/en/Explore/Detail/News/48839) | Required | ? | ? | ? | 2020-03-05 |
 | Buzzfeed | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
 | Bugcrowd | Required | Restricted | Restricted | Restricted | 2020-03-09 |
+| Capital One[[1]](https://www.richmond.com/business/capital-one-tells-employees-to-work-remotely-from-home-if/article_8878cb2b-ee98-57d8-938a-7c58215cbcac.html) | Encouraged | Restricted | ? | Restricted | 2020-03-11
 | Cengage | Strongly Encouraged for Boston and Raleigh | Restricted | Restricted | Restricted | 2020-03-11 |
 | charity: water | Required | Restricted | Restricted | Restricted | 2020-3-06 |
 | Chattermill | Encouraged | Discouraged | Discouraged | Restricted | 2020-03-11 |
@@ -67,6 +68,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Fundbox | Required | Restricted | ? | ? | 2020-03-11 |
 | Gem | Optional | Restricted | Restricted | Restricted | 2020-03-11 |
 | General Dynamics | Optional | Restricted | ? | ? | 2020-03-11 |
+| Genworth [[1]](https://www.richmond.com/business/capital-one-tells-employees-to-work-remotely-from-home-if/article_8878cb2b-ee98-57d8-938a-7c58215cbcac.html) | Encouraged | Restricted | ? | Restricted | 2020-03-11
 | GetYourGuide[[1]](https://twitter.com/JohannesReck/status/1237361981008592896) | Required | Restricted | Restricted | Restricted | 2020-03-11 |
 | GitHub[[1]](https://github.blog/2020-03-03-covid-19-update-supporting-our-employees-and-community/) | Encouraged | Restricted | ? | ? | 2020-03-04 |
 | Glassdoor[[1]](https://www.glassdoor.com/blog/glassdoor-coronavirus/) | Required | Restricted | Restricted | ? | 2020-03-05 |
