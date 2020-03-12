@@ -75,6 +75,13 @@
   events: Restricted
   last_update: 2020-03-12
 
+- name: Alteryx
+  wfh: Strongly encouraged for New York and Redwood City offices
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Anvyl
   wfh: Required
   travel: Restricted
@@ -292,6 +299,13 @@
   events: Restricted
   last_update: 2020-03-09
 
+- name: CAE [[1]](http://infocae.goclenche.com/)
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Cargonexx
   wfh: Encouraged
   travel: Restricted
@@ -468,11 +482,11 @@
   last_update: 2020-03-05
 
 - name: Culture Amp
-  wfh: Encouraged
+  wfh: Required
   travel: Restricted
   visitors: Restricted
   events: Restricted
-  last_update: 2020-03-10
+  last_update: 2020-03-12
 
 - name: Data Respons R&D Services AS
   wfh: Encouraged
@@ -585,6 +599,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-10
+  
+- name: Dutchie
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: eBay
   wfh: Encouraged
@@ -1216,6 +1237,13 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: Olo
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: OneFit
   wfh: Encouraged
   travel: Restricted
@@ -1607,6 +1635,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
+  
+- name: Sonos
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Soundtrack Your Brand
   wfh: Encouraged
@@ -1950,6 +1985,13 @@
   visitors: "?"
   events: "?"
   last_update: 2020-03-06
+  
+- name: Zipari
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Zulily
   wfh: Encouraged
@@ -2105,6 +2147,13 @@
   events: Restricted
   last_update: 2020-03-12
 
+- name: Ataccama
+  wfh: Required
+  travel: Banned
+  visitors: Restricted
+  events: Banned
+  last_update: 2020-03-12
+  
 - name: Motorola Solutions
   wfh: Strongly encouraged where possible, until at least 2020-04-06
   travel: Restricted
@@ -2168,9 +2217,16 @@
   events: Restricted
   last_update: 2020-03-12
 
-  name: Vicert Inc
+- name: Vicert Inc
   wfh: Encouraged
   travel: Restricted
   visitors: Restricted
   events: Restricted
+  last_update: 2020-03-12
+
+- name: Smile CDR
+  wfh: Encouraged
+  travel: Discouraged 
+  visitors: Discouraged
+  events: Discouraged 
   last_update: 2020-03-12
