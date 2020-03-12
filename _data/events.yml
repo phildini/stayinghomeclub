@@ -37,6 +37,9 @@
 - name: "[AWS Summit Sydney](https://aws.amazon.com/events/summits/sydney/)"
   status: cancelled
 
+- name: "[Avid Connect](https://www.avid.com/connect)"
+  status: cancelled    
+
 - name: "[Berlin March Golang Meetup](https://www.meetup.com/golang-users-berlin/events/265472557)"
   status: online-only
 
@@ -44,7 +47,7 @@
   status: postponed to Q3
 
 - name: "[Black Hat Asia](https://www.blackhat.com/asia-20/travel-updates.html)"
-  status: postponed until September 29 - Octobe"r 2"
+  status: postponed until September 29 - October 2
 
 - name: "[BountyCon](https://www.facebook.com/notes/facebook-bug-bounty/an-update-on-bountycon/3278348118846058/)"
   status: postponed
@@ -57,6 +60,9 @@
 
 - name: "[California Association for Behavior Analysis Conference](https://calaba.org/conference)"
   status: cancelled
+
+- name: "[CampaignTech East](https://campaigntecheast.com/)"
+  status: postponed until June 25-26
 
 - name: "[Cisco Live Melbourne](https://www.ciscolive.com/apjc.html)"
   status: cancelled
@@ -87,7 +93,10 @@
 
 - name: "[DevRelCon Tokyo](https://tokyo-2020.devrel.net/information/2020/02/13/devrelcon-tokyo-has-canceled_en.html)"
   status: cancelled
-
+ 
+- name: "[Digital Animal Summit 2020](https://www.digitalanimalsummit.com/)"
+  status: postponed
+  
 - name: "[DocuSign Momentum - San Francisco](https://momentum.docusign.com/faq)"
   status: online-only
 
@@ -259,6 +268,9 @@
 - name: "[Open Compute Project Global Summit](https://www.opencompute.org/blog/we-are-moving-the-2020-ocp-global-summit-to-an-interactive-virtual-global-summit)"
   status: changed to a virtual event
 
+- name: "[Open edX Conference](https://open.edx.org/blog/cancelling-the-in-person-2020-open-edx-conference/)"
+  status: changed to a virtual event
+
 - name: "[Open Hardware Summit](https://2020.oshwa.org/2020/03/08/the-2020-open-hardware-summit-is-going-virtual/)"
   status: changed to a virtual event
 
@@ -340,6 +352,9 @@
 - name: "[SNUG Silicon Valley](https://www.synopsys.com/community/snug/snug-silicon-valley.html)"
   status: cancelled
 
+- name: "[SQLBits](https://sqlbits.com/)"
+  status: Postponed until September
+
 - name: "[SRECon Americas West](https://www.usenix.org/conferences/coronavirus)"
   status: postponed until June
 
@@ -394,3 +409,8 @@
 - name: "[Workshop on Formal Methods for Cryptographic Proofs](https://fmcpworkshop.onai.com)"
   status: changed to primarily online
 
+- name: "[WordCamp Retreat Soltau 2020](https://2020-soltau.retreat.wordcamp.org/)"
+  status: postponed to 2021
+
+- name: "[WordCamp Jacksonville 2020](https://2020.jacksonville.wordcamp.org/)"
+  status: cancelled
