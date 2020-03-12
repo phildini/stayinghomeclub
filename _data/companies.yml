@@ -1656,3 +1656,10 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
+
+- name: Ataccama
+  wfh: Strongly encouraged
+  travel: Banned
+  visitors: Restricted
+  events: Banned
+  last_update: 2020-03-12
