@@ -27,7 +27,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Buzzfeed | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
 | Bugcrowd | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | charity: water | Required | Restricted | Restricted | Restricted | 2020-3-06 |
-| Cengage | Strongly Encouraged for Boston and Raleigh | Restricted | Restricted | Restricted | 2020-03-11 |
+| Cengage | Strongly Encouraged for all locations | Restricted | Restricted | Restricted | 2020-03-13 |
 | CloudLinux |Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Cisco | Required | Restricted | Restricted | Restricted | 2020-03-09 |
 | Cloudflare | ? | Restricted | Restricted | Restricted | 2020-03-04 |
