@@ -1005,6 +1005,13 @@
   visitors: Restricted
   events: "?"
   last_update: 2020-03-11
+  
+- name: GoPro
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: "?"
+  last_update: 2020-03-12
 
 - name: Grammarly[[1]](https://www.grammarly.com/blog/covid-19-safety/)
   wfh: Required
@@ -1796,6 +1803,13 @@
   visitors: "?"
   events: "?"
   last_update: 2020-03-04
+  
+- name: RedHat
+  wfh: Encouraged
+  travel: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-13
 
 - name: RingCentral
   wfh: Encouraged, Recommended for Bay Area
