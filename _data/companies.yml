@@ -404,13 +404,6 @@
   events: Restricted
   last_update: 2020-03-09
 
-- name: BytePitch
-  wfh: Required
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-13
-
 - name: CAE [[1]](http://infocae.goclenche.com/)
   wfh: Encouraged
   travel: Restricted
@@ -522,13 +515,6 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-09
-
-- name: Civis Analytics
-  wfh: Required
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-13
 
 - name: Cloudflare[[1]](https://blog.cloudflare.com/cloudflare-during-the-coronavirus-emergency/)
   wfh: Encouraged
@@ -699,11 +685,11 @@
   last_update: 2020-03-05
 
 - name: DigitalOcean
-  wfh: Required
+  wfh: Encouraged
   travel: Restricted
   visitors: Restricted
   events: Restricted
-  last_update: 2020-03-13
+  last_update: 2020-03-12
 
 - name: Distillery
   wfh: Encouraged
@@ -805,6 +791,13 @@
 
 - name: Elastic[[1]](https://www.elastic.co/blog/elastic-covid-19-update)
   wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Elation Health
+  wfh: Mandatory, with exceptions
   travel: Restricted
   visitors: Restricted
   events: Restricted
@@ -1145,13 +1138,6 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-09
-  
-- name: HPI
-  wfh: Required
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-13
 
 - name: Hubspot
   wfh: Encouraged
@@ -2014,13 +2000,6 @@
   events: Restricted
   last_update: 2020-03-04
 
-- name: Slicelife.com
-  wfh: Required in US & UK. Partially implemented & ongoing evaluation in Macedonia
-  travel: Prohibited
-  visitors: Restricted
-  events: Cancelled
-  last_update: 2020-03-13
-  
 - name: Slido
   wfh: Required
   travel: Restricted
