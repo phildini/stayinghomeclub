@@ -2,13 +2,15 @@
 
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness. If you are a journalist and would like to speak to someone about the list, email phildini@phildini.net.
 
+<a href="https://github.com/phildini/stayinghomeclub/blob/master/README.md">Instructions for contributing are here</a>.
+
 Skip to: <a href="#companies">Companies</a>. Skip to: <a href="#events">Events</a>. Skip to: <a href="#universities">Universities</a>.
 
 <a name="companies"></a>
 ## Companies - {{ site.data.companies | size }}
-{% assign sorted = (site.data.companies | sort: 'name') %}
-{% assign wfh_required = (site.data.companies | where_exp:"item", "item.wfh contains 'Required'" | size ) %}
-{% assign wfh_encouraged = (site.data.companies | where_exp:"item", "item.wfh contains 'Encouraged'" | size ) %}
+{% assign sorted = site.data.companies | sort: 'name' %}
+{% assign wfh_required = site.data.companies | where_exp:"item", "item.wfh contains 'Required'" | size %}
+{% assign wfh_encouraged = site.data.companies | where_exp:"item", "item.wfh contains 'Encouraged'" | size %}
 
 *Work from home required: **{{ wfh_required}}**, Work from home encouraged: **{{ wfh_encouraged }}***
 
@@ -20,7 +22,7 @@ Skip to: <a href="#companies">Companies</a>. Skip to: <a href="#events">Events</
 Back to top: <a href="#companies">Companies</a>
 
 <a name="events"></a>
-{% assign cancelled = (site.data.events | where_exp:"item", "item.status contains 'cancelled'"  | size)%}
+{% assign cancelled = site.data.events | where_exp:"item", "item.status contains 'cancelled'" | size %}
 
 ## Events - {{ site.data.events | size }}
 
@@ -40,7 +42,7 @@ Back to top: <a href="#companies">Companies</a>, <a href="#events">Events</a>
     {% assign status = university[1].status | downcase %}
     {% assign statuses = statuses | push: status %}
 {% endfor %}
-{% assign remote_count = (statuses | where_exp:"status", "status contains 'remote'" | size)%}
+{% assign remote_count = statuses | where_exp:"status", "status contains 'remote'" | size %}
 *Universities moving to remote teaching: **{{remote_count}}***
 
 {% for university_hash in site.data.universities -%}
