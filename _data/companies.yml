@@ -41,11 +41,11 @@
   last_update: 2020-03-12
 
 - name: Adobe[[1]](https://www.npr.org/2020/03/03/811728989/coronavirus-cancellations-and-travel-bans-google-is-latest)[[2]](https://twitter.com/AdobeNews/status/1236758404330389504)
-  wfh: Encouraged / Directed for Seattle and Bay Area till 03/23/20
-  travel: Restricted
+  wfh: Encouraged / Directed  till 04/12/20
+  travel: Prohibited
   visitors: "?"
   events: "?"
-  last_update: 2020-03-09
+  last_update: 2020-03-12
 
 - name: Ageno[[1]](https://blog.ageno.pl/praca-zdalna-2e1eb73db8b3)
   wfh: Encouraged
