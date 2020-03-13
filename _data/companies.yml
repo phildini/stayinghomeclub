@@ -1,3 +1,10 @@
+- name: CAKE Websites & More, LLC [[1]](https://www.cakewebsites.com/)
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
 - name: Go Moment
   wfh: Encouraged
   travel: Restricted
@@ -1985,6 +1992,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
+
+- name: Sovereign Stack, LLC [[1]](https://sovstack.com/)
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
 
 - name: Sparkgeo
   wfh: Recommended
