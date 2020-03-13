@@ -1054,8 +1054,8 @@
   visitors: "?"
   events: "?"
   last_update: 2020-03-06
-  
-  - name: Lyric Hospitality
+
+- name: Lyric Hospitality
   wfh: Required
   travel: Restricted
   visitors: Restricted
