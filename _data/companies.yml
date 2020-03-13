@@ -960,9 +960,9 @@
 - name: GitHub[[1]](https://github.blog/2020-03-03-covid-19-update-supporting-our-employees-and-community/)
   wfh: Encouraged
   travel: Restricted
-  visitors: "?"
-  events: "?"
-  last_update: 2020-03-04
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
 
 - name: GiveCampus
   wfh: Encouraged
