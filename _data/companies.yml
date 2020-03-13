@@ -1026,7 +1026,7 @@
   visitors: Restricted
   events: "?"
   last_update: 2020-03-11
-
+  
 - name: GoPro
   wfh: Encouraged
   travel: Restricted
@@ -1145,7 +1145,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-09
-
+  
 - name: HPI
   wfh: Required
   travel: Restricted
@@ -1355,7 +1355,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
-
+  
 - name: MageXo
   wfh: Required
   travel: Restricted
@@ -1845,7 +1845,7 @@
   visitors: "?"
   events: "?"
   last_update: 2020-03-04
-
+  
 - name: RedHat
   wfh: Encouraged
   travel: Restricted
@@ -2027,7 +2027,7 @@
   visitors: Restricted
   events: Cancelled
   last_update: 2020-03-13
-
+  
 - name: Slido
   wfh: Required
   travel: Restricted
@@ -2258,7 +2258,7 @@
   visitors: "?"
   events: Restricted
   last_update: 2020-03-13
-
+  
 - name: Thinkific
   wfh: Encouraged
   travel: Restricted
@@ -2321,7 +2321,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-13
-
+  
 - name: Turnitin
   wfh: Required
   travel: Restricted
@@ -2482,7 +2482,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-13
-
+  
 - name: Welps
   wfh: Required
   travel: Restricted
@@ -2853,28 +2853,28 @@
   visitors: "?"
   events: "?"
   last_update: 2020-03-13
-
+  
 - name: Nexmo
   wfh: Encouraged
   travel: Restricted
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-13
-
+  
 - name: Vonage London
   wfh: Encouraged
   travel: Restricted
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-13
-
+  
 - name: 2GIS
   wfh: Encouraged
   travel: Restricted
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-13
-
+  
 - name: Looka
   wfh: Encouraged, some Required
   travel: Restricted
