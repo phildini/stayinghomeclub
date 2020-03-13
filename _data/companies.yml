@@ -2735,7 +2735,7 @@
   events: Restricted
   last_update: 2020-03-13
   
-- name: AndonCloud[[1]](https://mailchi.mp/b01aee90ed4f/informacja-na-temat-funkcjonowania-andoncloud-w-zwizku-z-covid-19)
+- name: AndonCloud
   wfh: Required
   travel: Restricted
   visitors: Restricted
