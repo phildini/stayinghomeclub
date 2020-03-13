@@ -678,11 +678,11 @@
   last_update: 2020-03-05
 
 - name: DigitalOcean
-  wfh: Encouraged
+  wfh: Required
   travel: Restricted
   visitors: Restricted
   events: Restricted
-  last_update: 2020-03-12
+  last_update: 2020-03-13
 
 - name: Distillery
   wfh: Encouraged
