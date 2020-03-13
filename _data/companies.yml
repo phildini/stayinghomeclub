@@ -1544,6 +1544,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
+  
+- name: Sanctuary Computer
+  wfh: Encouraged
+  travel: Discouraged
+  visitors: Discouraged
+  events: "?"
+  last_update: 2020-03-12
 
 - name: Sandstream Development Sp. z o.o.
   wfh: Required
