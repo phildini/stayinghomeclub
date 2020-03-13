@@ -872,6 +872,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-01
+  
+- name: FinancialForce
+  wfh: Required
+  travel: Restricted
+  visitors: Prohibited
+  events: Prohibited
+  last_update: 2020-03-13
 
 - name: FREE NOW
   wfh: Recommended, Required for some areas
