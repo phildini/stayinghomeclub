@@ -36,7 +36,6 @@ You will need a Github account.
 
 1. Thank you for helping us keep this site up-to-date! 🙏
 
-
 ## For developers
 
 You may want to run the site locally, to see what it looks like while
@@ -46,19 +45,19 @@ these are the basic steps.  We assume you know a little bit of Ruby.
 First, you'll need Ruby Bundler, which manages this project's
 dependencies.
 
-```
+```shell
 gem install bundler -v 2.1.4
 ```
 
 Now, install the required Gems.
 
-```
+```shell
 bundle install
 ```
 
 When that's done, run the development server.
 
-```
+```shell
 bundle exec jekyll serve
 ```
 
