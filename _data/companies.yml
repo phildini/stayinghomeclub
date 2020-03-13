@@ -1110,6 +1110,13 @@
   visitors: N/A
   events: Restricted
   last_update: 2020-03-09
+  
+- name: McGraw-Hill
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
 
 - name: Medaptive Health
   wfh: Required
