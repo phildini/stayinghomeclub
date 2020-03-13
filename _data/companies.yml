@@ -1608,6 +1608,13 @@
   events: Restricted
   last_update: 2020-03-12
 
+- name: Quizlet
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Red Canary
   wfh: Required
   travel: Restricted
