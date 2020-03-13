@@ -172,6 +172,9 @@
 - name: "[Fast Software Encryption (FSE) 2020](https://fse.iacr.org/2020/)"
   status: postponed
 
+- name: "[Fire Department Insstructors Conference (FDIC) 2020](https://www.fdic.com/)"
+  status: postponed
+
 - name: "[FIRST Cyber Threat Intelligence Symposium 2020 (FIRST CTI)](https://www.first.org/events/symposium/zurich2020/)"
   status: cancelled
 
