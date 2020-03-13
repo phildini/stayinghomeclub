@@ -325,6 +325,9 @@
 - name: "[Open Hardware Summit](https://2020.oshwa.org/2020/03/08/the-2020-open-hardware-summit-is-going-virtual/)"
   status: changed to a virtual event
 
+- name: "[Oppo Launch event](https://mspoweruser.com/oppo-and-xiaomi-postpone-their-mwc-2020-launch-event/)"
+  status: postponed
+
 - name: "[Oracle Modern Business Experience](https://www.oracle.com/modern-business-experience/)"
   status: postponed until Sep. 21-24 to coincide with OpenWorld
 
@@ -480,3 +483,7 @@
 
 - name: "[WordCamp Europe 2020](https://2020.europe.wordcamp.org/2020/03/12/important-notice-wordcamp-europe-postponed/)"
   status: postponed to 2021
+
+- name: "[Xiaomi Launch event](https://mspoweruser.com/oppo-and-xiaomi-postpone-their-mwc-2020-launch-event/)"
+  status: postponed
+
