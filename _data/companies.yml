@@ -564,6 +564,13 @@
   visitors: Allowed
   events: Restricted
   last_update: 2020-03-12
+  
+- name: Dixa
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
 
 - name: Dockwa
   wfh: Required
