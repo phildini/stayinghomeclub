@@ -3,6 +3,9 @@
 
 - name: "[Adobe ColdFusion Summit East 2020](https://carahevents.carahsoft.com/CFSummit2020/)"
   status: cancelled
+
+- name: "[Agoric Speaker Series](https://www.eventbrite.com/e/postponed-rethinking-distributed-programming-tickets-97404019043)"
+  status: postponed
   
 - name: "[American Quarter Horse Association Convention 2020](https://www.aqha.com/-/2020-aqha-convention?redirect=/)"
   status: cancelled
@@ -37,6 +40,9 @@
 - name: "[AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/)"
   status: cancelled
 
+- name: "[AWS Summit San Francisco 2020](https://aws.amazon.com/events/summits/san-francisco/2020/)"
+  status: cancelled
+
 - name: "[AWS Summit Sydney](https://aws.amazon.com/events/summits/sydney/)"
   status: cancelled
 
@@ -60,7 +66,10 @@
 
 - name: "[BSides Liverpool](https://twitter.com/BsidesLivrpool/status/1235988839623266304)"
   status: postponed until later this year
-
+  
+- name: "[BSides Orlando](https://twitter.com/BsidesORL/status/1237724082206052354)"
+  status: postponed
+  
 - name: "[California Association for Behavior Analysis Conference](https://calaba.org/conference)"
   status: cancelled
 
@@ -75,9 +84,18 @@
 
 - name: "[Coachella](https://www.cnn.com/2020/03/10/entertainment/coachella-postponed-coronavirus/index.html)"
   status: reportedly postponed to October
+  
+  - name: "[CocoaHeads Russia](https://www.patreon.com/posts/34821143)"
+  status: online-only
+  
+- name: "[Code for America Summit](https://www.codeforamerica.org/news/important-announcement-regarding-code-for-america-summit-2020)"
+  status: cancelled
 
 - name: "[Collision](https://collisionconf.com/)"
   status: moving to virtual event
+
+- name: "[Cruisin' for a Bluesin'](https://mailchi.mp/04231504de9e/important-pls-read-c4ab20-cancellation-details)"
+  status: cancelled
 
 - name: "[Deconstruct](https://www.deconstructconf.com/)"
   status: cancelled
@@ -118,6 +136,9 @@
 - name: "[Dreamforce World Tour (Sydney)](https://www.arnnet.com.au/article/671175/salesforce-world-tour-sydney-goes-digital-amid-coronavirus-fears/)"
   status: cancelled
 
+- name: "[Drupal Dev Days 2020](https://drupalcamp.be/en/drupal-dev-days-2020/coronavirus)"
+  status: postponed, no date given
+
 - name: "[E3 2020](https://arstechnica.com/gaming/2020/03/e3-2020-has-been-canceled/)"
   status: canceled
 
@@ -129,6 +150,9 @@
 
 - name: "[Emerald City Comic Con (ECCC)](https://www.emeraldcitycomiccon.com/About/A-Statement-From-Reedpop/)"
   status: postponed until summer
+
+- name: "[EVE Online Fanfest](https://www.eveonline.com/article/q6f8js/eve-fanfest-2020-canceled)"
+  status: canceled
 
 - name: "[EmTech Asia](https://emtechasia.com/)"
   status: postponed until August
@@ -146,6 +170,9 @@
   status: cancelled
 
 - name: "[Fast Software Encryption (FSE) 2020](https://fse.iacr.org/2020/)"
+  status: postponed
+
+- name: "[Fire Department Insstructors Conference (FDIC) 2020](https://www.fdic.com/)"
   status: postponed
 
 - name: "[FIRST Cyber Threat Intelligence Symposium 2020 (FIRST CTI)](https://www.first.org/events/symposium/zurich2020/)"
@@ -220,6 +247,12 @@
 - name: "[Kentico Partner Summit Q2 2020](https://www.eventbrite.com/e/q2-2020-kentico-partner-summit-tickets-91103997509)"
   status: postponed until later this year
 
+- name: "[KernelCon 2020](https://kernelcon.org/virtual)"
+  status: online-only
+
+- name: "[Lead Dev New York 2020](https://newyork2020.theleaddeveloper.com/covid-19-update)"
+  status: postponed until August 11 & 12, 2020
+
 - name: "[Lesbians Who Tech](https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20)"
   status: postponed until August 6-8, 2020 pending developments
 
@@ -256,11 +289,17 @@
 - name: "[National Association of Broadcasters (NAB)](https://nabshow.com/2020/attend/onsite-services/coronavirus-update-and-resources/)"
   status: cancelled
 
+- name: "[Neo4j GraphConnect](https://graphconnect.com/#health)"
+  status: cancelled, considering a virtual event
+
 - name: "[NetApp INSIGHT](https://blog.netapp.com/postponing-netapp-insight-paris-and-berlin-events/)"
   status: postponed
 
 - name: "[NG-CONF](https://www.ng-conf.org/)"
   status: changed to a virtual event
+
+- name: "[Nike LA 13.1 Half Marathon](https://www.nike.com/us/en_us/e/cities/losangeles/la-131)"
+  status: cancelled
 
 - name: "[Nvidia GPU Technology Conference (GTC) 2020](https://www.theverge.com/2020/3/2/21161635/nvidias-gpu-technology-conference-gtc-online-only-coronavirus)"
   status: online-only
@@ -270,6 +309,9 @@
 
 - name: "[Oktane](https://www.oktane20.com/)"
   status: changed to a virtual event
+  
+- name: "[Onspring Connect](https://onspring.com/connect/updatefaq/)"
+  status: postponed until Aug. 10-12
 
 - name: "[Open Compute Project Global Summit](https://www.opencompute.org/blog/we-are-moving-the-2020-ocp-global-summit-to-an-interactive-virtual-global-summit)"
   status: changed to a virtual event
@@ -291,6 +333,9 @@
 
 - name: "[Paris Blockchain Week Summit](https://www.pbwsummit.com/)"
   status: postponed until Dec. 9-10
+
+- name: "[Percona Live Austin](https://www.perconalive.com/event/912fe685-e6c9-44f4-9ee0-c700fda1f409/websitePage:89cb3189-2ac4-4f4a-b511-97e5c8dc959f?5S%2CM3%2C912fe685-e6c9-44f4-9ee0-c700fda1f409=)"
+  status: postponed
 
 - name: "[Pixels Camp](https://blog.pixels.camp/pixels-camp-postponed-fddece7ccc4c)"
   status: postponed to Nov. 26
@@ -343,6 +388,9 @@
 - name: "[SAS Global Forum](https://www.sas.com/en_us/events/sas-global-forum/announcement.html)"
   status: in-person canceled; online-only event
 
+- name: "[SearchNorwich 11](https://searchnorwich.org/searchnorwich-11-cancelled/)"
+  status: cancelled
+
 - name: "[Security Analyst Summit](https://twitter.com/TheSAScon/status/1234911915773583361)"
   status: cancelled
 
@@ -357,6 +405,9 @@
 
 - name: "[SNUG Silicon Valley](https://www.synopsys.com/community/snug/snug-silicon-valley.html)"
   status: cancelled
+
+- name: "[Southern Data Science Conference](https://www.southerndatascience.com/covid19)"
+  status: Postponed until August 12-14  
 
 - name: "[SQLBits](https://sqlbits.com/)"
   status: Postponed until September
@@ -384,6 +435,9 @@
 
 - name: "[TSConf EU](https://twitter.com/tsconfeu/status/1235135186033139713)"
   status: postponed
+
+- name: "[Twilio SIGNAL](https://www.twilio.com/blog/twilio-events-update-through-may-2020)"
+  status: Postponed until September 30th-October 1st
 
 - name: "[TwitchCon Amsterdam](https://twitter.com/TwitchCon/status/1235942102556651521?s=20)"
   status: cancelled
@@ -420,3 +474,6 @@
 
 - name: "[WordCamp Jacksonville 2020](https://2020.jacksonville.wordcamp.org/)"
   status: cancelled
+
+- name: "[WordCamp Europe 2020](https://2020.europe.wordcamp.org/2020/03/12/important-notice-wordcamp-europe-postponed/)"
+  status: postponed to 2021
