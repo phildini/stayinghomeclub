@@ -1250,6 +1250,14 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
+  
+- name: Kraft & Kennedy
+  wfh: Encouraged, Recommended for New York
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
 
 - name: Ladder Life
   wfh: Encouraged
