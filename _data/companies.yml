@@ -165,6 +165,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
+  
+- name: Aspire Systems Poland
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
 
 - name: Atlassian
   wfh: Encouraged
