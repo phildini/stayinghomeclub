@@ -2482,3 +2482,10 @@
   visitors: "?"
   events: Discouraged
   last_update: 2020-03-13
+
+- name: Anthemis
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
