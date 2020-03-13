@@ -2391,6 +2391,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-13
+  
+  - name: Welps
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
 
 - name: Zappos
   wfh: Required
