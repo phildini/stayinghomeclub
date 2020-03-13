@@ -40,6 +40,9 @@
 - name: "[AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/)"
   status: cancelled
 
+- name: "[AWS Summit San Francisco 2020](https://aws.amazon.com/events/summits/san-francisco/2020/)"
+  status: cancelled
+
 - name: "[AWS Summit Sydney](https://aws.amazon.com/events/summits/sydney/)"
   status: cancelled
 
@@ -82,11 +85,17 @@
 - name: "[Coachella](https://www.cnn.com/2020/03/10/entertainment/coachella-postponed-coronavirus/index.html)"
   status: reportedly postponed to October
   
+- name: "[CocoaHeads Russia](https://www.patreon.com/posts/34821143)"
+  status: online-only
+  
 - name: "[Code for America Summit](https://www.codeforamerica.org/news/important-announcement-regarding-code-for-america-summit-2020)"
   status: cancelled
 
 - name: "[Collision](https://collisionconf.com/)"
   status: moving to virtual event
+
+- name: "[Crestron Masters 2020](https://www.crestron.com/Training-Events/Masters-2020)"
+  status: postponed
 
 - name: "[Cruisin' for a Bluesin'](https://mailchi.mp/04231504de9e/important-pls-read-c4ab20-cancellation-details)"
   status: cancelled
@@ -164,6 +173,9 @@
   status: cancelled
 
 - name: "[Fast Software Encryption (FSE) 2020](https://fse.iacr.org/2020/)"
+  status: postponed
+
+- name: "[Fire Department Insstructors Conference (FDIC) 2020](https://www.fdic.com/)"
   status: postponed
 
 - name: "[FIRST Cyber Threat Intelligence Symposium 2020 (FIRST CTI)](https://www.first.org/events/symposium/zurich2020/)"
