@@ -564,7 +564,7 @@
   visitors: Allowed
   events: Restricted
   last_update: 2020-03-12
-  
+
 - name: Dixa
   wfh: Required
   travel: Restricted
