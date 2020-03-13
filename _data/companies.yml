@@ -201,6 +201,13 @@
   events: Restricted
   last_update: 2020-03-12
 
+- name: Axosoft [[1]](https://blog.axosoft.com/best-tools-remote-dev-teams/)
+  wfh: Required
+  travel: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-10
+
 - name: Begin
   wfh: Required
   travel: Restricted
@@ -214,6 +221,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-13
+
+- name: Biogen [[1]](https://www.bostonglobe.com/2020/03/11/business/sudden-real-life-test-remote-work/)
+  wfh: Required
+  travel: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-11
 
 - name: Bitdefender
   wfh: Required
@@ -523,6 +537,13 @@
   events: Restricted
   last_update: 2020-03-05
 
+- name: Culhane Meadows Haughian & Walsh [[1]](https://www.law.com/americanlawyer/2020/03/12/what-can-be-learned-from-virtual-firms-as-coronavirus-necessitates-remote-work/)
+  wfh: Required
+  travel: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-12
+
 - name: Culture Amp
   wfh: Required
   travel: Restricted
@@ -780,6 +801,13 @@
   travel: Discouraged
   visitors: Discouraged
   events: Discouraged
+  last_update: 2020-03-12
+
+- name: Gallup [[1]](https://www.gallup.com/workplace/288956/covid-teams-working-remotely-guide-leaders.aspx)
+  wfh: Required (For some teams in US)
+  travel: "?"
+  visitors: "?"
+  events: "?"
   last_update: 2020-03-12
 
 - name: Gameforge
@@ -1749,11 +1777,11 @@
   last_update: 2020-03-12
 
 - name: Springboard (aka SlideRule Labs Inc.)
-  wfh: Encouraged, Recommended for Bangalore
+  wfh: Recommended (for all offices)
   travel: Restricted
   visitors: N/A
   events: N/A
-  last_update: 2020-03-09
+  last_update: 2020-03-11
 
 - name: Spotify[[1]](https://twitter.com/eldsjal/status/1237487784996343813)
   wfh: Required
@@ -1838,6 +1866,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
+
+- name: Takeda [[1]](https://www.biopharmadive.com/news/lilly-biogen-takeda-coronavirus-employees-work-remote/573714/)
+  wfh: Required
+  travel: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-11
 
 - name: Tapjoy
   wfh: Required or Encouraged (by Geo)
@@ -2112,6 +2147,13 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: Edmit [[1]](https://www.bostonglobe.com/2020/03/11/business/sudden-real-life-test-remote-work/)
+  wfh: Required
+  travel: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-11
+
 - name: Element Analytics
   wfh: Required
   travel: Restricted
@@ -2132,6 +2174,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-03
+
+- name: Quinn Emanuel Urquhart & Sullivan [[1]](https://www.law.com/americanlawyer/2020/03/12/what-can-be-learned-from-virtual-firms-as-coronavirus-necessitates-remote-work/)
+  wfh: Required
+  travel: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-12
 
 - name: Rippling
   wfh: Required
