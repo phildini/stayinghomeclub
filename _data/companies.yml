@@ -292,6 +292,13 @@
   events: Restricted
   last_update: 2020-03-12
 
+- name: Booking.com
+  wfh: Encouraged
+  travel: Restricted 
+  visitors: Restricted
+  events: Restricted 
+  last_update: 2020-03-13
+
 - name: Box[[1]](https://blog.box.com/box-response-covid-19)
   wfh: Strongly Encouraged
   travel: Restricted
