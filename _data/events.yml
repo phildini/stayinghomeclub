@@ -421,6 +421,9 @@
 - name: "[TSConf EU](https://twitter.com/tsconfeu/status/1235135186033139713)"
   status: postponed
 
+- name: "[Twilio SIGNAL](https://www.twilio.com/blog/twilio-events-update-through-may-2020)"
+  status: Postponed until September 30th-October 1st
+
 - name: "[TwitchCon Amsterdam](https://twitter.com/TwitchCon/status/1235942102556651521?s=20)"
   status: cancelled
 
