@@ -367,6 +367,9 @@
 - name: "[SAS Global Forum](https://www.sas.com/en_us/events/sas-global-forum/announcement.html)"
   status: in-person canceled; online-only event
 
+- name: "[SearchNorwich 11](https://searchnorwich.org/searchnorwich-11-cancelled/)"
+  status: cancelled
+
 - name: "[Security Analyst Summit](https://twitter.com/TheSAScon/status/1234911915773583361)"
   status: cancelled
 
