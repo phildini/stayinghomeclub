@@ -1,0 +1,449 @@
+- name: "[Adobe Summit & Magento Imagine](https://www.adobe.com/summit.html)"
+  status: online-only
+
+- name: "[Adobe ColdFusion Summit East 2020](https://carahevents.carahsoft.com/CFSummit2020/)"
+  status: cancelled
+  
+- name: "[American Quarter Horse Association Convention 2020](https://www.aqha.com/-/2020-aqha-convention?redirect=/)"
+  status: cancelled
+
+- name: "[Apache Roadshow/Chicago](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences)"
+  status: cancelled
+
+- name: "[Apache Roadshow/DC](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences)"
+  status: cancelled
+
+- name: "[Apache Roadshow/Seattle](https://blogs.apache.org/foundation/entry/notice-on-apache-2020-conferences)"
+  status: postponed to autumn 2020
+
+- name: "[APIdays Singapore](https://www.apidays.co/singapore)"
+  status: postponed until August 19-20
+
+- name: "[Architectural Support for Programming Languages and Operating Systems (ASPLOS)](https://asplos-conference.org/)"
+  status: cancelled
+
+- name: "[Area41 Security Conference](https://a41con.blogspot.com/2020/03/area41-postponed-to-june-2021.html)"
+  status: postponed
+
+- name: "[Aruba Atmosphere 2020](https://www.atlassian.com/company/events/summit)"
+  status: virtual with small local events
+
+- name: "[Association of the United States Army Global Force Symposium 2020](https://www.ausa.org/news/ausa-cancels-global-force-2020)"
+  status: cancelled; keynote speaker to live stream remarks from Virginia
+
+- name: "[Atlassian Summit](https://www.atlassian.com/company/events/summit)"
+  status: moving to virtual
+
+- name: "[AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/)"
+  status: cancelled
+
+- name: "[AWS Summit Sydney](https://aws.amazon.com/events/summits/sydney/)"
+  status: cancelled
+
+- name: "[Avid Connect](https://www.avid.com/connect)"
+  status: cancelled    
+
+- name: "[Berlin March Golang Meetup](https://www.meetup.com/golang-users-berlin/events/265472557)"
+  status: online-only
+
+- name: "[Bitcoin 2020 Conference](https://bitcoinmagazine.com/articles/postponed-bitcoin-2020-is-moving-to-q3-2020)"
+  status: postponed to Q3
+
+- name: "[Black Hat Asia](https://www.blackhat.com/asia-20/travel-updates.html)"
+  status: postponed until September 29 - October 2
+
+- name: "[BountyCon](https://www.facebook.com/notes/facebook-bug-bounty/an-update-on-bountycon/3278348118846058/)"
+  status: postponed
+
+- name: "[BSides Charm](https://www.bsidescharm.org/health/)"
+  status: optional remote speaker options, no international speakers but event will happen
+
+- name: "[BSides Liverpool](https://twitter.com/BsidesLivrpool/status/1235988839623266304)"
+  status: postponed until later this year
+  
+- name: "[BSides Orlando](https://twitter.com/BsidesORL/status/1237724082206052354)"
+  status: postponed
+  
+- name: "[California Association for Behavior Analysis Conference](https://calaba.org/conference)"
+  status: cancelled
+
+- name: "[CampaignTech East](https://campaigntecheast.com/)"
+  status: postponed until June 25-26
+
+- name: "[Cisco Live Melbourne](https://www.ciscolive.com/apjc.html)"
+  status: cancelled
+
+- name: "[CloudFest 2020](https://www.cloudfest.com/)"
+  status: cancelled
+
+- name: "[Coachella](https://www.cnn.com/2020/03/10/entertainment/coachella-postponed-coronavirus/index.html)"
+  status: reportedly postponed to October
+  
+- name: "[Code for America Summit](https://www.codeforamerica.org/news/important-announcement-regarding-code-for-america-summit-2020)"
+  status: cancelled
+
+- name: "[Collision](https://collisionconf.com/)"
+  status: moving to virtual event
+
+- name: "[Deconstruct](https://www.deconstructconf.com/)"
+  status: cancelled
+
+- name: "[DEFCON China 2.0](https://defcon.org/html/defcon-china-2/dc-cn-2-index.html)"
+  status: postponed, new date TBD
+
+- name: "[DevNet Create](https://developer.cisco.com/devnetcreate/2020/)"
+  status: postponed, new date unknown
+
+- name: "[DevOpsDays Seattle](https://twitter.com/DevOpsDaysSEA/status/1235307914908389376)"
+  status: postponed, possibly cancelled
+
+- name: "[DevOpsDays Tokyo](https://twitter.com/DevOpsDaysTokyo/status/1234433425114722308)"
+  status: cancelled
+
+- name: "[DevRelCon Tokyo](https://tokyo-2020.devrel.net/information/2020/02/13/devrelcon-tokyo-has-canceled_en.html)"
+  status: cancelled
+ 
+- name: "[Digital Animal Summit 2020](https://www.digitalanimalsummit.com/)"
+  status: postponed
+  
+- name: "[DocuSign Momentum - San Francisco](https://momentum.docusign.com/faq)"
+  status: online-only
+
+- name: "[Domopalooza 2020](https://www.domo.com/domopalooza#FAQs)"
+  status: online-only
+
+- name: "[DragonPy](https://dragonpy.com/postponed)"
+  status: postponed
+
+- name: "[dotGo](https://twitter.com/dotGoEu/status/1234767083369639937)"
+  status: cancelled
+
+- name: "[dotPy](https://twitter.com/dotpy_io/status/1233830965421711360)"
+  status: cancelled
+
+- name: "[Dreamforce World Tour (Sydney)](https://www.arnnet.com.au/article/671175/salesforce-world-tour-sydney-goes-digital-amid-coronavirus-fears/)"
+  status: cancelled
+
+- name: "[E3 2020](https://arstechnica.com/gaming/2020/03/e3-2020-has-been-canceled/)"
+  status: canceled
+
+- name: "[Ellucian Live 2020](https://www.ellucian.com/ellucianlive)"
+  status: moving to virtual event
+
+- name: "[Elm Japan 2020](https://elmjapan.org/)"
+  status: postponed, no date given
+
+- name: "[Emerald City Comic Con (ECCC)](https://www.emeraldcitycomiccon.com/About/A-Statement-From-Reedpop/)"
+  status: postponed until summer
+
+- name: "[EmTech Asia](https://emtechasia.com/)"
+  status: postponed until August
+
+- name: "[Experimental Biology 2020](https://experimentalbiology.org/2020/home.aspx)"
+  status: cancelled
+
+- name: "[F5 Agility](https://www.f5.com/agility)"
+  status: moving to virtual event
+
+- name: "[Facebook F8](https://developers.facebook.com/blog/post/2020/02/27/important-f8-2020-update/)"
+  status: moving to a primarily online event
+
+- name: "[Facebook Global Marketing Summit](https://www.businessinsider.com/how-facebook-affected-novel-coronavirus-outbreak-2020-2)"
+  status: cancelled
+
+- name: "[Fast Software Encryption (FSE) 2020](https://fse.iacr.org/2020/)"
+  status: postponed
+
+- name: "[FIRST Cyber Threat Intelligence Symposium 2020 (FIRST CTI)](https://www.first.org/events/symposium/zurich2020/)"
+  status: cancelled
+
+- name: "[FIRST Technical Colloquium 2020 (FIRST TC)](https://www.first.org/events/colloquia/amsterdam2020/)"
+  status: postponed until next year (2021)
+
+- name: "[Flink Forward (Apache Flink)](https://www.flink-forward.org/sf-2020)"
+  status: cancelled, considering moving to virtual
+
+- name: "[Game Developers Conference (GDC)](https://www.gdconf.com/news/important-gdc-2020-update)"
+  status: postponed
+
+- name: "[GitHub Satellite](https://githubsatellite.com/)"
+  status: going online-only
+
+- name: "[Google Cloud Next](https://cloud.withgoogle.com/next/sf/)"
+  status: online-only
+
+- name: "[Google I/O](https://events.google.com/io/)"
+  status: online-only
+
+- name: "[Google News Initiative Summit](http://socialbarrel.com/google-cancels-its-two-day-global-news-initiative-summit-over-coronavirus/123795/)"
+  status: cancelled
+
+- name: "[Google Tensorflow Dev Summit](https://www.tensorflow.org/dev-summit/)"
+  status: online-only
+
+- name: "[HIMSS Global Health Conference & Exhibition](https://www.himssconference.org/updates/himss-update-coronavirus)"
+  status: online-only
+
+- name: "[HYPERGROWTH London](https://www.drift.com/blog/hypergrowth-london-update/)"
+  status: Postponed until September 14th
+
+- name: "[IBM Think 2020](https://www.ibm.com/events/think/)"
+  status: online-only
+
+- name: "[ICANN 67](https://www.icann.org/news/announcement-2020-02-19-en)"
+  status: online-only
+
+- name: "[IETF 107](https://www.ietf.org/blog/ietf107-in-person-cancelled/)"
+  status: in-person meeting cancelled
+
+- name: "[Ingram Micro Cloud Summit 2020](https://www.ingrammicrocloud.com/press-releases/ingram-micro-cloud-postpones-cloud-summit-2020-early-2021/)"
+  status: postponed until early 2021
+
+- name: "[International Conference on Software Engineering (ICSE)](https://conf.researchr.org/home/icse-2020)"
+  status: postponed to October
+
+- name: "[Internet Freedom Festival](https://internetfreedomfestival.org/wiki/index.php/Cancellation_of_the_2020_Internet_Freedom_Festival)"
+  status: cancelled
+
+- name: "[Internet2 2020 Global Summit](https://meetings.internet2.edu/2020-global-summit/update-coronavirus/)"
+  status: cancelled
+
+- name: "[ISC West](https://www.iscwest.com/RNA/RNA_ISCWest_v2/2020/doc/legal/ISC-West-A-Statement-from-Reed-Exhibitions-3-6.pdf)"
+  status: postponed until July, dates TBD
+
+- name: "[IsomniHack 2020](hhttps://insomnihack.ch/covid-19/)"
+  status: postponed until June
+
+- name: "[Kafka Summit London 2020](https://www.confluent.io/blog/kafka-summit-london-2020-update/)"
+  status: cancelled
+
+- name: "[Kaspersky's Security Analyst Summit](https://thesascon.com/)"
+  status: postponed until September, exact date TBD
+
+- name: "[KubeCon EU 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/)"
+  status: postponed until July/August, 2020, dates pending
+  
+- name: "[Kentico Partner Summit Q2 2020](https://www.eventbrite.com/e/q2-2020-kentico-partner-summit-tickets-91103997509)"
+  status: postponed until later this year
+
+- name: "[KernelCon 2020](https://kernelcon.org/virtual)"
+  status: online-only
+
+- name: "[Lead Dev New York 2020](https://newyork2020.theleaddeveloper.com/covid-19-update)"
+  status: postponed until August 11 & 12, 2020
+
+- name: "[Lesbians Who Tech](https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20)"
+  status: postponed until August 6-8, 2020 pending developments
+
+- name: "[LibrePlanet 2020](https://www.fsf.org/blogs/community/libreplanet-2020-in-person-component-canceled-but-well-see-you-online)"
+  status: online-only
+
+- name: "[Linaro Connect Budapest 2020](https://www.linaro.org/blog/linaro-connect-budapest-2020-cancelled/)"
+  status: cancelled
+
+- name: "[Micro Focus Universe The Hague](https://universe.microfocus.com/)"
+  status: moving to virtual event Micro Focus Virtual Universe 2020
+
+- name: "[Microsoft Ignite the Tour Amsterdam](https://www.microsoft.com/nl-nl/ignite-the-tour/amsterdam)"
+  status: cancellation announced March 2, 2020
+
+- name: "[Microsoft Ignite the Tour Singapore](https://www.microsoft.com/en-sg/ignite-the-tour/singapore)"
+  status: cancelled
+
+- name: "[Microsoft Ignite the Tour Zurich](https://www.microsoft.com/de-ch/ignite-the-tour/zurich)"
+  status: cancelled
+
+- name: "[Microsoft MVP Summit](https://www.geekwire.com/2020/microsoft-cancels-mvp-summit-due-coronavirus-outbreak-seattle-area/)"
+  status: cancelled
+
+- name: "[Minecraft Festival](https://www.minecraft.net/en-us/article/minecraft-festival-postponed)"
+  status: postponed to 2021, Minecraft Live still happening online-only
+
+- name: "[Mobile World Congress (MWC) - Barcelona](https://www.mwcbarcelona.com/gsma-statement-on-mwc-2020/)"
+  status: cancelled
+
+- name: "[MongoDB World](https://www.mongodb.com/world)"
+  status: changed to a virtual event; re-branded as MongoDB.live
+
+- name: "[National Association of Broadcasters (NAB)](https://nabshow.com/2020/attend/onsite-services/coronavirus-update-and-resources/)"
+  status: cancelled
+
+- name: "[Neo4j GraphConnect](https://graphconnect.com/#health)"
+  status: cancelled, considering a virtual event
+
+- name: "[NetApp INSIGHT](https://blog.netapp.com/postponing-netapp-insight-paris-and-berlin-events/)"
+  status: postponed
+
+- name: "[NG-CONF](https://www.ng-conf.org/)"
+  status: changed to a virtual event
+
+- name: "[Nike LA 13.1 Half Marathon](https://www.nike.com/us/en_us/e/cities/losangeles/la-131)"
+  status: cancelled
+
+- name: "[Nvidia GPU Technology Conference (GTC) 2020](https://www.theverge.com/2020/3/2/21161635/nvidias-gpu-technology-conference-gtc-online-only-coronavirus)"
+  status: online-only
+
+- name: "[OCLC Resource Sharing Conference 2020](https://www.oclc.org/en/events/2020/Resource-Sharing-Conference.html)"
+  status: cancelled
+
+- name: "[Oktane](https://www.oktane20.com/)"
+  status: changed to a virtual event
+  
+- name: "[Onspring Connect](https://onspring.com/connect/updatefaq/)"
+  status: postponed until Aug. 10-12
+
+- name: "[Open Compute Project Global Summit](https://www.opencompute.org/blog/we-are-moving-the-2020-ocp-global-summit-to-an-interactive-virtual-global-summit)"
+  status: changed to a virtual event
+
+- name: "[Open edX Conference](https://open.edx.org/blog/cancelling-the-in-person-2020-open-edx-conference/)"
+  status: changed to a virtual event
+
+- name: "[Open Hardware Summit](https://2020.oshwa.org/2020/03/08/the-2020-open-hardware-summit-is-going-virtual/)"
+  status: changed to a virtual event
+
+- name: "[Oracle Modern Business Experience](https://www.oracle.com/modern-business-experience/)"
+  status: postponed until Sep. 21-24 to coincide with OpenWorld
+
+- name: "[Oracle User Group Irelend (OUG Ireland)](https://twitter.com/MDWidlake/status/1234864869377216515)"
+  status: cancelled
+
+- name: "[Outreach Unleash 2020](https://www.outreach.io/blog/unleash-20-update)"
+  status: cancelled
+
+- name: "[Paris Blockchain Week Summit](https://www.pbwsummit.com/)"
+  status: postponed until Dec. 9-10
+
+- name: "[Percona Live Austin](https://www.perconalive.com/event/912fe685-e6c9-44f4-9ee0-c700fda1f409/websitePage:89cb3189-2ac4-4f4a-b511-97e5c8dc959f?5S%2CM3%2C912fe685-e6c9-44f4-9ee0-c700fda1f409=)"
+  status: postponed
+
+- name: "[Pixels Camp](https://blog.pixels.camp/pixels-camp-postponed-fddece7ccc4c)"
+  status: postponed to Nov. 26
+
+- name: "[Pwn2Own CansSecWest](https://www.thezdi.com/blog/2020/3/3/announcing-remote-participation-in-pwn2own-vancouver)"
+  status: optional remote participation (can attend, or have people on site execute commands/actions ie. on-site not required to participate)
+
+- name: "[PyCon Italia](https://pycon.it/en/blog/pycon-11-postponed-to-november)"
+  status: moved to November
+
+- name: "[PyCon SK](https://2020.pycon.sk/en/news.html)"
+  status: moved to September
+
+- name: "[Qt World Summit](https://www.qt.io/qtws20)"
+  status: postponed to October 2020
+
+- name: "[Qualtrics X4 Summit](https://www.qualtrics.com/x4summit/)"
+  status: postponed to early Fall 2020
+
+- name: "[RailsConf2020](https://railsconf.com/)"
+  status: cancelled
+
+- name: "[Red Hat Summit](https://www.redhat.com/en/summit)"
+  status: moving to virtual event
+
+- name: "[RedisConf20](https://events.redislabs.com/redisconf20/)"
+  status: moving to virtual event
+
+- name: "[Red Team Summit](https://www.zdnet.com/article/a-list-of-security-conferences-canceled-or-postponed-due-to-coronavirus-concerns/)"
+  status: postponed until June 11-12
+
+- name: "[Rocket League World Championship](https://www.rocketleague.com/news/important-rocket-league-esports-update/)"
+  status: cancelled
+
+- name: "[RubyKaigi](https://rubykaigi.org/2020)"
+  status: postponed until September
+
+- name: "[SaaStr Annual](https://www.saastrannual.com/)"
+  status: postponed until September
+
+- name: "[Salesforce World Tour Sydney](https://www.salesforce.com/au/events/worldtour/syd20/overview/)"
+  status: in-person canceled; online-only event
+
+- name: "[SAP Ariba LIVE](https://twitter.com/SAPAriba/status/1235043870250958854?s=20)"
+  status: cancelled
+
+- name: "[SAP Concur Fusion](https://fusion.concur.com/fusion-orlando-announcement)"
+  status: in-person canceled; online-only event
+
+- name: "[SAS Global Forum](https://www.sas.com/en_us/events/sas-global-forum/announcement.html)"
+  status: in-person canceled; online-only event
+
+- name: "[Security Analyst Summit](https://twitter.com/TheSAScon/status/1234911915773583361)"
+  status: cancelled
+
+- name: "[Shopify Pursuit (Melbourne and Mexico)](https://pursuit.shopify.com/)"
+  status: postponed, no date given
+
+- name: "[Shopify Unite](https://www.shopify.com.au/partners/blog/unite-2020-update)"
+  status: moving to virtual event
+
+- name: "[Shoptalk](https://www.retaildive.com/news/shoptalk-postponed-until-september-on-coronavirus-concerns/573549/)"
+  status: Postponed until September
+
+- name: "[SNUG Silicon Valley](https://www.synopsys.com/community/snug/snug-silicon-valley.html)"
+  status: cancelled
+
+- name: "[SQLBits](https://sqlbits.com/)"
+  status: Postponed until September
+
+- name: "[SRECon Americas West](https://www.usenix.org/conferences/coronavirus)"
+  status: postponed until June
+
+- name: "[STP Con](https://www.stpcon.com/important-stpcon-spring-2020-announcement-please-read/)"
+  status: cancelled
+
+- name: "[Strata Data & AI](https://conferences.oreilly.com/strata-data-ai/stai-ca)"
+  status: merged with NY in September
+
+- name: "[SUSECON 2020](https://www.suse.com/c/reimagining-susecon-2020/)"
+  status: moving to virtual event
+
+- name: "[SXSW](https://www.sxsw.com/2020-event-update/)"
+  status: cancelled
+
+- name: "[TED](https://www.axios.com/scoop-coronavirus-forces-ted-conference-to-delay-or-go-digital-731109d7-8178-49b4-8a16-321f14affe1f.html)"
+  status: post-poning or going online-only
+
+- name: "[TNW Conference](http://inside.thenextweb.com/186795-tnw-reschedules-2020-event-to-october-1-2)"
+  status: postponed until Oct. 1-2
+
+- name: "[TSConf EU](https://twitter.com/tsconfeu/status/1235135186033139713)"
+  status: postponed
+
+- name: "[TwitchCon Amsterdam](https://twitter.com/TwitchCon/status/1235942102556651521?s=20)"
+  status: cancelled
+
+- name: "[Unreal Fest Europe](https://www.unrealengine.com/en-US/events/unreal-fest-europe-2020)"
+  status: cancelled
+
+- name: "[Write the Docs Portland 2020](https://www.writethedocs.org/conf/portland/2020/news/covid-19-update-02/)"
+  status: postponed, likely to August; final date expected to be announced by March 20
+
+- name: "[Women in Cybersecurity (WiCyS) 2020](https://www.wicys.org/)"
+  status: cancelled, looking for alternative options TBD
+
+- name: "[WSLConf](https://www.wslconf.dev/)"
+  status: going online-only
+
+- name: "[WWCode CONNECT India 2020](https://www.womenwhocode.com/blog/coronavirus-update-a-note-from-our-ceo)"
+  status: postponed
+
+- name: "[WWHackinfest San Diego](https://twitter.com/strandjs/status/1235648436545847297?s=20)"
+  status: moving to virtual event (talks, training and MetaCTF will be virtual)
+
+- name: "[Zcon2](https://www.zfnd.org/zcon/)"
+  status: cancelled
+
+- name: "[ZenDesk Relate](https://www.miamiherald.com/news/business/tourism-cruises/article240801336.html)"
+  status: cancelled
+
+- name: "[Workshop on Formal Methods for Cryptographic Proofs](https://fmcpworkshop.onai.com)"
+  status: changed to primarily online
+
+- name: "[WordCamp Retreat Soltau 2020](https://2020-soltau.retreat.wordcamp.org/)"
+  status: postponed to 2021
+
+- name: "[WordCamp Jacksonville 2020](https://2020.jacksonville.wordcamp.org/)"
+  status: cancelled
+
+- name: "[WordCamp Europe 2020](https://2020.europe.wordcamp.org/2020/03/12/important-notice-wordcamp-europe-postponed/)"
+  status: postponed to 2021
