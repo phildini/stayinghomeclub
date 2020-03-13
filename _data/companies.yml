@@ -1020,6 +1020,13 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: HealthChampion
+  wfh: Encouraged
+  travel: Discouraged
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Heap[1](https://github.com/phildini/stayinghomeclub/pull/345)
   wfh: Required
   travel: Restricted
