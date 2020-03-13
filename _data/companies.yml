@@ -1496,6 +1496,13 @@
   events: "?"
   last_update: 2020-03-08
 
+- name: Ro
+  wfh: Optional
+  travel: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-12
+
 - name: Roblox
   wfh: Required
   travel: Restricted
