@@ -446,6 +446,13 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: Canna Solutions / FogPusher Digital Business Development Solutions
+  wfh: Strongly Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+  
 - name: Castle
   wfh: Encouraged
   travel: Restricted
