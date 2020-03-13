@@ -376,6 +376,9 @@
 - name: "[SNUG Silicon Valley](https://www.synopsys.com/community/snug/snug-silicon-valley.html)"
   status: cancelled
 
+- name: "[Southern Data Science Conference](https://www.southerndatascience.com/covid19)"
+  status: Postponed until August 12-14  
+
 - name: "[SQLBits](https://sqlbits.com/)"
   status: Postponed until September
 
