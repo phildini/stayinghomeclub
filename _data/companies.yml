@@ -131,7 +131,7 @@
   events: Restricted
   last_update: 2020-03-09
 
-- name: AppsFlyer [[1]](https://twitter.com/ariapplbaum/status/1237293574498238465"?"s=20)
+- name: AppsFlyer [[1]](https://twitter.com/ariapplbaum/status/1237293574498238465)
   wfh: Required
   travel: Restricted
   visitors: Restricted
@@ -796,7 +796,7 @@
   events: Restricted
   last_update: 2020-03-09
 
-- name: Google[[1]](https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent) [[2]](https://www.reuters.com/article/us-health-coronavirus-alphabet/google-recommends-all-north-america-employees-to-work-from-home-idUSKBN20X38J"?"feedType=RSS&feedName=technologyNews)
+- name: Google[[1]](https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent) [[2]](https://www.reuters.com/article/us-health-coronavirus-alphabet/google-recommends-all-north-america-employees-to-work-from-home-idUSKBN20X38J)
   wfh: Encouraged / Geo-specific
   travel: Restricted
   visitors: Restricted
@@ -1853,7 +1853,7 @@
   events: Restricted
   last_update: 2020-03-10
 
-- name: Twitch[[1]](https://twitter.com/DaleCruse/status/1236016477666308096"?"s=20)
+- name: Twitch[[1]](https://twitter.com/DaleCruse/status/1236016477666308096)
   wfh: Required
   travel: Restricted
   visitors: Restricted
