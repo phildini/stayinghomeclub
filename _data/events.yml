@@ -124,6 +124,9 @@
 - name: "[Dreamforce World Tour (Sydney)](https://www.arnnet.com.au/article/671175/salesforce-world-tour-sydney-goes-digital-amid-coronavirus-fears/)"
   status: cancelled
 
+- name: "[Drupal Dev Days 2020](https://drupalcamp.be/en/drupal-dev-days-2020/coronavirus)"
+  status: postponed, no date given
+
 - name: "[E3 2020](https://arstechnica.com/gaming/2020/03/e3-2020-has-been-canceled/)"
   status: canceled
 
