@@ -2252,6 +2252,13 @@
   events: Restricted
   last_update: 2020-03-12
 
+- name: Triplebyte
+  wfh: Encouraged
+  travel: Discouraged
+  visitors: Discouraged
+  events: Discouraged
+  last_update: 2020-03-13
+
 - name: Tubi
   wfh: Encouraged
   travel: "?"
