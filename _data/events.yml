@@ -136,6 +136,9 @@
 - name: "[Emerald City Comic Con (ECCC)](https://www.emeraldcitycomiccon.com/About/A-Statement-From-Reedpop/)"
   status: postponed until summer
 
+- name: "[EVE Online Fanfest](https://www.eveonline.com/article/q6f8js/eve-fanfest-2020-canceled)"
+  status: canceled
+
 - name: "[EmTech Asia](https://emtechasia.com/)"
   status: postponed until August
 
