@@ -2307,3 +2307,10 @@
   visitors: Discouraged
   events: Discouraged 
   last_update: 2020-03-12
+
+- name: Lufthansa Systems GmbH
+  wfh: Encouraged
+  travel: "?"
+  visitors: "?"
+  events: Discouraged
+  last_update: 2020-03-13
