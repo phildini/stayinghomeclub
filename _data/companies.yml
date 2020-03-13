@@ -796,6 +796,13 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: Edge Vision
+  wfh: Strongly Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Discouraged
+  last_update: 2020-03-13
+
 - name: edX
   wfh: Required
   travel: Restricted
