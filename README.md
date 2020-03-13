@@ -22,7 +22,8 @@ You will need a Github account.
 
 1. Find the `companies.yml` file, and click the "Edit" button.  Here's
    a [direct link to the Edit
-   page](https://github.com/phildini/stayinghomeclub/edit/master/_data/companies.yml).
+   page](https://github.com/phildini/stayinghomeclub/edit/master/_data/companies.yml).  Please try
+   to put your new entry in roughly alphabetical order, by name, relative to existing companies.
 
 1. Add your company, or update its details if something has changed.
 
