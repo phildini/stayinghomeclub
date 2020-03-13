@@ -187,6 +187,13 @@
   events: Restricted
   last_update: 2020-03-09
 
+- name: AppNeta [[1]](https://www.appneta.com/blog/tag/remote-work/)
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
 - name: AppsFlyer [[1]](https://twitter.com/ariapplbaum/status/1237293574498238465)
   wfh: Required
   travel: Restricted
