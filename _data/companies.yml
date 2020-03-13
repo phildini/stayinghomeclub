@@ -2217,6 +2217,13 @@
   events: Restricted
   last_update: 2020-03-13
 
+- name: Yandex [[1]](https://tass.ru/ekonomika/7969731)
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
 - name: Zappos
   wfh: Required
   travel: Restricted
