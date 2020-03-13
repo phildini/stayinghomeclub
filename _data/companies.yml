@@ -1839,8 +1839,8 @@
   events: "?"
   last_update: 2020-03-04
   
-- name: RedHat
-  wfh: Encouraged
+- name: Red Hat
+  wfh: Required
   travel: Restricted
   visitors: "?"
   events: Restricted
