@@ -1041,6 +1041,13 @@
   events: Restricted
   last_update: 2020-03-12
 
+- name: Granify
+  wfh: Encouraged
+  travel: Discouraged
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
 - name: Granular.ag
   wfh: Required for SF / All others allowed
   travel: Restricted
