@@ -85,6 +85,9 @@
 - name: "[Collision](https://collisionconf.com/)"
   status: moving to virtual event
 
+- name: "[Cruisin' for a Bluesin'](https://mailchi.mp/04231504de9e/important-pls-read-c4ab20-cancellation-details)"
+  status: cancelled
+
 - name: "[Deconstruct](https://www.deconstructconf.com/)"
   status: cancelled
 
@@ -124,6 +127,9 @@
 - name: "[Dreamforce World Tour (Sydney)](https://www.arnnet.com.au/article/671175/salesforce-world-tour-sydney-goes-digital-amid-coronavirus-fears/)"
   status: cancelled
 
+- name: "[Drupal Dev Days 2020](https://drupalcamp.be/en/drupal-dev-days-2020/coronavirus)"
+  status: postponed, no date given
+
 - name: "[E3 2020](https://arstechnica.com/gaming/2020/03/e3-2020-has-been-canceled/)"
   status: canceled
 
@@ -135,6 +141,9 @@
 
 - name: "[Emerald City Comic Con (ECCC)](https://www.emeraldcitycomiccon.com/About/A-Statement-From-Reedpop/)"
   status: postponed until summer
+
+- name: "[EVE Online Fanfest](https://www.eveonline.com/article/q6f8js/eve-fanfest-2020-canceled)"
+  status: canceled
 
 - name: "[EmTech Asia](https://emtechasia.com/)"
   status: postponed until August
@@ -367,6 +376,9 @@
 - name: "[SAS Global Forum](https://www.sas.com/en_us/events/sas-global-forum/announcement.html)"
   status: in-person canceled; online-only event
 
+- name: "[SearchNorwich 11](https://searchnorwich.org/searchnorwich-11-cancelled/)"
+  status: cancelled
+
 - name: "[Security Analyst Summit](https://twitter.com/TheSAScon/status/1234911915773583361)"
   status: cancelled
 
@@ -408,6 +420,9 @@
 
 - name: "[TSConf EU](https://twitter.com/tsconfeu/status/1235135186033139713)"
   status: postponed
+
+- name: "[Twilio SIGNAL](https://www.twilio.com/blog/twilio-events-update-through-may-2020)"
+  status: Postponed until September 30th-October 1st
 
 - name: "[TwitchCon Amsterdam](https://twitter.com/TwitchCon/status/1235942102556651521?s=20)"
   status: cancelled
