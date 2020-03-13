@@ -523,13 +523,6 @@
   events: Restricted
   last_update: 2020-03-09
 
-- name: Civis Analytics
-  wfh: Required
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-13
-
 - name: Cloudflare[[1]](https://blog.cloudflare.com/cloudflare-during-the-coronavirus-emergency/)
   wfh: Encouraged
   travel: Restricted
@@ -2014,13 +2007,6 @@
   events: Restricted
   last_update: 2020-03-04
 
-- name: Slicelife.com
-  wfh: Required in US & UK. Partially implemented & ongoing evaluation in Macedonia
-  travel: Prohibited
-  visitors: Restricted
-  events: Cancelled
-  last_update: 2020-03-13
-  
 - name: Slido
   wfh: Required
   travel: Restricted
@@ -2870,6 +2856,13 @@
   
 - name: Looka
   wfh: Encouraged, some Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+  
+  - name: Zonar Systems
+  wfh: Encouraged
   travel: Restricted
   visitors: Restricted
   events: Restricted
