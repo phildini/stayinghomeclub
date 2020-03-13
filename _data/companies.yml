@@ -2678,3 +2678,10 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
+
+- name: General Motors
+  wfh: Encouraged
+  travel: "?"
+  visitors: Restricted
+  events: Restricted > 25 persons
+  last_update: 2020-03-13
