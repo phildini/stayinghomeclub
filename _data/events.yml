@@ -181,6 +181,9 @@
 - name: "[FIRST Technical Colloquium 2020 (FIRST TC)](https://www.first.org/events/colloquia/amsterdam2020/)"
   status: postponed until next year (2021)
 
+- name: "[FIRST Robotics](https://www.firstinspires.org/covid-19)"
+  status: 2020 season suspended. All events cancelled. 
+
 - name: "[Flink Forward (Apache Flink)](https://www.flink-forward.org/sf-2020)"
   status: cancelled, considering moving to virtual
 
