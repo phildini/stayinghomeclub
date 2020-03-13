@@ -1047,7 +1047,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
-  
+
 - name: Lemonade
   wfh: Required, except for essential functions.
   travel: Restricted
