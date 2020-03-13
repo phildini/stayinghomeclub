@@ -306,7 +306,7 @@
   events: Restricted
   last_update: 2020-03-11
 
-- name: BlueStacks - India
+- name: "BlueStacks - India"
   wfh: Strongly encouraged
   travel: Restricted
   visitors: Restricted
@@ -403,6 +403,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-09
+
+- name: BytePitch
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
 
 - name: CAE [[1]](http://infocae.goclenche.com/)
   wfh: Encouraged
@@ -516,6 +523,13 @@
   events: Restricted
   last_update: 2020-03-09
 
+- name: Civis Analytics
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
 - name: Cloudflare[[1]](https://blog.cloudflare.com/cloudflare-during-the-coronavirus-emergency/)
   wfh: Encouraged
   travel: Restricted
@@ -578,6 +592,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-09
+
+- name: Crestron Electronics
+  wfh: Optional
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Cricket Health
   wfh: Required
@@ -678,11 +699,11 @@
   last_update: 2020-03-05
 
 - name: DigitalOcean
-  wfh: Encouraged
+  wfh: Required
   travel: Restricted
   visitors: Restricted
   events: Restricted
-  last_update: 2020-03-12
+  last_update: 2020-03-13
 
 - name: Distillery
   wfh: Encouraged
@@ -713,18 +734,18 @@
   last_update: 2020-03-11
 
 - name: Dolby
-  wfh: Optional
+  wfh: Recommended
   travel: Restricted
   visitors: Restricted
   events: Restricted
-  last_update: 2020-03-09
+  last_update: 2020-03-13
 
-- name: Donorschoose
-  wfh: Encouraged for NYC, Required for SF
+- name: DonorsChoose [[1]](https://help.donorschoose.org/hc/en-us/articles/360044637333-Coronavirus-COVID-19-updates-from-DonorsChoose)
+  wfh: Required
   travel: Restricted
   visitors: Restricted
   events: Restricted
-  last_update: 2020-03-10
+  last_update: 2020-03-13
 
 - name: DrChrono
   wfh: Required
@@ -1005,6 +1026,13 @@
   visitors: Restricted
   events: "?"
   last_update: 2020-03-11
+  
+- name: GoPro
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: "?"
+  last_update: 2020-03-12
 
 - name: Grammarly[[1]](https://www.grammarly.com/blog/covid-19-safety/)
   wfh: Required
@@ -1117,6 +1145,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-09
+  
+- name: HPI
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
 
 - name: Hubspot
   wfh: Encouraged
@@ -1201,6 +1236,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-06
+
+- name: journy.io
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
 
 - name: Joy
   wfh: Encouraged
@@ -1313,6 +1355,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
+  
+- name: MageXo
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
 
 - name: Mattermost
   wfh: Required
@@ -1362,6 +1411,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
+
+- name: MTRE
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
 
 - name: MongoDB
   wfh: Required
@@ -1727,6 +1783,13 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: Preply[[1]](https://preply.com/en/blog/2020/03/12/preply-covid-19-update/)
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
 - name: PressCentric
   wfh: Encouraged
   travel: Restricted
@@ -1775,6 +1838,13 @@
   visitors: "?"
   events: "?"
   last_update: 2020-03-04
+  
+- name: RedHat
+  wfh: Encouraged
+  travel: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-13
 
 - name: RingCentral
   wfh: Encouraged, Recommended for Bay Area
@@ -1810,6 +1880,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-09
+
+- name: Revolut
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
 
 - name: RoboTerra
   wfh: Required
@@ -1937,6 +2014,13 @@
   events: Restricted
   last_update: 2020-03-04
 
+- name: Slicelife.com
+  wfh: Required in US & UK. Partially implemented & ongoing evaluation in Macedonia
+  travel: Prohibited
+  visitors: Restricted
+  events: Cancelled
+  last_update: 2020-03-13
+  
 - name: Slido
   wfh: Required
   travel: Restricted
@@ -2161,6 +2245,20 @@
   events: "?"
   last_update: 2020-03-04
 
+- name: Theodo
+  wfh: Encouraged
+  travel: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-13
+  
+- name: Thinkific
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
 - name: Tile
   wfh: Encouraged
   travel: Restricted
@@ -2182,12 +2280,26 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: Trim
+  wfh: Encouraged
+  travel: N/A
+  visitors: N/A
+  events: N/A
+  last_update: 2020-03-13
+
 - name: Tripadvisor
   wfh: Encouraged
   travel: Restricted
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
+
+- name: Triplebyte
+  wfh: Encouraged
+  travel: Discouraged
+  visitors: Discouraged
+  events: Discouraged
+  last_update: 2020-03-13
 
 - name: Tubi
   wfh: Encouraged
@@ -2196,6 +2308,13 @@
   events: "?"
   last_update: 2020-03-05
 
+- name: TuneIn
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+  
 - name: Turnitin
   wfh: Required
   travel: Restricted
@@ -2351,6 +2470,13 @@
   last_update: 2020-03-13
 
 - name: Yandex [[1]](https://tass.ru/ekonomika/7969731)
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+  
+- name: Welps
   wfh: Required
   travel: Restricted
   visitors: Restricted
@@ -2721,9 +2847,38 @@
   events: "?"
   last_update: 2020-03-13
   
+
 - name: Good Praxis [[1]](https://twitter.com/GoodPraxisCoop/status/1238426859894902784)
   wfh: Encouraged
   travel: Discouraged
   visitors: Discouraged
   events: Discouraged
+  last_update: 2020-03-13
+
+- name: Nexmo
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+  
+- name: Vonage London
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+  
+- name: 2GIS
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+  
+- name: Looka
+  wfh: Encouraged, some Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
   last_update: 2020-03-13
