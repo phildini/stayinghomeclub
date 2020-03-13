@@ -469,6 +469,6 @@
 - name: "[WordCamp Europe 2020](https://2020.europe.wordcamp.org/2020/03/12/important-notice-wordcamp-europe-postponed/)"
   status: postponed to 2021
 
-- name: "[WWDC20](https://developer.apple.com/news/?id=03132020a)
+- name: "[WWDC20](https://developer.apple.com/news/?id=03132020a)"
   status: online-only
  
