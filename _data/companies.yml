@@ -2589,7 +2589,7 @@
   last_update: 2020-03-12
 
 - name: Urjanet
-  wfh: Optional
+  wfh: Required
   travel: Restricted
   visitors: Restricted
   events: Restricted
