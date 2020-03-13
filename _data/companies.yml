@@ -1587,6 +1587,13 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: Outfunnel
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
 - name: OverOps
   wfh: Optional
   travel: Restricted
