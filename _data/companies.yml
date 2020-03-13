@@ -2738,6 +2738,6 @@
  - name: Quicken Loans
   wfh: Encouraged
   travel: Restricted
-  visitors: "?"
+  visitors: Restricted
   events: Restricted
   last_update: 2020-03-13
