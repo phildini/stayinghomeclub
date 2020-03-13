@@ -5,6 +5,13 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: 98point6
+  wfh: Encouraged
+  travel: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-12
+
 - name: Aaptiv
   wfh: Encouraged
   travel: Restricted
@@ -26,6 +33,13 @@
   events: Restricted
   last_update: 2020-03-09
 
+- name: Adaptiiv Medical Technologies
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
 - name: AdBag
   wfh: Required
   travel: Restricted
@@ -34,11 +48,11 @@
   last_update: 2020-03-12
 
 - name: Adobe[[1]](https://www.npr.org/2020/03/03/811728989/coronavirus-cancellations-and-travel-bans-google-is-latest)[[2]](https://twitter.com/AdobeNews/status/1236758404330389504)
-  wfh: Encouraged / Directed for Seattle and Bay Area till 03/23/20
-  travel: Restricted
+  wfh: Encouraged / Directed  till 04/12/20
+  travel: Prohibited
   visitors: "?"
   events: "?"
-  last_update: 2020-03-09
+  last_update: 2020-03-12
 
 - name: Ageno[[1]](https://blog.ageno.pl/praca-zdalna-2e1eb73db8b3)
   wfh: Encouraged
@@ -230,6 +244,13 @@
   last_update: 2020-03-12
 
 - name: Bookbub
+  wfh: Strongly Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Box[[1]](https://blog.box.com/box-response-covid-19)
   wfh: Strongly Encouraged
   travel: Restricted
   visitors: Restricted
@@ -733,6 +754,13 @@
   events: "?"
   last_update: 2020-03-11
 
+- name: Galactic Fed
+  wfh: Required
+  travel: Discouraged
+  visitors: Discouraged
+  events: Discouraged
+  last_update: 2020-03-12
+
 - name: Gameforge
   wfh: Required
   travel: Restricted
@@ -741,11 +769,11 @@
   last_update: 2020-03-12
 
 - name: Gem
-  wfh: Optional
+  wfh: Strongly Recommended
   travel: Restricted
   visitors: Restricted
   events: Restricted
-  last_update: 2020-03-11
+  last_update: 2020-03-12
 
 - name: General Dynamics
   wfh: Optional
@@ -753,7 +781,7 @@
   visitors: "?"
   events: "?"
   last_update: 2020-03-11
-  
+
 - name: Genians
   wfh: Optional
   travel: Restricted
@@ -795,6 +823,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-09
+
+- name: GOAT Group
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Google[[1]](https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent) [[2]](https://www.reuters.com/article/us-health-coronavirus-alphabet/google-recommends-all-north-america-employees-to-work-from-home-idUSKBN20X38J"?"feedType=RSS&feedName=technologyNews)
   wfh: Encouraged / Geo-specific
@@ -999,6 +1034,13 @@
   events: Restricted
   last_update: 2020-03-12
 
+- name: Ladder Life
+  wfh: Encouraged
+  travel: Discouraged
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-12
+
 - name: LaunchPad Lab
   wfh: Required
   travel: Restricted
@@ -1035,11 +1077,11 @@
   last_update: 2020-03-12
 
 - name: Lime
-  wfh: Optional
+  wfh: Encouraged
   travel: Restricted
   visitors: Restricted
   events: Restricted
-  last_update: 2020-03-09
+  last_update: 2020-03-12
 
 - name: Lyft
   wfh: Encouraged
@@ -1524,6 +1566,13 @@
   events: Restricted
   last_update: 2020-03-12
 
+- name: Sanctuary Computer[[1]](https://medium.com/sanctuary-computer-inc/live-our-response-to-the-coronavirus-153b3f73be38)
+  wfh: Encouraged
+  travel: Discouraged
+  visitors: Discouraged
+  events: "?"
+  last_update: 2020-03-12
+
 - name: Sandstream Development Sp. z o.o.
   wfh: Required
   travel: Restricted
@@ -1550,6 +1599,13 @@
   travel: Restricted
   visitors: Restricted
   events: Discouraged
+  last_update: 2020-03-12
+
+- name: SecretMission.io
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
   last_update: 2020-03-12
 
 - name: Sensotrend
@@ -1635,7 +1691,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
-  
+
 - name: Sonos
   wfh: Required
   travel: Restricted
@@ -1838,6 +1894,13 @@
   visitors: "?"
   events: "?"
   last_update: 2020-03-05
+
+- name: Turnitin
+  wfh: Required
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: Twilio[[1]](https://www.twilio.com/blog/twilio-safety-response-covid-19)
   wfh: Required
@@ -2153,7 +2216,7 @@
   visitors: Restricted
   events: Banned
   last_update: 2020-03-12
-  
+
 - name: Motorola Solutions
   wfh: Strongly encouraged where possible, until at least 2020-04-06
   travel: Restricted
