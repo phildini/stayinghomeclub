@@ -1,4 +1,4 @@
-- name: CAKE Websites & More, LLC [[1]](https://www.cakewebsites.com/)
+- name: CAKE Websites & More, LLC
   wfh: Required
   travel: Restricted
   visitors: Restricted
@@ -1993,7 +1993,7 @@
   events: Restricted
   last_update: 2020-03-11
 
-- name: Sovereign Stack, LLC [[1]](https://sovstack.com/)
+- name: Sovereign Stack, LLC
   wfh: Required
   travel: Restricted
   visitors: Restricted
