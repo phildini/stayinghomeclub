@@ -10,7 +10,7 @@ Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href="/events.html
 
 <a name="companies"></a>
 ## [Companies - {{ site.data.companies | size }}](/companies.html)
-{% assign sorted = site.data.companies | sort: 'name' %}
+{% assign sorted = site.data.companies | sort %}
 {% assign wfh_required = site.data.companies | where_exp:"item", "item.wfh contains 'Required'" | size %}
 {% assign wfh_encouraged = site.data.companies | where_exp:"item", "item.wfh contains 'Encouraged'" | size %}
 
