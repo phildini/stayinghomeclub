@@ -16,11 +16,13 @@ require 'yaml'
 thing = YAML.load_file('old-company-data.yml')
 
 thing.each { |t|
-  puts t.inspect
-  puts proposed_filename(t)
   destination = File.join("_data", "companies", proposed_filename(t))
 
   File.open( destination, 'w' ) do |out|
     YAML.dump( t, out )
   end
+
+  puts "Committing #{destination}..."
+  `git add #{destination}`
+  `git commit -m "Migrate company '#{truncate(t["name"],20)}'."`
 }
