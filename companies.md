@@ -8,7 +8,7 @@ Go [Home](/). Jump to: <a href="/events.html">Events</a>. Jump to: <a href="/uni
 
 <a name="companies"></a>
 ## Companies - {{ site.data.companies | size }}
-{% assign sorted = site.data.companies | sort_natural: 'name' %}
+{% assign sorted = site.data.companies | sort %}
 {% assign wfh_required = site.data.companies | where_exp:"item", "item.wfh contains 'Required'" | size %}
 {% assign wfh_encouraged = site.data.companies | where_exp:"item", "item.wfh contains 'Encouraged'" | size %}
 
@@ -16,7 +16,7 @@ Go [Home](/). Jump to: <a href="/events.html">Events</a>. Jump to: <a href="/uni
 
 | Company | WFH | Travel | Visitors | Events | Last Update |
 | --- | --- | --- | --- | --- | --- |
-{% for company in sorted %}| {{company.name}} | {{company.wfh}} | {{company.travel}} | {{company.visitors}} | {{company.events}} | {{company.last_update}} |
+{% for company in sorted %}| {{company[1].name}} | {{company[1].wfh}} | {{company[1].travel}} | {{company[1].visitors}} | {{company[1].events}} | {{company[1].last_update}} |
 {% endfor %}
 
 ---
