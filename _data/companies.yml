@@ -194,7 +194,7 @@
   events: Restricted
   last_update: 2020-03-12
   
-  - name: AppNeta
+- name: AppNeta
   wfh: Required
   travel: Restricted
   visitors: Restricted
@@ -572,7 +572,7 @@
   events: Restricted
   last_update: 2020-03-09
   
-  - name: Classy
+- name: Classy
   wfh: Required
   travel: Restricted
   visitors: Restricted
@@ -1630,7 +1630,7 @@
   events: Restricted
   last_update: 2020-03-11
 
-- name: Noble[1]](https://www.linkedin.com/feed/update/urn:li:activity:6643713158584291329/)
+- name: Noble[[1]](https://www.linkedin.com/feed/update/urn:li:activity:6643713158584291329/)
   wfh: Required
   travel: Restricted
   visitors: Restricted
