@@ -85,7 +85,7 @@
 - name: "[Coachella](https://www.cnn.com/2020/03/10/entertainment/coachella-postponed-coronavirus/index.html)"
   status: reportedly postponed to October
   
-  - name: "[CocoaHeads Russia](https://www.patreon.com/posts/34821143)"
+- name: "[CocoaHeads Russia](https://www.patreon.com/posts/34821143)"
   status: online-only
   
 - name: "[Code for America Summit](https://www.codeforamerica.org/news/important-announcement-regarding-code-for-america-summit-2020)"
@@ -93,6 +93,9 @@
 
 - name: "[Collision](https://collisionconf.com/)"
   status: moving to virtual event
+
+- name: "[Crestron Masters 2020](https://www.crestron.com/Training-Events/Masters-2020)"
+  status: postponed
 
 - name: "[Cruisin' for a Bluesin'](https://mailchi.mp/04231504de9e/important-pls-read-c4ab20-cancellation-details)"
   status: cancelled
