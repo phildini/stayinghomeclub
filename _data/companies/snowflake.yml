@@ -1,7 +1,7 @@
-   ---
-   name: Snowflake
-   wfh: Required
-   travel: Restricted
-   visitors: "?"
-   events: Restricted
-   last_update: 2020-03-13
+---
+name: Snowflake Inc.
+wfh: Required
+travel: Restricted
+visitors: "?"
+events: Restricted
+last_update: 2020-03-13
