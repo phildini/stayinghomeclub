@@ -193,14 +193,7 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
-  
-  - name: AppNeta
-  wfh: Required
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-13
-  
+
 - name: Apple [[1]](https://www.bloomberg.com/news/articles/2020-03-08/apple-s-cook-offers-work-from-home-this-week-to-most-staff)
   wfh: Encouraged
   travel: Restricted
@@ -515,13 +508,6 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-10
-  
-- name: Ceros 
-  wfh: Strongly Encouraged
-  travel: Restricted
-  visitors: Restricted
-  events: Cancelled
-  last_update: 2020-03-13  
 
 - name: ChargedUp
   wfh: Encouraged
@@ -746,13 +732,6 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-06
-
-- name: Devetry
-  wfh: Required
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-13
 
 - name: Digit
   wfh: Required
@@ -1348,14 +1327,6 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
-  
-- name: Kraft & Kennedy
-  wfh: Encouraged, Recommended for New York
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-13
-
 
 - name: Ladder Life
   wfh: Encouraged
@@ -1959,8 +1930,8 @@
   events: Restricted
   last_update: 2020-03-12
 
-- name: Red Hat [[1]](https://www.redhat.com/en/blog/moving-red-hat-summit-2020-virtual-experience)
-  wfh: Encouraged
+  - name: Red Hat [[1]](https://www.redhat.com/en/blog/what-red-hat-doing-address-coronavirus-covid-19?sc_cid=701f2000000tyBjAAI)
+  wfh: Required
   travel: Restricted
   visitors: Restricted
   events: Restricted
@@ -1979,14 +1950,7 @@
   visitors: "?"
   events: "?"
   last_update: 2020-03-04
-  
-- name: RedHat
-  wfh: Encouraged
-  travel: Restricted
-  visitors: "?"
-  events: Restricted
-  last_update: 2020-03-13
-
+    
 - name: RingCentral
   wfh: Encouraged, Recommended for Bay Area
   travel: Restricted
@@ -2024,13 +1988,6 @@
 
 - name: Revolut
   wfh: Encouraged
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-13
-
-- name: RoadAR
-  wfh: Strongly encouraged
   travel: Restricted
   visitors: Restricted
   events: Restricted
@@ -2392,13 +2349,6 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
-  
-- name: Tengu
-  wfh: Required
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-12
 
 - name: test IO
   wfh: Recommended
@@ -2590,11 +2540,11 @@
   last_update: 2020-03-06
 
 - name: Wandera
-  wfh: Required
+  wfh: Required for SF, Encouraged otherwise 
   travel: Restricted
   visitors: Restricted
   events: Restricted
-  last_update: 2020-03-13
+  last_update: 2020-03-12
   
 - name: Wayfair [[1]](https://www.bostonherald.com/2020/03/11/boston-companies-urge-employees-to-work-from-home-amid-coronavirus-outbreak/)
   wfh: Required
@@ -3076,13 +3026,6 @@
   
 - name: Looka
   wfh: Encouraged, some Required
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-13
-  
-- name: Nauto Inc
-  wfh: Required
   travel: Restricted
   visitors: Restricted
   events: Restricted
