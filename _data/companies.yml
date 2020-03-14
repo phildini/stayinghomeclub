@@ -271,6 +271,13 @@
   events: "?"
   last_update: 2020-03-10
 
+- name: B12
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
 - name: Begin
   wfh: Required
   travel: Restricted
