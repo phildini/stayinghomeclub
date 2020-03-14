@@ -117,13 +117,6 @@
   events: Restricted
   last_update: 2020-03-10
 
-- name: Aiven [[1]](https://help.aiven.io/en/articles/3792926-covid-19-coronavirus-update)
-  wfh: Strongly encouraged
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-13
-
 - name: Amazon[[1]](https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020)[[2]](https://www.cnbc.com/2020/03/09/coronavirus-amazon-tells-employees-in-ny-nj-to-work-from-home.html)
   wfh: Encouraged, Recommended for Seattle, Bay Area, Lombardy region & Asti province of Italy, New York, and New Jersey to 3/31
   travel: Restricted
@@ -200,13 +193,6 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-09
-  
-- name: Applause
-  wfh: Required
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-13
 
 - name: AppsFlyer [[1]](https://twitter.com/ariapplbaum/status/1237293574498238465)
   wfh: Required
@@ -270,13 +256,6 @@
   visitors: "?"
   events: "?"
   last_update: 2020-03-10
-
-- name: B12
-  wfh: Encouraged
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-13
 
 - name: Begin
   wfh: Required
@@ -557,13 +536,6 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-09
-  
-  - name: Classy
-  wfh: Required
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-13
 
 - name: Civis Analytics
   wfh: Required
@@ -733,13 +705,6 @@
   events: Restricted
   last_update: 2020-03-06
 
-- name: Devetry
-  wfh: Required
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-13
-
 - name: Digit
   wfh: Required
   travel: Restricted
@@ -845,13 +810,6 @@
   events: Restricted
   last_update: 2020-03-11
 
-- name: EduNav
-  wfh: Required
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-13
-
 - name: edX
   wfh: Required
   travel: Restricted
@@ -895,11 +853,11 @@
   last_update: 2020-03-12
 
 - name: Expedia
-  wfh: Strongly recommended through March
-  travel: Suspended through April
-  visitors: Discouraged
+  wfh: Encouraged, some Required
+  travel: Restricted
+  visitors: "?"
   events: "?"
-  last_update: 2020-03-13
+  last_update: 2020-03-06
 
 - name: f5 Networks
   wfh: Encouraged for Seattle and Bay Area until 3/23
@@ -1273,11 +1231,11 @@
   last_update: 2020-03-09
 
 - name: Intercom [[1]](https://twitter.com/fergal_reid/status/1237878256054886411)
-  wfh: Recommended
-  travel: "?"
-  visitors: "?"
-  events: "?"
-  last_update: 2020-03-04
+  wfh: Encouraged
+  travel: "Restricted"
+  visitors: Restricted"
+  events: "Restricted"
+  last_update: 2020-03-05
 
 - name: Internet Archive [[1]](https://twitter.com/brewster_kahle/status/1237194160949489670)
   wfh: Required
@@ -1307,13 +1265,6 @@
   events: "?"
   last_update: 2020-03-06
 
-- name: Kadena[[1]](https://www.coindesk.com/new-york-crypto-companies-move-to-work-from-home-in-face-of-rising-covid-19-threat)
-  wfh: Strongly Encouraged (some required)
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-11
-
 - name: Kanteron Systems[[1]](https://twitter.com/kanteron/status/1237694498597208064)
   wfh: Required
   travel: Encouraged
@@ -1334,14 +1285,6 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
-  
-- name: Kraft & Kennedy
-  wfh: Encouraged, Recommended for New York
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-13
-
 
 - name: Ladder Life
   wfh: Encouraged
@@ -1861,13 +1804,6 @@
   events: Restricted
   last_update: 2020-03-12
 
-- name: Pipefy
-  wfh: Required
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-13
-
 - name: Polidea
   wfh: Encouraged
   travel: Restricted
@@ -1918,20 +1854,6 @@
   last_update: 2020-03-13
 
 - name: Quizlet
-  wfh: Required
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-12
-  
-- name: Razorpay 
-  wfh: Encouraged
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-13
-
-  name: RapidDeploy
   wfh: Required
   travel: Restricted
   visitors: Restricted
@@ -2203,13 +2125,6 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-11
-
-- name: Spare Labs
-  wfh: Required
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-13
 
 - name: Sparkgeo
   wfh: Recommended
@@ -2821,7 +2736,7 @@
   last_update: 2020-03-12
 
 - name: Urjanet
-  wfh: Required
+  wfh: Optional
   travel: Restricted
   visitors: Restricted
   events: Restricted
@@ -2925,13 +2840,6 @@
   events: Restricted
   last_update: 2020-03-12
 
-- name: Zscaler
-  wfh: Encouraged
-  travel: Restricted
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-12
-  
 - name: Vizzlo
   wfh: Required
   travel: Restricted
