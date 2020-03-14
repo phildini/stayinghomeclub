@@ -488,6 +488,13 @@
   events: Restricted
   last_update: 2020-03-12
 
+- name: CafeBazaar
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: CafeMedia
   wfh: Encouraged
   travel: Restricted
@@ -830,6 +837,14 @@
   visitors: N/A
   events: Restricted
   last_update: 2020-03-13
+
+
+- name: Divar
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
 
 - name: DivvyHomes
   wfh: Encouraged
