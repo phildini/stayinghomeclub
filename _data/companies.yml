@@ -881,11 +881,11 @@
   last_update: 2020-03-12
 
 - name: Expedia
-  wfh: Encouraged, some Required
-  travel: Restricted
-  visitors: "?"
+  wfh: Strongly recommended through March
+  travel: Suspended through April
+  visitors: Discouraged
   events: "?"
-  last_update: 2020-03-06
+  last_update: 2020-03-13
 
 - name: f5 Networks
   wfh: Encouraged for Seattle and Bay Area until 3/23
