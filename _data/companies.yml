@@ -2219,7 +2219,7 @@
   events: Restricted
   last_update: 2020-03-12
   
-  - name: Rucore.Ru
+- name: Rucore.Ru
   wfh: Encouraged
   travel: Restricted
   visitors: Restricted
