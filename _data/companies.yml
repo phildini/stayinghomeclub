@@ -1659,11 +1659,11 @@
   last_update: 2020-03-04
 
 - name: Nosto
-  wfh: Mandatory
+  wfh: Encouraged
   travel: Restricted
   visitors: Restricted
   events: Restricted
-  last_update: 2020-03-13
+  last_update: 2020-03-10
 
 - name: Notion Labs
   wfh: Required
@@ -1979,14 +1979,14 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-12
-
-- name: Red Hat [[1]](https://www.redhat.com/en/blog/moving-red-hat-summit-2020-virtual-experience)
-  wfh: Encouraged
+  
+- name: Red Hat [[1]](https://www.redhat.com/en/blog/what-red-hat-doing-address-coronavirus-covid-19?sc_cid=701f2000000tyBjAAI)
+  wfh: Required
   travel: Restricted
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-13
-
+  
 - name: Redbubble
   wfh: Strongly Encouraged
   travel: Restricted
@@ -2000,13 +2000,6 @@
   visitors: "?"
   events: "?"
   last_update: 2020-03-04
-  
-- name: RedHat
-  wfh: Encouraged
-  travel: Restricted
-  visitors: "?"
-  events: Restricted
-  last_update: 2020-03-13
 
 - name: RingCentral
   wfh: Encouraged, Recommended for Bay Area
@@ -2484,13 +2477,6 @@
   events: N/A
   last_update: 2020-03-13
 
-- name: TripActions
-  wfh: Required
-  travel: Restricted
-  visitors: Restricted
-  events: Canceled
-  last_update: 2020-03-12
-  
 - name: Tripadvisor
   wfh: Encouraged
   travel: Restricted
@@ -2616,13 +2602,6 @@
   visitors: "?"
   events: Restricted
   last_update: 2020-03-10
-  
-- name: Vouch
-  wfh: Required
-  travel: Suspended
-  visitors: Restricted
-  events: Restricted
-  last_update: 2020-03-12
 
 - name: VSCO
   wfh: Required
