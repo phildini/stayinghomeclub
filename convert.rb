@@ -90,7 +90,7 @@ def proposed_filename(thing)
 end
 
 require 'yaml'
-thing = YAML.load_file('companies_old.yml')
+thing = YAML.load_file('_data/companies.yml')
 yaml_string = YAML.dump(thing)
 
 handler = Psych::TreeWithLineNumbersBuilder.new
@@ -117,6 +117,6 @@ ruby_with_line_numbers.each { |t|
   
   puts "Committing #{destination} as \"#{author}\"..."
   `git add #{destination}`
-  `git commit --author="#{author}" -m "Migrate company '#{truncate(t["name"],20)}'."`
+  `git commit --author="#{author}" -m "Migrate company '#{truncate(t["name"].value, 20)}'."`
   
 }
