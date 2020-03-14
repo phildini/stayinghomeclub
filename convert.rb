@@ -112,18 +112,11 @@ ruby_with_line_numbers.each { |t|
   end
 
   name_line = t["name"].line
-  commit_raw = `git blame -p -L #{name_line} companies_old.yml`
-
-  
-  puts commit_raw
-  puts "============="
+  commit_raw = `git blame -p -L #{name_line} _data/companies.yml`
   author = (commit_raw.lines[1][7..-2] + commit_raw.lines[2][11..-2]).strip
-  puts author
   
-  exit 
-
-  # puts "Committing #{destination}..."
-  # `git add #{destination}`
-  # `git commit -m "Migrate company '#{truncate(t["name"],20)}'."`
+  puts "Committing #{destination} as \"#{author}\"..."
+  `git add #{destination}`
+  `git commit -m "Migrate company '#{truncate(t["name"],20)}'."`
   
 }
