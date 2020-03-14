@@ -117,6 +117,6 @@ ruby_with_line_numbers.each { |t|
   
   puts "Committing #{destination} as \"#{author}\"..."
   `git add #{destination}`
-  `git commit -m "Migrate company '#{truncate(t["name"],20)}'."`
+  `git commit --author="#{author}" -m "Migrate company '#{truncate(t["name"],20)}'."`
   
 }
