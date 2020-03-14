@@ -85,11 +85,17 @@
 - name: "[Coachella](https://www.cnn.com/2020/03/10/entertainment/coachella-postponed-coronavirus/index.html)"
   status: reportedly postponed to October
   
+- name: "[CocoaHeads Russia](https://www.patreon.com/posts/34821143)"
+  status: online-only
+  
 - name: "[Code for America Summit](https://www.codeforamerica.org/news/important-announcement-regarding-code-for-america-summit-2020)"
   status: cancelled
 
 - name: "[Collision](https://collisionconf.com/)"
   status: moving to virtual event
+
+- name: "[Crestron Masters 2020](https://www.crestron.com/Training-Events/Masters-2020)"
+  status: postponed
 
 - name: "[Cruisin' for a Bluesin'](https://mailchi.mp/04231504de9e/important-pls-read-c4ab20-cancellation-details)"
   status: cancelled
@@ -154,6 +160,9 @@
 - name: "[EmTech Asia](https://emtechasia.com/)"
   status: postponed until August
 
+- name: "[Experience Matters 2020](https://experiencematters.ceros.com/p/1)"
+  status: cancelled
+
 - name: "[Experimental Biology 2020](https://experimentalbiology.org/2020/home.aspx)"
   status: cancelled
 
@@ -169,11 +178,17 @@
 - name: "[Fast Software Encryption (FSE) 2020](https://fse.iacr.org/2020/)"
   status: postponed
 
+- name: "[Fire Department Insstructors Conference (FDIC) 2020](https://www.fdic.com/)"
+  status: postponed
+
 - name: "[FIRST Cyber Threat Intelligence Symposium 2020 (FIRST CTI)](https://www.first.org/events/symposium/zurich2020/)"
   status: cancelled
 
 - name: "[FIRST Technical Colloquium 2020 (FIRST TC)](https://www.first.org/events/colloquia/amsterdam2020/)"
   status: postponed until next year (2021)
+
+- name: "[FIRST Robotics](https://www.firstinspires.org/covid-19)"
+  status: 2020 season suspended. All events cancelled. 
 
 - name: "[Flink Forward (Apache Flink)](https://www.flink-forward.org/sf-2020)"
   status: cancelled, considering moving to virtual
@@ -249,6 +264,9 @@
 
 - name: "[Lesbians Who Tech](https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20)"
   status: postponed until August 6-8, 2020 pending developments
+  
+- name: "[Lesk a bída personalizace v digitálním designu](https://www.facebook.com/events/189806429012221/)"
+  status: online-only
 
 - name: "[LibrePlanet 2020](https://www.fsf.org/blogs/community/libreplanet-2020-in-person-component-canceled-but-well-see-you-online)"
   status: online-only
@@ -471,3 +489,7 @@
 
 - name: "[WordCamp Europe 2020](https://2020.europe.wordcamp.org/2020/03/12/important-notice-wordcamp-europe-postponed/)"
   status: postponed to 2021
+
+- name: "[WWDC20](https://developer.apple.com/news/?id=03132020a)"
+  status: online-only
+ 
