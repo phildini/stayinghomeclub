@@ -49,6 +49,9 @@
 - name: "[Avid Connect](https://www.avid.com/connect)"
   status: cancelled    
 
+- name: "[BAFTA Games Awards](http://www.bafta.org/media-centre/press-releases/bafta-statement-regarding-coronavirus-12-3-2020)"
+  status: online-only
+
 - name: "[Berlin March Golang Meetup](https://www.meetup.com/golang-users-berlin/events/265472557)"
   status: online-only
 
@@ -152,7 +155,7 @@
   status: postponed, no date given
 
 - name: "[Emerald City Comic Con (ECCC)](https://www.emeraldcitycomiccon.com/About/A-Statement-From-Reedpop/)"
-  status: postponed until summer
+  status: Rescheduled for August 21st-23rd
 
 - name: "[EVE Online Fanfest](https://www.eveonline.com/article/q6f8js/eve-fanfest-2020-canceled)"
   status: canceled
@@ -223,6 +226,12 @@
 - name: "[ICANN 67](https://www.icann.org/news/announcement-2020-02-19-en)"
   status: online-only
 
+- name: "[IEEE Haptics Symposium](https://twitter.com/ieeehaptics/status/1237404176768000001?s=20)"
+  status: postponed
+
+- name: "[IEEE Symposium on Security and Privacy](https://twitter.com/IEEESSP/status/1238593324984012806?s=20)"
+  status: online-only
+
 - name: "[IETF 107](https://www.ietf.org/blog/ietf107-in-person-cancelled/)"
   status: in-person meeting cancelled
 
@@ -276,6 +285,9 @@
 
 - name: "[Micro Focus Universe The Hague](https://universe.microfocus.com/)"
   status: moving to virtual event Micro Focus Virtual Universe 2020
+
+- name: "[Microsoft Build](https://twitter.com/msdev/status/1238634207188041733)"
+  status: online-only
 
 - name: "[Microsoft Ignite the Tour Amsterdam](https://www.microsoft.com/nl-nl/ignite-the-tour/amsterdam)"
   status: cancellation announced March 2, 2020
