@@ -20,12 +20,18 @@ You will need a Github account.
     website.  It is here on Github:
     [`https://github.com/phildini/stayinghomeclub`](https://github.com/phildini/stayinghomeclub).
 
-1. Find the `companies.yml` file, and click the "Edit" button.  Here's
-   a [direct link to the Edit
-   page](https://github.com/phildini/stayinghomeclub/edit/master/_data/companies.yml).
+1. Find the `companies` directory. file, and click the "Create new file" button.
 
-1. Add your company, or update its details if something has changed.  Please try
-   to put your new entry in roughly alphabetical order, by name, relative to existing companies.
+1. Add your company as a new file, using the example below as a template, or update its details if something has changed.
+   ```
+      ---
+      name: Amazon[[1]](https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020)[[2]](https://www.cnbc.com/2020/03/09/coronavirus-amazon-tells-employees-in-ny-nj-to-work-from-home.html)
+      wfh: Recommended for all corporate offices globally to 3/31
+      travel: Restricted
+      visitors: Restricted
+      events: Restricted
+      last_update: 2020-03-12
+   ```
 
 1. Click "Propose File Change", the big green button at the bottom of
    the page.
