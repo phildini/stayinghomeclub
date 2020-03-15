@@ -6,7 +6,7 @@
 
 - name: "[Agoric Speaker Series](https://www.eventbrite.com/e/postponed-rethinking-distributed-programming-tickets-97404019043)"
   status: postponed
-  
+
 - name: "[American Quarter Horse Association Convention 2020](https://www.aqha.com/-/2020-aqha-convention?redirect=/)"
   status: cancelled
 
@@ -47,7 +47,7 @@
   status: cancelled
 
 - name: "[Avid Connect](https://www.avid.com/connect)"
-  status: cancelled    
+  status: cancelled
 
 - name: "[BAFTA Games Awards](http://www.bafta.org/media-centre/press-releases/bafta-statement-regarding-coronavirus-12-3-2020)"
   status: online-only
@@ -69,10 +69,10 @@
 
 - name: "[BSides Liverpool](https://twitter.com/BsidesLivrpool/status/1235988839623266304)"
   status: postponed until later this year
-  
+
 - name: "[BSides Orlando](https://twitter.com/BsidesORL/status/1237724082206052354)"
   status: postponed
-  
+
 - name: "[California Association for Behavior Analysis Conference](https://calaba.org/conference)"
   status: cancelled
 
@@ -87,10 +87,10 @@
 
 - name: "[Coachella](https://www.cnn.com/2020/03/10/entertainment/coachella-postponed-coronavirus/index.html)"
   status: reportedly postponed to October
-  
+
 - name: "[CocoaHeads Russia](https://www.patreon.com/posts/34821143)"
   status: online-only
-  
+
 - name: "[Code for America Summit](https://www.codeforamerica.org/news/important-announcement-regarding-code-for-america-summit-2020)"
   status: cancelled
 
@@ -120,10 +120,10 @@
 
 - name: "[DevRelCon Tokyo](https://tokyo-2020.devrel.net/information/2020/02/13/devrelcon-tokyo-has-canceled_en.html)"
   status: cancelled
- 
+
 - name: "[Digital Animal Summit 2020](https://www.digitalanimalsummit.com/)"
   status: postponed
-  
+
 - name: "[DocuSign Momentum - San Francisco](https://momentum.docusign.com/faq)"
   status: online-only
 
@@ -191,7 +191,7 @@
   status: postponed until next year (2021)
 
 - name: "[FIRST Robotics](https://www.firstinspires.org/covid-19)"
-  status: 2020 season suspended. All events cancelled. 
+  status: 2020 season suspended. All events cancelled.
 
 - name: "[Flink Forward (Apache Flink)](https://www.flink-forward.org/sf-2020)"
   status: cancelled, considering moving to virtual
@@ -261,7 +261,7 @@
 
 - name: "[KubeCon EU 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/)"
   status: postponed until July/August, 2020, dates pending
-  
+
 - name: "[Kentico Partner Summit Q2 2020](https://www.eventbrite.com/e/q2-2020-kentico-partner-summit-tickets-91103997509)"
   status: postponed until later this year
 
@@ -273,7 +273,7 @@
 
 - name: "[Lesbians Who Tech](https://twitter.com/ArlanWasHere/status/1234622619867066368?s=20)"
   status: postponed until August 6-8, 2020 pending developments
-  
+
 - name: "[Lesk a bída personalizace v digitálním designu](https://www.facebook.com/events/189806429012221/)"
   status: online-only
 
@@ -333,7 +333,7 @@
 
 - name: "[Oktane](https://www.oktane20.com/)"
   status: changed to a virtual event
-  
+
 - name: "[Onspring Connect](https://onspring.com/connect/updatefaq/)"
   status: postponed until Aug. 10-12
 
@@ -434,7 +434,7 @@
   status: cancelled
 
 - name: "[Southern Data Science Conference](https://www.southerndatascience.com/covid19)"
-  status: Postponed until August 12-14  
+  status: Postponed until August 12-14
 
 - name: "[SQLBits](https://sqlbits.com/)"
   status: Postponed until September
@@ -507,4 +507,9 @@
 
 - name: "[WWDC20](https://developer.apple.com/news/?id=03132020a)"
   status: online-only
- 
+
+- name: "[Montclair Film Festival](https://www.hollywoodreporter.com/news/colbert-supported-montclair-film-fest-delayed-coronavirus-fears-1284241)"
+  status: postponed to 2021
+
+- name: "[Nickelodeon’s Kids’ Choice Awards](https://www.hollywoodreporter.com/news/nickelodeon-s-kids-choice-awards-postponed-due-coronavirus-concerns-1284167)"
+  status: postponed, date to be announced later
