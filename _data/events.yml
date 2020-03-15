@@ -418,6 +418,9 @@
 - name: "[Security Analyst Summit](https://twitter.com/TheSAScon/status/1234911915773583361)"
   status: cancelled
 
+- name: "[SF Stupid Shit No One Needs And Terrible Ideas Hackathon](https://discuss.noisebridge.info/t/stupid-hackathon-postponed-to-june/1555)"
+  status: Postponed until June 27
+
 - name: "[Shopify Pursuit (Melbourne and Mexico)](https://pursuit.shopify.com/)"
   status: postponed, no date given
 
