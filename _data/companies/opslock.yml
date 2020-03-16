@@ -1,7 +1,7 @@
 ---
 name: Opslock
-wfh: Strongly Encouraged
-travel: Discouraged
-visitors: Discouraged
-events: Discouraged
-last_update: 2020-03-15
+wfh: Required
+travel: Required
+visitors: Required
+events: Required
+last_update: 2020-03-16
