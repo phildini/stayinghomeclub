@@ -1,7 +1,7 @@
 ---
-name: Dell-EMC
-wfh: Allowed
+name: Dell EMC
+wfh: Required, if role allows to
 travel: Restricted
 visitors: Restricted
 events: Restricted
-last_update: 2020-03-02
+last_update: 2020-03-16
