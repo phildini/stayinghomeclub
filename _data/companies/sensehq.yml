@@ -1,6 +1,6 @@
 name: Sense HQ
-wfh: Strongly Encouraged
-travel: Discouraged
+wfh: Required
+travel: Required
 visitors: Restricted
-events: Discouraged
+events: Restricted
 last_update: 2020-03-16
