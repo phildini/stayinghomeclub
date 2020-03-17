@@ -513,3 +513,6 @@
 
 - name: "[Nickelodeon’s Kids’ Choice Awards](https://www.hollywoodreporter.com/news/nickelodeon-s-kids-choice-awards-postponed-due-coronavirus-concerns-1284167)"
   status: postponed, date to be announced later
+
+- name: "[BSides Ljubljana](https://bsidesljubljana.si)"
+  status: postponed to Autumn, date to be announced later
