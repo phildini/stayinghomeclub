@@ -205,6 +205,12 @@
 - name: "[Formula 1 Vietnam Grand Prix](https://www.formula1.com/en/latest/article.f1-and-coronavirus-what-do-we-know-so-far.5hlhF1oeT6rJbfbUpPMrqI.html)"
   status: postponed
 
+- name: "[Formula 1 Chinese Grand Prix](https://www.formula1.com/en/latest/article.chinese-grand-prix-postponed-due-to-coronavirus-outbreak.3g2y5Ngyrk1MbNxQB9hj4s.html)"
+  status: postponed
+  
+- name: "[Formula 1 Joburg Festival, South Africa](https://www.formula1.com/en/latest/article.f1-joburg-festival-postponed-as-covid-19-precaution.wzjqLLeKvjgDSZMOr4thK.html)"
+  status: postponed
+
 - name: "[Game Developers Conference (GDC)](https://www.gdconf.com/news/important-gdc-2020-update)"
   status: postponed
 
