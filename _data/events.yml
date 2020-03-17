@@ -157,6 +157,9 @@
 - name: "[Emerald City Comic Con (ECCC)](https://www.emeraldcitycomiccon.com/About/A-Statement-From-Reedpop/)"
   status: Rescheduled for August 21st-23rd
 
+- name: "[EuroPython 2020](http://blog.europython.eu/post/612826526375919616/europython-2020-going-virtual-europython-2021)"
+  status: moving to virtual event
+
 - name: "[EVE Online Fanfest](https://www.eveonline.com/article/q6f8js/eve-fanfest-2020-canceled)"
   status: canceled
 
