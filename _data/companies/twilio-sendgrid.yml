@@ -1,6 +1,6 @@
 ---
 name: Twilio SendGrid
-wfh: Restricted
+wfh: Required
 travel: Restricted
 visitors: Restricted
 events: Restricted
