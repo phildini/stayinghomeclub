@@ -199,6 +199,12 @@
 - name: "[Formula 1 Australian Grand Prix](https://grandprix.com.au/fan-zone/news/statement-regarding-formula-1-australian-grand-prix)"
   status: cancelled
 
+- name: "[Formula 1 Bahrain Grand Prix](https://www.formula1.com/en/latest/article.f1-and-coronavirus-what-do-we-know-so-far.5hlhF1oeT6rJbfbUpPMrqI.html)"
+  status: postponed
+  
+- name: "[Formula 1 Vietnam Grand Prix](https://www.formula1.com/en/latest/article.f1-and-coronavirus-what-do-we-know-so-far.5hlhF1oeT6rJbfbUpPMrqI.html)"
+  status: postponed
+
 - name: "[Game Developers Conference (GDC)](https://www.gdconf.com/news/important-gdc-2020-update)"
   status: postponed
 
