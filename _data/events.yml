@@ -124,6 +124,9 @@
 - name: "[Digital Animal Summit 2020](https://www.digitalanimalsummit.com/)"
   status: postponed
 
+- name: "[DjangoCon Europe 2020](https://2020.djangocon.eu/information/covid-19/)"
+  status: postponed to September
+
 - name: "[DocuSign Momentum - San Francisco](https://momentum.docusign.com/faq)"
   status: online-only
 
