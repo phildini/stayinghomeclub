@@ -403,6 +403,9 @@
 - name: "[RailsConf2020](https://railsconf.com/)"
   status: cancelled
 
+- name: "[React Sydney meetup](https://twitter.com/reactsydney/status/1238009146621833216)"
+  status: postponed
+
 - name: "[Red Hat Summit](https://www.redhat.com/en/summit)"
   status: moving to virtual event
 
