@@ -124,6 +124,9 @@
 - name: "[Digital Animal Summit 2020](https://www.digitalanimalsummit.com/)"
   status: postponed
 
+- name: "[DjangoCon Europe 2020](https://2020.djangocon.eu/information/covid-19/)"
+  status: postponed to September
+
 - name: "[DocuSign Momentum - San Francisco](https://momentum.docusign.com/faq)"
   status: online-only
 
@@ -156,6 +159,9 @@
 
 - name: "[Emerald City Comic Con (ECCC)](https://www.emeraldcitycomiccon.com/About/A-Statement-From-Reedpop/)"
   status: Rescheduled for August 21st-23rd
+
+- name: "[EuroPython 2020](http://blog.europython.eu/post/612826526375919616/europython-2020-going-virtual-europython-2021)"
+  status: moving to virtual event
 
 - name: "[EVE Online Fanfest](https://www.eveonline.com/article/q6f8js/eve-fanfest-2020-canceled)"
   status: canceled
@@ -195,6 +201,21 @@
 
 - name: "[Flink Forward (Apache Flink)](https://www.flink-forward.org/sf-2020)"
   status: cancelled, considering moving to virtual
+
+- name: "[Formula 1 Australian Grand Prix](https://grandprix.com.au/fan-zone/news/statement-regarding-formula-1-australian-grand-prix)"
+  status: cancelled
+
+- name: "[Formula 1 Bahrain Grand Prix](https://www.formula1.com/en/latest/article.f1-and-coronavirus-what-do-we-know-so-far.5hlhF1oeT6rJbfbUpPMrqI.html)"
+  status: postponed
+  
+- name: "[Formula 1 Vietnam Grand Prix](https://www.formula1.com/en/latest/article.f1-and-coronavirus-what-do-we-know-so-far.5hlhF1oeT6rJbfbUpPMrqI.html)"
+  status: postponed
+
+- name: "[Formula 1 Chinese Grand Prix](https://www.formula1.com/en/latest/article.chinese-grand-prix-postponed-due-to-coronavirus-outbreak.3g2y5Ngyrk1MbNxQB9hj4s.html)"
+  status: postponed
+  
+- name: "[Formula 1 Joburg Festival, South Africa](https://www.formula1.com/en/latest/article.f1-joburg-festival-postponed-as-covid-19-precaution.wzjqLLeKvjgDSZMOr4thK.html)"
+  status: postponed
 
 - name: "[Game Developers Conference (GDC)](https://www.gdconf.com/news/important-gdc-2020-update)"
   status: postponed
@@ -391,6 +412,9 @@
 - name: "[Red Team Summit](https://www.zdnet.com/article/a-list-of-security-conferences-canceled-or-postponed-due-to-coronavirus-concerns/)"
   status: postponed until June 11-12
 
+- name: "[Revision Demoparty 2020](https://2020.revision-party.net/cancellation)"
+  status: moving to virtual event
+
 - name: "[Rocket League World Championship](https://www.rocketleague.com/news/important-rocket-league-esports-update/)"
   status: cancelled
 
@@ -513,3 +537,6 @@
 
 - name: "[Nickelodeon’s Kids’ Choice Awards](https://www.hollywoodreporter.com/news/nickelodeon-s-kids-choice-awards-postponed-due-coronavirus-concerns-1284167)"
   status: postponed, date to be announced later
+
+- name: "[BSides Ljubljana](https://bsidesljubljana.si)"
+  status: postponed to Autumn, date to be announced later
