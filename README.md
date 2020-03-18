@@ -29,7 +29,7 @@ You will need a Github account.
    hit the "Edit" button.
 
 1. Give the file a name, something like `google.yml` or `envato.yml`
-   or `ing.yml`, no fancy characters, and be sure to end it with
+   or `ing.yml`, no fancy characters, _all lower case characters_, and be sure to end it with
    **.yml**. Add the details about your company in this format:
 
       ```yaml
