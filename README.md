@@ -28,8 +28,8 @@ You will need a Github account.
    Or, if you're just updating an existing entry, click on it, then
    hit the "Edit" button.
 
-1. Give the file a name, something like `google.yml` or `envato.yml`
-   or `ing.yml`, no fancy characters, and be sure to end it with
+1. Give the file a name, something like `google.yml` or `envato.yml` or `my-awesome-company.yml`
+   or `ing.yml`, no fancy or uppercase characters, and be sure to end it with
    **.yml**. Add the details about your company in this format:
 
       ```yaml
