@@ -217,8 +217,8 @@
 - name: "[Google Cloud Next](https://cloud.withgoogle.com/next/sf/)"
   status: online-only
 
-- name: "[Google I/O](https://events.google.com/io/)"
-  status: online-only
+- name: "[Google I/O](https://mobile.twitter.com/googledevs/status/1241077131993427968)"
+  status: cancelled
 
 - name: "[Google News Initiative Summit](http://socialbarrel.com/google-cancels-its-two-day-global-news-initiative-summit-over-coronavirus/123795/)"
   status: cancelled
