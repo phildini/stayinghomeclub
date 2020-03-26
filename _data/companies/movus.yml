@@ -1,6 +1,6 @@
 name: MOVUS
-wfh: Required
-travel: Restricted
+wfh: Required (permission required to NOT work from home)
+travel: Banned
 visitors: Banned
 events: Banned
-last_update: 2020-03-16
+last_update: 2020-03-26
