@@ -1,5 +1,5 @@
 name: MOVUS
-wfh: Required (permission required to NOT work from home)
+wfh: Required unless permission given otherwise
 travel: Banned
 visitors: Banned
 events: Banned
