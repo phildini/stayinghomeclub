@@ -229,6 +229,9 @@
 - name: "[Google Tensorflow Dev Summit](https://www.tensorflow.org/dev-summit/)"
   status: online-only
 
+- name: "[Hannover Messe Hannover](https://www.hannovermesse.de/en/)"
+  status: cencelled
+
 - name: "[HIMSS Global Health Conference & Exhibition](https://www.himssconference.org/updates/himss-update-coronavirus)"
   status: online-only
 
