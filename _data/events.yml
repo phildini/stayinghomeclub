@@ -229,6 +229,9 @@
 - name: "[Google Tensorflow Dev Summit](https://www.tensorflow.org/dev-summit/)"
   status: online-only
 
+- name: "[Hannover Messe Hannover](https://www.hannovermesse.de/en/news/news-articles/no-hannover-messe-in-2020)"
+  status: cancelled
+
 - name: "[HIMSS Global Health Conference & Exhibition](https://www.himssconference.org/updates/himss-update-coronavirus)"
   status: online-only
 
