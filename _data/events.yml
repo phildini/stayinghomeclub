@@ -388,6 +388,9 @@
 - name: "[PyCon Italia](https://pycon.it/en/blog/pycon-11-postponed-to-november)"
   status: moved to November
 
+- name: "[PyCon KR](https://twitter.com/PyConKR/status/1245249954374811649)"
+  status: online
+
 - name: "[PyCon SK](https://2020.pycon.sk/en/news.html)"
   status: moved to September
 
