@@ -10,8 +10,7 @@ phildini@phildini.net.  View the live website here:
 
 ## How do I add my company?
 
-The short version is: the website is generated from the
-[`companies.yml`](_data/companies.yml) file.  Add the details of your
+The short version is: the website is generated from files [in the `_data` directory](https://github.com/phildini/stayinghomeclub/tree/master/_data/).  Add the details of your
 company by mimicking what others have done, and create a PR.  If
 you're not familiar with Git or Pull Requests, here are the steps.
 You will need a Github account.
@@ -29,8 +28,8 @@ You will need a Github account.
    Or, if you're just updating an existing entry, click on it, then
    hit the "Edit" button.
 
-1. Give the file a name, something like `google.yml` or `envato.yml`
-   or `ing.yml`, no fancy characters, and be sure to end it with
+1. Give the file a name, something like `google.yml` or `envato.yml` or `my-awesome-company.yml`
+   or `ing.yml`, no fancy or uppercase characters, and be sure to end it with
    **.yml**. Add the details about your company in this format:
 
       ```yaml

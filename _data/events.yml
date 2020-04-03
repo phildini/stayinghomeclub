@@ -97,6 +97,9 @@
 - name: "[Collision](https://collisionconf.com/)"
   status: moving to virtual event
 
+- name: "[COMPUTEX Taipei 2020](https://www.computextaipei.com.tw/en_US/news/info.html?id=E615059E0DC04F10)"
+  status: rescheduled to September 28-30
+
 - name: "[Crestron Masters 2020](https://www.crestron.com/Training-Events/Masters-2020)"
   status: postponed
 
@@ -123,6 +126,9 @@
 
 - name: "[Digital Animal Summit 2020](https://www.digitalanimalsummit.com/)"
   status: postponed
+
+- name: "[DjangoCon Europe 2020](https://2020.djangocon.eu/information/covid-19/)"
+  status: postponed to September
 
 - name: "[DocuSign Momentum - San Francisco](https://momentum.docusign.com/faq)"
   status: online-only
@@ -156,6 +162,9 @@
 
 - name: "[Emerald City Comic Con (ECCC)](https://www.emeraldcitycomiccon.com/About/A-Statement-From-Reedpop/)"
   status: Rescheduled for August 21st-23rd
+
+- name: "[EuroPython 2020](http://blog.europython.eu/post/612826526375919616/europython-2020-going-virtual-europython-2021)"
+  status: moving to virtual event
 
 - name: "[EVE Online Fanfest](https://www.eveonline.com/article/q6f8js/eve-fanfest-2020-canceled)"
   status: canceled
@@ -196,6 +205,12 @@
 - name: "[Flink Forward (Apache Flink)](https://www.flink-forward.org/sf-2020)"
   status: cancelled, considering moving to virtual
 
+- name: "[Formula 1](https://www.bbc.com/sport/formula1/51964883)"
+  status: All races through Monaco GP postponed (tentative season start is Azerbaijan in June)
+  
+- name: "[Formula 1 Joburg Festival, South Africa](https://www.formula1.com/en/latest/article.f1-joburg-festival-postponed-as-covid-19-precaution.wzjqLLeKvjgDSZMOr4thK.html)"
+  status: postponed
+
 - name: "[Game Developers Conference (GDC)](https://www.gdconf.com/news/important-gdc-2020-update)"
   status: postponed
 
@@ -205,14 +220,17 @@
 - name: "[Google Cloud Next](https://cloud.withgoogle.com/next/sf/)"
   status: online-only
 
-- name: "[Google I/O](https://events.google.com/io/)"
-  status: online-only
+- name: "[Google I/O](https://mobile.twitter.com/googledevs/status/1241077131993427968)"
+  status: cancelled
 
 - name: "[Google News Initiative Summit](http://socialbarrel.com/google-cancels-its-two-day-global-news-initiative-summit-over-coronavirus/123795/)"
   status: cancelled
 
 - name: "[Google Tensorflow Dev Summit](https://www.tensorflow.org/dev-summit/)"
   status: online-only
+
+- name: "[Hannover Messe Hannover](https://www.hannovermesse.de/en/news/news-articles/no-hannover-messe-in-2020)"
+  status: cancelled
 
 - name: "[HIMSS Global Health Conference & Exhibition](https://www.himssconference.org/updates/himss-update-coronavirus)"
   status: online-only
@@ -370,8 +388,17 @@
 - name: "[PyCon Italia](https://pycon.it/en/blog/pycon-11-postponed-to-november)"
   status: moved to November
 
+- name: "[PyCon KR](https://twitter.com/PyConKR/status/1245249954374811649)"
+  status: online
+
 - name: "[PyCon SK](https://2020.pycon.sk/en/news.html)"
   status: moved to September
+
+- name: "[PyCon US](https://pycon.blogspot.com/2020/03/pycon-us-2020-in-pittsburgh.html)"
+  status: cancelled with some online components
+
+- name: "[PyOhio](https://twitter.com/PyOhio/status/1245397709965733890)"
+  status: in-person event cancelled, evaluating online options
 
 - name: "[Qt World Summit](https://www.qt.io/qtws20)"
   status: postponed to October 2020
@@ -382,6 +409,9 @@
 - name: "[RailsConf2020](https://railsconf.com/)"
   status: cancelled
 
+- name: "[React Sydney meetup](https://twitter.com/reactsydney/status/1238009146621833216)"
+  status: postponed
+
 - name: "[Red Hat Summit](https://www.redhat.com/en/summit)"
   status: moving to virtual event
 
@@ -390,6 +420,9 @@
 
 - name: "[Red Team Summit](https://www.zdnet.com/article/a-list-of-security-conferences-canceled-or-postponed-due-to-coronavirus-concerns/)"
   status: postponed until June 11-12
+
+- name: "[Revision Demoparty 2020](https://2020.revision-party.net/cancellation)"
+  status: moving to virtual event
 
 - name: "[Rocket League World Championship](https://www.rocketleague.com/news/important-rocket-league-esports-update/)"
   status: cancelled
@@ -513,3 +546,9 @@
 
 - name: "[Nickelodeon’s Kids’ Choice Awards](https://www.hollywoodreporter.com/news/nickelodeon-s-kids-choice-awards-postponed-due-coronavirus-concerns-1284167)"
   status: postponed, date to be announced later
+
+- name: "[BSides Ljubljana](https://bsidesljubljana.si)"
+  status: postponed to Autumn, date to be announced later
+  
+- name: "[Latitude59, Estonia](https://latitude59.ee/l59-update-on-covid-19/)"
+  status: rescheduled, from mid-May to August 27 and 28
