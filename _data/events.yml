@@ -385,6 +385,12 @@
 - name: "[Pwn2Own CansSecWest](https://www.thezdi.com/blog/2020/3/3/announcing-remote-participation-in-pwn2own-vancouver)"
   status: optional remote participation (can attend, or have people on site execute commands/actions ie. on-site not required to participate)
 
+- name: "[PyCon Africa](https://twitter.com/pyconafrica/status/1247585011429146635)"
+  status: moved to virtual event
+
+- name: "[PyCon Australia](https://twitter.com/PyConAU/status/1247780684594208769)"
+  status: moved to virtual event
+
 - name: "[PyCon Italia](https://pycon.it/en/blog/pycon-11-postponed-to-november)"
   status: moved to November
 
