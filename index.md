@@ -1,5 +1,25 @@
 # Who's staying home because of COVID-19?
 
+## Update 2020-04-12
+At this point, the balance has shifted such that we assume everyone in tech is staying home. We will still accept PRs, of course. We will also start updating with companies returning to work as soon as we hear about that happening.
+
+## If you want more resources on how to adapt and help with COVID-19...
+
+... these are a good starting point: 
+
+- <a href="https://coronavirustechhandbook.com/home">Coronavirus Tech Handbook</a>
+- <a href="https://helpwithcovid.com/">Help with COVID</a>
+- <a href="https://www.endcoronavirus.org/">End Coronavirus</a>
+
+## If you are suddenly unemployed and looking for work...
+
+... check out these sites
+
+- <a href="https://candor.co/hiring-freezes/">Who's changing hiring from Coronavirus</a>
+- <a href="https://coda.io/@kenny/companies-still-hiring">Companies still hiring</a>
+
+## The Staying Home Club
+
 This is the running list of what in tech has been affected by COVID-19. Pull requests gratefully accepted, especially around design or data formatting or correctness. If you are a journalist and would like to speak to someone about the list, email phildini@phildini.net. <a href="https://github.com/phildini/stayinghomeclub/blob/master/README.md">Instructions for contributing are here</a>.
 
 ---
