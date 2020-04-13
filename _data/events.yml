@@ -400,6 +400,9 @@
 - name: "[PyCon SK](https://2020.pycon.sk/en/news.html)"
   status: moved to September
 
+- name: "[PyCon UK](https://twitter.com/PyConUK/status/1249351345003528192)"
+  status: cancelled
+
 - name: "[PyCon US](https://pycon.blogspot.com/2020/03/pycon-us-2020-in-pittsburgh.html)"
   status: cancelled with some online components
 
