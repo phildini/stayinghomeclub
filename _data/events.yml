@@ -64,14 +64,8 @@
 - name: "[BountyCon](https://www.facebook.com/notes/facebook-bug-bounty/an-update-on-bountycon/3278348118846058/)"
   status: postponed
 
-- name: "[BSides Charm](https://www.bsidescharm.org/health/)"
-  status: optional remote speaker options, no international speakers but event will happen
-
-- name: "[BSides Liverpool](https://twitter.com/BsidesLivrpool/status/1235988839623266304)"
-  status: postponed until later this year
-
-- name: "[BSides Orlando](https://twitter.com/BsidesORL/status/1237724082206052354)"
-  status: postponed
+- name: "[BSides (numerous events)](http://www.securitybsides.com/w/page/138916146/Coronavirus%20COVID-19%20Resource%20Page)"
+  status: postponed or virtual-only; check the list for up-to-date info
 
 - name: "[California Association for Behavior Analysis Conference](https://calaba.org/conference)"
   status: cancelled
