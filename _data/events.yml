@@ -439,6 +439,9 @@
 - name: "[Salesforce World Tour Sydney](https://www.salesforce.com/au/events/worldtour/syd20/overview/)"
   status: in-person canceled; online-only event
 
+- name: "[San Diego Comic Con 2020](https://io9.gizmodo.com/san-diego-comic-con-2020-is-canceled-1842922379)"
+  status: cancelled
+
 - name: "[SAP Ariba LIVE](https://twitter.com/SAPAriba/status/1235043870250958854?s=20)"
   status: cancelled
 
