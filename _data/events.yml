@@ -247,6 +247,9 @@
 - name: "[IETF 107](https://www.ietf.org/blog/ietf107-in-person-cancelled/)"
   status: in-person meeting cancelled
 
+- name: "[IFA 2020](https://www.theverge.com/2020/4/21/21230177/ifa-2020-coronavirus-berlin-germany-covid-19-pandemic)"
+  status: in-person event cancelled
+
 - name: "[Ingram Micro Cloud Summit 2020](https://www.ingrammicrocloud.com/press-releases/ingram-micro-cloud-postpones-cloud-summit-2020-early-2021/)"
   status: postponed until early 2021
 
