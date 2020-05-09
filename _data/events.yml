@@ -253,8 +253,8 @@
 - name: "[Ingram Micro Cloud Summit 2020](https://www.ingrammicrocloud.com/press-releases/ingram-micro-cloud-postpones-cloud-summit-2020-early-2021/)"
   status: postponed until early 2021
 
-- name: "[International Conference on Software Engineering (ICSE)](https://conf.researchr.org/home/icse-2020)"
-  status: postponed to October
+- name: "[International Conference on Software Engineering (ICSE)](https://2020.icse-conferences.org/getImage/orig/ICSE-2020-Virtualized.pdf)"
+  status: going virtual: July 6-11, 2020
 
 - name: "[Internet Freedom Festival](https://internetfreedomfestival.org/wiki/index.php/Cancellation_of_the_2020_Internet_Freedom_Festival)"
   status: cancelled
